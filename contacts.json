@@ -3253,19 +3253,31 @@
       "sector": "Real Estate",
       "existing_reg_email": "myhomeinfrastructurespvtltd@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sivaram D V",
+        "designation": "Chief Financial Officer, My Home Group (CFO of group entities incl. My Home Industries Pvt Ltd / My Home Holdings Pvt Ltd)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "info@myhomeinfrastructures.com; My Home Group HQ landline +91-40-6700 0000 (My Home Hub, Hi-Tech City, Madhapur, Hyderabad)",
+        "confidence": "medium",
+        "source": "LinkedIn profile (CFO, My Home Holdings/My Home Industries Pvt Ltd), corroborated by ZoomInfo and RocketReach; company registered email from ZaubaCorp/IndiaFilings/D&B listings",
+        "notes": "My Home Group runs centralized finance across real estate/cement/infra arms from same Hyderabad HQ. Sivaram D V confirmed as CFO of Group/Industries & Holdings entities, but no source explicitly names him CFO of 'My Home Infrastructures Pvt Ltd' specifically - likely-but-unconfirmed for this exact entity. No NCD/debenture trustee filing found for this entity.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": null,
+          "designation": "Registered company email (generic)",
+          "mobile": null,
+          "email": "info@myhomeinfrastructures.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "Corporate registry aggregator listings (ZaubaCorp/IndiaFilings)",
+          "notes": "Generic company inbox, differs from existing hint email - could not verify which is currently monitored.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 88,
@@ -3274,19 +3286,31 @@
       "sector": null,
       "existing_reg_email": "nsk.com.pcs@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Arvind Kumar Talan",
+        "designation": "Chief Financial Officer (CFO), EESL",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "helpline@eesl.co.in; EESL Noida office phone 0120-6541600; toll-free 09240268676",
+        "confidence": "high",
+        "source": "PSUWatch, APAC News Network (2 articles), LinkedIn, ZoomInfo listing confirming @eesl.co.in domain and CFO title",
+        "notes": "Appointed CFO of EESL 20 June 2024; CA with ~25 years experience. Multiple sources agree on identity, but no verified direct email/mobile found - masked on ZoomInfo/RocketReach, not reproduced. General helpline/RTI contact offered as fallback only.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sanjiv Garg",
+          "designation": "Director (part-time, nominee), EESL / Executive Director (Finance), REC Limited",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "EESL board of directors page (eeslindia.org)",
+          "notes": "Part-time nominee director (REC is one of EESL's PSU JV parents), not a full-time EESL finance executive - lower priority than CFO.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 89,
@@ -3295,19 +3319,42 @@
       "sector": "Others",
       "existing_reg_email": "amit.jangid@raymond.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rakesh Tiwary",
+        "designation": "Group Chief Financial Officer, Raymond Limited (parent/promoter group of the former Ring Plus Aqua Ltd.)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "corp.secretarial@raymond.in; Raymond Limited registered office (Thane) phone +91-22-6152 7000",
+        "confidence": "high",
+        "source": "Multiple corroborating news reports (exchange4media, storyboard18, mediabrief, rprealtyplus, themachinemaker) confirming Rakesh Tiwary's appointment as Raymond's Group CFO effective 3 Dec 2025; CARE Ratings rationale PDF confirming Ring Plus Aqua as a Raymond step-down subsidiary",
+        "notes": "IMPORTANT: Ring Plus Aqua Limited was legally amalgamated per NCLT (Mumbai) order dated 4 July 2025, merged into JK Maini Precision Technology Limited, and ceased to exist as a separate legal entity. Not a live NCD issuer to contact directly. Could not verify direct personal email/phone for Rakesh Tiwary. Existing hint contact amit.jangid@raymond.in could not be corroborated to a specific named person.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sridhar Venkatachari (V. Sridhar / Sridhar V)",
+          "designation": "Chief Financial Officer, Maini Precision Products Ltd (Raymond-Maini JV entity now housing the former Ring Plus Aqua auto-components business)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "RocketReach and ZoomInfo listing CFO title at Maini Precision Products; LinkedIn profile; corroborated by ZaubaCorp director listing for Maini Precision Products Limited",
+          "notes": "Name-matching across sources is inferred, not explicitly confirmed as same individual by single primary source. More operationally relevant finance contact for the actual precision-engineering/auto-components business that was Ring Plus Aqua.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": null,
+          "designation": "Company Secretary / Investor Relations desk, Raymond Limited group",
+          "mobile": null,
+          "email": "corp.secretarial@raymond.in",
+          "fallback": "+91-22-6152 7000 (Raymond Ltd registered office, Thane West)",
+          "confidence": "low",
+          "source": "Search results referencing Raymond Lifestyle/Realty investor contact pages sharing Raymond Limited secretarial infrastructure",
+          "notes": "Generic group secretarial/IR desk fallback, not person-specific; safe last-resort contact given issuer entity is merged out of existence.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 90,
@@ -3316,19 +3363,31 @@
       "sector": null,
       "existing_reg_email": "krishna.ghag@ilfsindia.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Milind Gandhi",
+        "designation": "Chief Financial Officer, IL&FS Transportation Networks Ltd. (ITNL) / Roadstar Investment Managers Ltd. (Investment Manager of Roadstar Infra Investment Trust, sponsor of this SPV); also a Director on the board of Moradabad Bareilly Expressway Ltd. itself",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "itnl.secretarial@ilfsindia.com (ITNL group secretarial contact); Roadstar Investment Managers Ltd. general line: 022-2653 3333 / riml@roadstarinfra.com",
+        "confidence": "high",
+        "source": "Business Standard (ITNL CFO appointment, Milind Gandhi effective Oct 2022); Roadstar Infra Investment Trust team/bio page describing him as CFO of the Investment Manager since Feb 2020; ZaubaCorp/Tofler director listing naming Milind Ramesh Gandhi as director",
+        "notes": "This is an IL&FS Group toll-road SPV; day-to-day finance is run centrally by ITNL/Roadstar Investment Managers rather than a dedicated on-site CFO. No direct personal email/mobile found in public sources - only group secretarial/IR desk contacts.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Krishna Ghag",
+          "designation": "Vice President & Company Secretary, IL&FS Transportation Networks Ltd.",
+          "mobile": null,
+          "email": "krishna.ghag@ilfsindia.com",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "SEBI/BSE corporate filings and ITNL company filings (Feb 2025) listing Krishna Ghag, FCS 4489, as VP & Company Secretary",
+          "notes": "Confirms the existing hint email is a real, current KMP position (Company Secretary), a valid finance/debt-related contact even though not CFO/Treasury.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 91,
@@ -3337,19 +3396,31 @@
       "sector": null,
       "existing_reg_email": "aditya.arora@conscient.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Aditya Arora",
+        "designation": "Senior Vice President - Finance & Strategy, Conscient Group (parent/flagship of Heritage Max Realtech Pvt. Ltd.)",
         "mobile": null,
-        "email": null,
+        "email": "aditya.arora@conscient.in",
         "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "confidence": "high",
+        "source": "RocketReach, Apollo.io, and LinkedIn all independently list Aditya Arora as Conscient Group Senior VP - Finance and Strategy",
+        "notes": "Confirms existing hint contact is a genuine, current senior finance leader (CA, ex-EY) at group level covering Heritage Max Realtech. No dedicated standalone CFO found for this SPV itself.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ankur Gupta",
+          "designation": "Company Secretary (KMP) and Director, Heritage Max Realtech Pvt. Ltd.",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "MCA-sourced corporate registries (ZaubaCorp, TheCompanyCheck, Tofler) listing Ankur Gupta as Company Secretary, appointed 24 Feb 2023",
+          "notes": "Role confirmed via corporate-registry aggregators, not an official company/LinkedIn source; no contact email/phone found.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 92,
@@ -3358,19 +3429,31 @@
       "sector": "Services",
       "existing_reg_email": "hcpant@bsnl.co.in",
       "existing_phone": "91-11-23717844",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rajiv Kumar",
+        "designation": "Director (Finance) & Chief Financial Officer, BSNL",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "dirfin@bsnl.co.in",
+        "fallback": "BSNL Corporate Office landline: 011-23714141 (Director Finance office); general: +91-11-23713333",
+        "confidence": "high",
+        "source": "Official BSNL website board_of_directors page profiling Rajiv Kumar as Director-(Finance); ACC approval news extending additional charge as MTNL Director Finance from 1 Dec 2025; multiple LinkedIn profiles and ZoomInfo listing 'Director Finance & CFO at BSNL'",
+        "notes": "Rajiv Kumar assumed charge as Director (Finance) & CFO, BSNL on 01.12.2022, current as of most recent 2025-dated appointment news. dirfin@bsnl.co.in is a role-based official email per standard BSNL convention, tied specifically to this office.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "H. C. Pant (existing hint contact)",
+          "designation": "Unverified - appears in 2020-era BSNL/MTNL merger coordination correspondence; current role could not be confirmed",
+          "mobile": "91-11-23717844",
+          "email": "hcpant@bsnl.co.in",
+          "fallback": null,
+          "confidence": "low",
+          "source": "Search snippet referencing 2020 MTNL-BSNL merger coordination document",
+          "notes": "Could not verify whether still holds a finance role at BSNL as of 2026; treat as stale/unconfirmed, prefer verified Director (Finance) contact above.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 93,
@@ -3379,19 +3462,31 @@
       "sector": "Diversified",
       "existing_reg_email": "feedback@greenstar.net.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Namrata Aasi",
+        "designation": "Company Secretary & Compliance Officer",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "compsec@greenstar.net.in",
+        "fallback": "feedback@greenstar.net.in; Registered office: SPIC House, No. 88, Mount Road, Guindy, Chennai 600032",
+        "confidence": "medium",
+        "source": "Aggregated from company AGM notice via search-engine indexing, corroborated by ZaubaCorp/company director listings and RocketReach",
+        "notes": "No named CFO identified for this unlisted company despite multiple searches. Namrata Aasi's LinkedIn/RocketReach shows current affiliation as SPIC (related group company), raising doubt whether still active CS at Greenstar specifically - hence medium not high confidence.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Manish Nagpal",
+          "designation": "Director (Non-Executive) - CA, structured trade/corporate finance background",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "greenstarfertilizers.com board page (via search index), AM International team page",
+          "notes": "Independent director with finance background, not a finance-executive title at Greenstar. No contact details found.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 94,
@@ -3400,19 +3495,42 @@
       "sector": "Manufacturing",
       "existing_reg_email": "gayatrishakti@vsnl.net",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sameer Satish Negandhi",
+        "designation": "Company Secretary & Director",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "sameer@gspbl.com",
+        "fallback": "gayatrishakti@vsnl.net (old domain, unverified as active); registered office Andheri West, Mumbai",
+        "confidence": "medium",
+        "source": "ZoomInfo, RocketReach, LinkedIn (in.linkedin.com/in/sameer-negandhi-a7410314), company contact-page indexing",
+        "notes": "Email follows firstname@domain pattern matching search-indexed contact but not independently verified on live page. No separate named CFO found for this company.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Kishan Varun",
+          "designation": "Assistant Manager, Accounts & Finance",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "ZoomInfo",
+          "notes": "Junior finance-team contact, not decision-maker level. Email shown masked, left null.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Shailendrakumar Singh",
+          "designation": "Assistant Vice President (CA by qualification, department not confirmed)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "ZoomInfo, RocketReach",
+          "notes": "Possible senior finance-adjacent role, but not confirmed. Weak/speculative lead only.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 95,
@@ -3421,19 +3539,31 @@
       "sector": "Manufacturing",
       "existing_reg_email": "soundar@sagarcements.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "K. Prasad (Kolluru Prasad)",
+        "designation": "Chief Financial Officer",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "prasadk@sagarcements.in",
+        "fallback": "investors@sagarcements.in; Tel: 040-23351571",
+        "confidence": "high",
+        "source": "sagarcements.in/investors/contact page (via search-engine indexing), LinkedIn (self-identifies as CFO), ZoomInfo, RocketReach, Bloomberg Markets profile - 4+ independent sources agree",
+        "notes": "Qualified CA. Email/phone match company official domain/format, corroborated across 4+ sources. No personal mobile found.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Dr. S. Anand Reddy",
+          "designation": "Managing Director",
+          "mobile": null,
+          "email": "anand@sagarcements.in",
+          "fallback": "Tel: 040-23351571",
+          "confidence": "medium",
+          "source": "sagarcements.in/investors/contact page (via search-engine indexing)",
+          "notes": "Not a finance-title role, but MD is ultimate approver for large corporate/debt decisions, listed alongside CFO on same official page.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 96,
@@ -3442,19 +3572,42 @@
       "sector": null,
       "existing_reg_email": "ezhil.arasan@straive.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Kuppusamy Ezhil Arasan",
+        "designation": "Director & CFO, SPI Technologies India Pvt Ltd (Straive group entity)",
         "mobile": null,
-        "email": null,
+        "email": "ezhil.arasan@straive.com",
         "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "confidence": "high",
+        "source": "Company's own leadership page (spitechindia.com/about-us/leadership) lists him as Director & CFO; corroborated by MCA-based director records (mycorporateinfo.com, appointed 04-09-2012) and ZaubaCorp/Tofler director listings",
+        "notes": "Same email already on file, now corroborated as belonging to the company's Director/CFO. No direct mobile number found publicly.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Kumar Subramaniam",
+          "designation": "Director; Group CFO (now styled Chief Risk Officer & Head of Corporate Development) at Straive, parent group",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "TheOrg, TheOfficialBoard Straive bio page, RocketReach masked profile, LinkedIn",
+          "notes": "Group-level finance contact and listed director of this entity, email only visible masked, not reproduced.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Stuti Mathur",
+          "designation": "Company Secretary & Compliance Officer (appointed 3 Sep 2020)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "Tofler company profile",
+          "notes": "Named from public MCA-derived filings aggregator; no contact details found.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 97,
@@ -3463,19 +3616,31 @@
       "sector": "Services",
       "existing_reg_email": "isil@indiumsoft.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Vaibhav Goyal",
+        "designation": "Chief Financial Officer, Indium (rebranded from Indium Software in 2026)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "isil@indiumsoft.com; accounts.helpdesk@indiumsoft.com",
+        "confidence": "medium",
+        "source": "LinkedIn, ZoomInfo, RocketReach and EasyLeadz profiles listing him as CFO at Indium, appointed circa May 2025",
+        "notes": "Name and CFO title corroborated across LinkedIn plus multiple aggregators. Personal email appears only masked with inconsistent domains across sources - left null rather than guessed.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": null,
+          "designation": "Generic company/registrar mailbox (ISIL = Indium Software India Ltd)",
+          "mobile": null,
+          "email": "isil@indiumsoft.com",
+          "fallback": "accounts.helpdesk@indiumsoft.com",
+          "confidence": "low",
+          "source": "Existing registered contact provided in source data; domain confirmed live via separate public listing",
+          "notes": "Generic finance/compliance desk mailbox, useful fallback route for NCD/compliance correspondence.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 98,
@@ -3484,19 +3649,42 @@
       "sector": "Manufacturing",
       "existing_reg_email": "bd@hpl.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sarbani Mitra",
+        "designation": "Company Secretary & Compliance Officer; Senior General Manager, Head - Legal & Corporate Communications",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investors@hpl.co.in; landline +91 (033) 2367 3484/3485/3383 (Kolkata); plant line +91 (03224) 274007/384/400/876 (Haldia)",
+        "confidence": "high",
+        "source": "Signatory on official BSE regulatory filings (NCD-related), corroborated by TheOrg and ZoomInfo listing same name/title",
+        "notes": "As Company Secretary, named signatory on the company's actual NCD/debenture-related BSE filings. Direct email/mobile not publicly found, verified IR mailbox given as fallback.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Neela Madhab Patnaik",
+          "designation": "EVP & CFO, Haldia Petrochemicals Limited (per current org-chart listing)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "TheOrg org chart",
+          "notes": "Public aggregators disagree on current CFO title-holder at HPL - offered low confidence pending primary-source confirmation.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Durga Sankar Chakrabarti",
+          "designation": "Head - Finance & Accounts, Senior Vice President and CFO",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "IndiaMART company About Us page",
+          "notes": "Third, differently-titled name surfaced for CFO-adjacent role; genuine uncertainty across public sources on HPL's current CFO.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 99,
@@ -3505,19 +3693,31 @@
       "sector": "Services",
       "existing_reg_email": "vineet@vivritiamc.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Vineet Sukumar",
+        "designation": "Founder & CEO/Managing Director, Vivriti Asset Management",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "vineet@vivritiamc.com",
+        "fallback": "+91-44-4007-4800 (Vivriti AMC Chennai office, Prestige Zackria Metropolitan, Anna Salai, Chennai 600002)",
+        "confidence": "high",
+        "source": "YourStory company profile, PMS Bazaar AMC profile, company About-us page - existing on-file email matches confirmed role as Founder/CEO",
+        "notes": "Vineet Sukumar leads the AMC entity (CIN U65929TN2019PTC127644) itself, distinct from sister NBFC Vivriti Capital Ltd. No separately-named dedicated CFO for the AMC entity could be verified.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Srinivasaraghavan Badrinathan",
+          "designation": "Chief Financial Officer, Vivriti Capital Limited (Group/parent NBFC sister entity)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "RocketReach, ZoomInfo, Adapt.io, LinkedIn all list him as CFO of Vivriti Capital",
+          "notes": "Confirmed CFO of Vivriti Capital Limited (group NBFC), not independently confirmed as CFO of the AMC entity itself. Email only in masked form on directories, left null.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 100,
@@ -3526,19 +3726,42 @@
       "sector": "Manufacturing",
       "existing_reg_email": "kaynestechcs@kaynestechnology.net",
       "existing_phone": "91-821-4002805",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Jairam Paravastu Sampath",
+        "designation": "Whole-Time Director & Chief Financial Officer (DIN 08064368)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "kaynestechcs@kaynestechnology.net; phone 91-821-4002805",
+        "confidence": "high",
+        "source": "Kaynes Technology's own Our Team page, TheOrg org chart, ZoomInfo, Inc42 news, LinkedIn - multiple independent sources agree",
+        "notes": "With company since 2011, leads finance & strategy. Direct corporate email masked on people-data sites, left null. Verified company/CS email is safest channel.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sumit Kumar Verma",
+          "designation": "Investor Relations & Business Analyst",
+          "mobile": null,
+          "email": "sumit.verma@kaynestechnology.net",
+          "fallback": "ir@kaynestechnology.net",
+          "confidence": "medium",
+          "source": "LinkedIn profile; general IR email surfaced via search of company investor communications",
+          "notes": "Handles investor relationship management/earnings calls; good secondary contact for debt/finance-related IR queries.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Sudhasri Addepalli",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": null,
+          "fallback": "kaynestechcs@kaynestechnology.net",
+          "confidence": "medium",
+          "source": "Stock-exchange disclosure/news coverage reporting appointment effective March 10, 2026",
+          "notes": "Single-source confirmation only; direct email not found, general CS/investor email used as fallback.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 101,
@@ -3547,19 +3770,31 @@
       "sector": "Services",
       "existing_reg_email": "chitrakala_8@hotmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Chitrakala Rajkumar",
+        "designation": "Director & Co-Founder (promoter-director; no dedicated CFO/finance officer identified)",
         "mobile": null,
-        "email": null,
+        "email": "chitrakala_8@hotmail.com",
         "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "confidence": "medium",
+        "source": "Tofler director record, Zauba Corp company/director listing, corroborated by hospital's own history (co-founded Lifeline Hospital in 1997 with Dr. J.S. Rajkumar)",
+        "notes": "Confirmed director/promoter, not a titled finance executive. No separate CFO/Head of Finance/Treasury contact found despite being a rated debt issuer (CRISIL BB-/Stable); rating documents did not surface named finance contacts.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Anirudh Rajkumar",
+          "designation": "Joint Managing Director (surgeon by profession; DIN 02060595)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "Zauba Corp / MCA director listing, LinkedIn, hospital's own doctor listing",
+          "notes": "Joint MD-level director but a practicing surgeon, not a finance role; no contact details found.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 102,
