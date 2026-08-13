@@ -3803,19 +3803,31 @@
       "sector": "BFSI",
       "existing_reg_email": "deepika_sharma@mas.co.in",
       "existing_phone": "91-79-41106500",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Ankit Jain",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "deepika_sharma@mas.co.in / +91-79-41106500",
+        "confidence": "high",
+        "source": "Corroborated across ZoomInfo, Bloomberg Markets profile, MarketScreener insider profile, LinkedIn, and BSE corporate filing reference - CFO since ~2021",
+        "notes": "Direct email/mobile could not be found; masked on aggregators. Not populated per hard rule against guessing.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Deepika Sharma",
+          "designation": "Contact on record (role unverified - possibly Company Secretary/Compliance or IR desk staff)",
+          "mobile": "+91-79-41106500",
+          "email": "deepika_sharma@mas.co.in",
+          "fallback": null,
+          "confidence": "low",
+          "source": "Pre-existing record supplied in task hint; role at MAS Financial Services not confirmed via public search",
+          "notes": "Treat as existing/fallback contact point only.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 103,
@@ -3824,19 +3836,31 @@
       "sector": "Diversified",
       "existing_reg_email": "gaursons@gaursonsindia.com",
       "existing_phone": "91-120-4343333",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Vineet Singhal",
+        "designation": "Group Chief Financial Officer (Group CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "gaursons@gaursonsindia.com / +91-120-4343333; customercare@gaursonsindia.com",
+        "confidence": "high",
+        "source": "Corroborated across RocketReach, Salesgear.io, Crunchbase, ZoomInfo, and LinkedIn as Group CFO/Director of Finance",
+        "notes": "Chartered Accountant, previously Finance Controller at Aircom. Direct verified email/mobile not found; masked address on unrelated project-entity domain, not populated per hard rule.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Anjali Verma",
+          "designation": "DGM & Company Secretary / Compliance Officer, Gaursons Group (Membership No. F7362)",
+          "mobile": null,
+          "email": null,
+          "fallback": "customercare@gaursonsindia.com",
+          "confidence": "medium",
+          "source": "LinkedIn plus corroborating web references as compliance officer",
+          "notes": "Company has outstanding NCD (10.96% coupon, ISIN INE1BEC08019) on NSE WDM - CS/Compliance Officer likely handles debt-related disclosures.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 104,
@@ -3845,19 +3869,42 @@
       "sector": "Others",
       "existing_reg_email": "njain@geecl.com",
       "existing_phone": "91-124-2580470",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Jasmeet Singh",
+        "designation": "Vice President - Finance (company does not appear to publicly designate a separate CFO title)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "njain@geecl.com / +91-124-2580470; info@geecl.com",
+        "confidence": "high",
+        "source": "Corroborated across TheOrg.com org chart, RocketReach, and LinkedIn - VP Finance since June 2012",
+        "notes": "No GEECL-specific CFO appointment/resignation filing found, so VP Finance is put forward as primary contact. Direct email/mobile not found, not populated per hard rule.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Pawan Kumar",
+          "designation": "AGM Finance, Great Eastern Energy Corporation",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "Web search snippet (org-structure aggregator) alongside Jasmeet Singh's finance team",
+          "notes": "Single weak source; unverified lead only.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Ajeet Kumar",
+          "designation": "Senior Manager Finance, Great Eastern Energy Corporation",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "Same aggregator snippet as above",
+          "notes": "Single weak source; unverified lead only.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 105,
@@ -3866,17 +3913,17 @@
       "sector": "Others",
       "existing_reg_email": "sunilsanjay.ca@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Murali Krishna Yarla",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "connect@greengold.tv; phone +91 40 4436 1900/1990 (Hyderabad HQ)",
+        "confidence": "high",
+        "source": "TheOrg profile, ZoomInfo listing, and LinkedIn profile - consistent across 3 independent sources, CFO since Oct 2022",
+        "notes": "Masked email on ZoomInfo, no reliable domain pattern to infer from, left null. Appears to be part-time/fractional CFO, concurrently VP-Finance at ANA Oils and Fats India. Existing hint email looks like external CA consultant's personal address, could not confirm validity.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -3887,19 +3934,31 @@
       "sector": "Services",
       "existing_reg_email": "rahul.bhandari@nihilent.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Shubhabrata Banerjee",
+        "designation": "Group Chief Financial Officer & EVP",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "shubhabrata.banerjee@nihilent.com",
+        "fallback": "Rahul Bhandari, Company Secretary - rahul.bhandari@nihilent.com",
+        "confidence": "medium",
+        "source": "Corroborated by 6 independent sources (Crunchbase, TheOrg, Bloomberg, RocketReach, ZoomInfo, LinkedIn). Email inferred from observed firstname.lastname@nihilent.com pattern confirmed real for existing hint contact",
+        "notes": "Exact CFO email is INFERRED from company naming convention, not directly confirmed - medium confidence per rule. Two other CFO name variants surfaced in search were discarded as apparent mix-ups with unrelated people.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Rahul Bhandari",
+          "designation": "Company Secretary (handles secretarial/compliance, including debt instruments)",
+          "mobile": null,
+          "email": "rahul.bhandari@nihilent.com",
+          "fallback": null,
+          "confidence": "high",
+          "source": "Matches existing hint email; independently corroborated via ZoomInfo listing as Company Secretary at Nihilent, Pune, 16+ years experience",
+          "notes": "Verified real, current, named contact - good fallback given CS role typically handles NCD/debenture compliance filings.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 107,
@@ -3908,19 +3967,42 @@
       "sector": "Services",
       "existing_reg_email": "sanjay.khare@ncmsl.com",
       "existing_phone": "91-124-4338200",
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "compliance@ncml.com; existing landline 91-124-4338200 (existing sanjay.khare@ncmsl.com unverified as still active)",
+        "confidence": "low",
+        "source": "ZaubaCorp/Tracxn MCA aggregator listing for CIN U74140MH2004PLC148859 (registered email compliance@ncml.com)",
+        "notes": "Could not confirm current named CFO. Most recent named Group CFO (Anuj Kumar Vasdev) left this role for Singer India Limited (CFO-Designate effective 18 Sep 2025). Existing hint contact Sanjay Khare now shows as Managing Partner at an unrelated advisory firm - downgraded to unverified fallback.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ashima Aneja",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "NCML Annual Report 2022-23, appointment dated 14 Feb 2023, succeeding Rupinder Kaur",
+          "notes": "Single source only, role may have changed since 2023, not re-confirmed as current.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Sanjay Kumar Gupta",
+          "designation": "Managing Director & CEO",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "NCML corporate announcement 'NCML appoints Sanjay Gupta as MD and CEO'",
+          "notes": "Not a finance-specific role, but top decision-maker; useful escalation contact if direct finance contact cannot be reached.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 108,
@@ -3929,19 +4011,31 @@
       "sector": null,
       "existing_reg_email": "wisemoreadvisory@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sumant Sinha",
+        "designation": "Promoter/Director (Founder-Chairman & CEO, ReNew Power/ReNew Energy Global; beneficial owner of Wisemore Advisory)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "sumant@renewpower.in",
+        "fallback": "wisemoreadvisory@gmail.com",
+        "confidence": "medium",
+        "source": "Zauba Corp MCA-derived company/director record; CARE Ratings press release on Wisemore Advisory NCDs (16-Aug-2022) confirming SPV structure",
+        "notes": "Wisemore Advisory is a promoter-held investment/holding SPV to hold pledged ReNew Power shares as security for listed zero-coupon NCDs. No independently identifiable CFO/treasury head/finance dept of its own. Email tied to director per aggregator, not independently confirmed - medium confidence. Registered gmail is safer first contact point.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Vaishali Nigam Sinha",
+          "designation": "Director / Managing Director, Wisemore Advisory (also Chief Sustainability, CSR & Communications Officer, ReNew Energy Global)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "MarketScreener insider profile; MyCorporateInfo director record; ReNew Energy Global SEC Form 20-F filings",
+          "notes": "Named director but verified operational title is sustainability/CSR, not finance. No contact details found.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 109,
@@ -3950,19 +4044,31 @@
       "sector": null,
       "existing_reg_email": "mnatarajan@abtindustries.net",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Mariyappan M",
+        "designation": "Treasury Manager, ABT Industries Limited",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "mnatarajan@abtindustries.net",
+        "confidence": "medium",
+        "source": "RocketReach company finance-department listing - single source, direct email/phone withheld by aggregator paywall",
+        "notes": "Part of Coimbatore-based ABT/Sakthi Group. A CFO reportedly appointed 14-Feb-2022 but name could not be located. Treasury Manager title is best-verified finance-specific role found.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Kanna Venkatachalam",
+          "designation": "Company Secretary, ABT Industries Limited",
+          "mobile": null,
+          "email": null,
+          "fallback": "mnatarajan@abtindustries.net",
+          "confidence": "medium",
+          "source": "RocketReach individual profile - single source, ICSI-qualified, based Coimbatore",
+          "notes": "Company Secretaries typically handle debenture/NCD compliance matters; worth prioritizing for NCD outreach even though contact not independently confirmed.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 110,
@@ -3971,19 +4077,31 @@
       "sector": "Manufacturing",
       "existing_reg_email": "cs1@casablancaindustries.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sankha Bhattacharya",
+        "designation": "Managing Director, Casablanca Industries Pvt. Ltd.",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "cs1@casablancaindustries.in",
+        "confidence": "medium",
+        "source": "LinkedIn profile, corroborated by ZoomInfo/RocketReach and MCA director records (indiafilings.com CIN U28113DL2011PTC223576)",
+        "notes": "As MD, senior-most executive and de facto finance decision-maker; no dedicated CFO identified. Company was acquired by Trivium Packaging (effective 27-Feb-2025) - finance reporting lines may have changed, verify before outreach. A stale opwglobal.com email surfaced but was deliberately not used (prior employer). Registered cs1@ address is safer fallback.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Rishheb Wassan",
+          "designation": "Director, Casablanca Industries (DIN 02477346; primary role as Director/Owner, Stella Indusstries Ltd.)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "IndiaFilings / Tofler / ZaubaCorp director record; LinkedIn",
+          "notes": "Listed as director but primary operating role is at a separate group company; no finance-specific designation found.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 111,
@@ -3992,19 +4110,31 @@
       "sector": null,
       "existing_reg_email": "essel.roads@gmail.com",
       "existing_phone": "91-22-71084444",
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "essel.roads@gmail.com / 91-22-71084444",
+        "confidence": "low",
+        "source": "User-supplied MCA registered contact; email pattern corroborated as shared correspondence address across other Essel-group toll-road SPVs per IndiaFilings",
+        "notes": "No named CFO/Treasury head/finance officer found for this SPV. Directors recur across multiple sister Essel toll-road SPVs, suggesting nominee/professional directors rather than dedicated finance executives. Wider Essel Infraprojects/Essel Highways group is under severe financial distress (CIRP proceedings on related entities), though this entity itself was still publishing quarterly results as of Dec 2024.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Anjul Choudhary",
+          "designation": "Director (role/function unconfirmed - possibly nominee director)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "ZaubaCorp/Tofler MCA director listing; ZoomInfo",
+          "notes": "Could not confirm this director holds any finance-specific mandate at this entity specifically.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 112,
@@ -4013,19 +4143,31 @@
       "sector": "BFSI",
       "existing_reg_email": "nrfsi@nrfsi.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Chandrasekaran Vijayagopal",
+        "designation": "Finance Head / CFO (appointed CFO effective 11 Dec 2025)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "nrfsi@nrfsi.com",
+        "confidence": "medium",
+        "source": "ZoomInfo profile listing title Finance Head at NRFSI, CFO appointment dated 11 Dec 2025; corroborated by Highperformr aggregator",
+        "notes": "Not independently confirmed via NRFSI's own website (blocked by egress) or MCA/DIN filing. Email masked on ZoomInfo, left null rather than guessed. Prior role: Director, Accounts at Northern Arc.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Harmandeep Singh Walia",
+          "designation": "Managing Director",
+          "mobile": null,
+          "email": null,
+          "fallback": "nrfsi@nrfsi.com",
+          "confidence": "medium",
+          "source": "NRFSI About Us page content surfaced via web search",
+          "notes": "Overall company head, not finance-specific, but relevant as an escalation contact.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 113,
@@ -4034,19 +4176,31 @@
       "sector": null,
       "existing_reg_email": "mca@suzlon.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rahul Jain",
+        "designation": "Group Chief Financial Officer, Suzlon Energy Ltd (parent) - KMP effective 15 Dec 2025",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "mca@suzlon.com",
+        "confidence": "medium",
+        "source": "Suzlon Energy official press release, corroborated by Business Standard/BusinessToday/People Matters coverage of the Oct 29, 2025 board announcement",
+        "notes": "Appointment as Group CFO of listed parent is high confidence but applicability to this specific subsidiary is inferred (centralized group treasury, shared mca@suzlon.com mailbox), so downgraded to medium. Replaced Himanshu Mody (resigned 31 Aug 2025). No direct email found, not asserted.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Om Prakash Talwar",
+          "designation": "CFO, Suzlon Global Services Ltd (per one LinkedIn profile; a second profile for same name says 'Ex CFO')",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "LinkedIn search snippets (conflicting titles, pages blocked from direct fetch)",
+          "notes": "Conflicting self-reported LinkedIn titles make current tenure unclear - flagged for manual verification.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 114,
@@ -4055,19 +4209,31 @@
       "sector": null,
       "existing_reg_email": "rainbow@rainbowfoundations.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Nitesh Jain",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "rainbowfoundations@gmail.com; Landline 044-24344647/24354647; Registrar (Cameo Corporate Services) investor@cameoindia.com, +91-44-28462700",
+        "confidence": "high",
+        "source": "Corroborated across LinkedIn, ZoomInfo, and Bloomberg Markets profile as CFO; also appears in a BSE corporate filing dated 08-Sep-2025",
+        "notes": "Identity and CFO title confirmed by 3+ sources. Masked personal email on rainbowfoundations.in domain, not verified, left null. No direct mobile found.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ikkapadath Bilal Mohammadali (also Bilal Muhammad)",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": null,
+          "fallback": "rainbowfoundations@gmail.com; 044-24344647/24354647",
+          "confidence": "medium",
+          "source": "Rainbow Foundations FY2024-25 Annual Report content (via search-indexed BSE filing) and rocketreach.co org-chart listing",
+          "notes": "Name spelling varies slightly between sources; likely same person given matching designation.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 115,
@@ -4076,17 +4242,17 @@
       "sector": "BFSI",
       "existing_reg_email": "exclusiveleasingfl@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rajesh Katoch",
+        "designation": "Chief Executive Officer (CEO) & Director",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "info@ezcapital.in; phone 78370 78390",
+        "confidence": "high",
+        "source": "Confirmed via ZoomInfo, LinkedIn, lead411.com, rocketreach.co, and company's own Board and Management Team page (ezcapital.in)",
+        "notes": "Company operates under brand 'EZ Capital'. As of Aug 2026, company is actively recruiting for a dedicated CFO - indicating no confirmed named CFO currently; CEO is senior-most person overseeing financial strategy in the interim. Masked email not populated.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -4097,19 +4263,31 @@
       "sector": null,
       "existing_reg_email": "girish@bigshoppingcentres.co.in",
       "existing_phone": "91-80-42699000",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Pradeep Kumar Dhandhania",
+        "designation": "Director / VP - Finance, Sattva (Salarpuria Sattva) Group",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "Registered office landline +91-80-42699000 (Salarpuria Sattva Group HQ, Bengaluru)",
+        "confidence": "medium",
+        "source": "Director status confirmed via thecompanycheck.com, tofler.in, indiafilings.com (DIN 00387006); VP-Finance role at Sattva Group described on sattvagroup.com leadership content, corroborated by rocketreach.co/ZoomInfo",
+        "notes": "SPV of Salarpuria Sattva Group; Dhandhania is both director of this entity and group's long-standing finance chief - most relevant contact though no single source combines both facts, hence medium confidence. Existing on-file contact 'girish@...' could not be independently corroborated, retained as unverified fallback only.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Mahesh Kumar Khaitan",
+          "designation": "Director, Sattva Group / Director, Darshita Southern India Happy Homes Pvt. Ltd.",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "ZoomInfo and Sattva Group leadership page content; confirmed director of this CIN",
+          "notes": "Described primarily as strategy/business-growth director rather than finance-function head.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 117,
