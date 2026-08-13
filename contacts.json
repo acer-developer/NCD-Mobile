@@ -2197,19 +2197,40 @@
       "sector": null,
       "existing_reg_email": "smitkumar@ifcifactors.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Shikha Gupta",
+        "designation": "Chief Financial Officer, IFCI Factors Ltd.",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "shikhagupta@ifcifactors.com",
+        "fallback": "011-4173 2000 (IFCI Factors registered office board line, IFCI Tower, 61 Nehru Place, New Delhi)",
+        "confidence": "medium",
+        "source": "ifcifactors.com 'Key Managerial Personnel' page naming Shikha Gupta as CFO, CA/M.Com/JAIIB-CAIIB, heading Integrated Treasury & Investment and Resources Dept",
+        "notes": "Role/identity confirmed on the company's own KMP page. Email is INFERRED from the confirmed company address pattern, NOT independently verified - medium confidence only. A conflicting single-source ZoomInfo record names a 'Manish Jain' as CFO - likely outdated, not used given it contradicts the official KMP page.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Smit Kumar",
+          "designation": "Company Secretary, IFCI Factors Ltd.",
+          "mobile": null,
+          "email": "smitkumar@ifcifactors.com",
+          "fallback": null,
+          "confidence": "high",
+          "source": "RocketReach profile; ZaubaCorp director/KMP listing; matches existing on-file registered email",
+          "notes": "This is the existing_reg_email on file; independently corroborated as belonging to the Company Secretary."
+        },
+        {
+          "name": "Prafulla Sharma",
+          "designation": "Sr. AVP & Secretary to the Board (also cited as Head-HR / President in different sources)",
+          "mobile": "+91-9958807392",
+          "email": "prafullasharma@ifcifactors.com",
+          "fallback": "+91-11-46412863",
+          "confidence": "medium",
+          "source": "ZoomInfo profile; IFCI Factors RFP document (Oct 2025); ifcifactors.com 'Principal Officers' page",
+          "notes": "Designation inconsistent across sources, likely a general administrative/secretarial contact rather than pure finance role, but real published contact channel."
+        }
+      ]
     },
     {
       "row": 61,
@@ -2218,19 +2239,30 @@
       "sector": null,
       "existing_reg_email": "bindu.d@puravankara.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Niraj Kumar Gautam (also styled Neeraj Gautam)",
+        "designation": "Group Chief Financial Officer, Puravankara Ltd. (parent of Varishtha Property Developers Pvt. Ltd., a wholly-owned SPV)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "neeraj.gautam@puravankara.com",
+        "fallback": "+91-80-4343 9794",
+        "confidence": "medium",
+        "source": "puravankara.com/leadership/neeraj-gautam; MarketScreener, boardstewardship.com and rprealtyplus.com news coverage of Sept 2025 CFO appointment; email/phone via RocketReach aggregator",
+        "notes": "Varishtha Property Developers is a Puravankara Group SPV with no separate finance leadership found. Deepak Rastogi resigned as Group CFO effective 23-Sep-2025; Niraj Kumar Gautam elevated effective 24-Sep-2025, formally approved 07-Nov-2025 - current CFO as of Aug 2026. Email/phone come only from an aggregator listing, pegged to medium confidence.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sudip Chatterjee",
+          "designation": "Company Secretary & Compliance Officer, Puravankara Ltd.",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "high",
+          "source": "Bloomberg Markets profile; BSE corporate filings signed by him (dated Feb-2026 and Aug-2026); ZoomInfo listing",
+          "notes": "Handles investor/debenture grievance matters for Puravankara Group entities including SPVs like Varishtha. Full email not verified, left blank."
+        }
+      ]
     },
     {
       "row": 62,
@@ -2239,19 +2271,30 @@
       "sector": "Real Estate",
       "existing_reg_email": "s.ramani@scl.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Vishal Anand",
+        "designation": "Chief Finance Officer, TVS Emerald Ltd. / Emerald Haven Realty Ltd.",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "contactus@tvsemerald.com / +91 80621 95010 (general company contact line, Chennai)",
+        "confidence": "medium",
+        "source": "tvsemerald.com/staff-view/vishal-anand (company staff bio page); ZoomInfo and RocketReach profiles listing him as CFO",
+        "notes": "TVS Emerald Ltd was formerly named Emerald Haven Realty Ltd (same CIN) - part of TVS Group's real estate arm. Direct email/phone could not be independently verified (masked on ZoomInfo), left blank; use verified general contact as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Roshni K Sheth",
+          "designation": "Company Secretary, TVS Emerald / Emerald Haven Realty group entities",
+          "mobile": null,
+          "email": "corpsec@tvsemerald.com",
+          "fallback": null,
+          "confidence": "high",
+          "source": "NSE archives filing - Security Cover Certificate for Emerald Haven Life Spaces 2 Pvt Ltd's NCDs, dated 27-Jul-2026, signed by Roshni K Sheth; tvsemerald.com contact-us page",
+          "notes": "Directly handles NCD/debt security-cover compliance filings for the group as recently as Jul-2026 - strong, current, debt-desk-relevant contact."
+        }
+      ]
     },
     {
       "row": 63,
@@ -2260,19 +2303,30 @@
       "sector": "Manufacturing",
       "existing_reg_email": "magnumventures@gmail.com",
       "existing_phone": "91-120-4199200",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Parv Jain",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "info@magnumventures.in / +91-11-42420015 (company corporate office, New Delhi)",
+        "confidence": "high",
+        "source": "Magnum Ventures Ltd. official website management-team page; corroborated by Bloomberg Markets profile and MarketScreener insider record",
+        "notes": "CFO since Sep 2016 (joined co. 2010). No verified direct personal email or mobile found. Delhi corporate-office landline found here differs from the Noida-area number already on file; both may be valid (different offices/lines).",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Aaina Gupta",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": "7042593791",
+          "email": "cs_mvl@cissahibabad.in",
+          "fallback": "info@magnumventures.in",
+          "confidence": "medium",
+          "source": "Magnum Ventures 42nd Annual Report (FY2021-22); role currency corroborated by later BSE/NSE filings (2024-2025)",
+          "notes": "Handles regulatory/compliance and would field debt-related filings. Contact details from FY21-22 annual report, may be stale - verify before use."
+        }
+      ]
     },
     {
       "row": 64,
@@ -2281,19 +2335,30 @@
       "sector": "Others",
       "existing_reg_email": "lumbinieducationpvtltd@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "lumbinieducationpvtltd@gmail.com (registered email on file)",
+        "confidence": "low",
+        "source": "MCA-sourced director records via Tofler, Tracxn and TheCompanyCheck company profiles for CIN U85500RJ2023PTC086224",
+        "notes": "Very small entity (incorporated Mar 2023, Jaipur; paid-up capital ~1 lakh) functioning as an SPV-like structure for education-linked NCDs. Only two directors on record - Sushil Kumar Agarwal and Jayant Kumar Agarwal - and no separate CFO/Head-Finance title found. A well-known same-named finance professional (ex-Aavas Financiers) surfaced but could NOT be confirmed as the same individual - not conflated. No verified personal phone/email for either director found.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Jayant Kumar Agarwal",
+          "designation": "Director (Promoter)",
+          "mobile": null,
+          "email": null,
+          "fallback": "lumbinieducationpvtltd@gmail.com",
+          "confidence": "low",
+          "source": "MCA-sourced director records via Tofler, Tracxn and TheCompanyCheck",
+          "notes": "Co-director alongside Sushil Kumar Agarwal; no separate finance-specific title or verified contact details found."
+        }
+      ]
     },
     {
       "row": 65,
@@ -2302,17 +2367,17 @@
       "sector": "Real Estate",
       "existing_reg_email": "info@alphacorp.in",
       "existing_phone": "91-124-4831111",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Santosh Agarwal",
+        "designation": "Chief Financial Officer & Executive Director",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "info@alphacorp.in / 91-124-4831111 (company registered contact on file)",
+        "confidence": "high",
+        "source": "Alpha Corp official website leadership page; LinkedIn; TheOrg org chart; GRI Institute member profile; company's own Facebook posts naming him CFO & Executive Director",
+        "notes": "CA with 20+ years' experience, CFO since 2014 - corroborated by 4+ independent sources. Personal email/mobile could not be verified from a primary source, left blank per no-fabrication rule.",
+        "run": "2026-08-13-2100"
       },
       "additional": []
     },
@@ -2323,19 +2388,30 @@
       "sector": "BFSI",
       "existing_reg_email": "kuldeep.yadav@satinhousingfinance.com",
       "existing_phone": "91-124-4346200",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sachin Sharma",
+        "designation": "Chief Financial Officer, Satin Housing Finance Limited",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "sachin.sharma@satinhousingfinance.com",
+        "fallback": "91-124-4346200",
+        "confidence": "medium",
+        "source": "ZoomInfo profile + TheOfficialBoard bio; LinkedIn profile lists him at Satin Housing Finance",
+        "notes": "Name/designation confirmed as CFO via 2 independent sources plus matching LinkedIn. Email is an INFERRED guess following the confirmed firstname.lastname pattern from the on-file address - not verified, treat as medium confidence only.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Kuldeep Singh Yadav",
+          "designation": "Former Director / former Company Secretary (Satin group entities) - likely outdated contact",
+          "mobile": null,
+          "email": "kuldeep.yadav@satinhousingfinance.com",
+          "fallback": "91-124-4346200",
+          "confidence": "low",
+          "source": "Company-registry aggregators (thecompanycheck.com, zaubacorp.com); Satin Creditcare Network Ltd's 2010-11 annual report",
+          "notes": "This is the existing on-file contact, but sources indicate he is a FORMER director/officer of the Satin group rather than current finance leadership. Sachin Sharma is the better primary contact."
+        }
+      ]
     },
     {
       "row": 67,
@@ -2344,19 +2420,30 @@
       "sector": "Services",
       "existing_reg_email": "sanjay.jain@samhi.co.in",
       "existing_phone": "91-124-4910100",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rajat Mehra",
+        "designation": "Chief Financial Officer, SAMHI Hotels Limited (parent); also Director of SAMHI Hotels (Ahmedabad) Private Limited (this SPV)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "rajat.mehra@samhi.co.in",
+        "fallback": "91-124-4910100",
+        "confidence": "medium",
+        "source": "ZoomInfo, RocketReach, TheOrg, Bloomberg, Crunchbase, LinkedIn all identify him as CFO of SAMHI Hotels; Tofler company-filing data for this SPV lists him as Director/authorized signatory",
+        "notes": "5+ sources agree on parent-company CFO role, and registry data confirms he is also director/signatory of this specific SPV. Email is INFERRED from the confirmed firstname.lastname@samhi.co.in domain pattern - not independently verified, capped at medium.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sanjay Jain",
+          "designation": "Senior Director - Corporate Affairs, Company Secretary & Compliance Officer, SAMHI Hotels Limited",
+          "mobile": null,
+          "email": "sanjay.jain@samhi.co.in",
+          "fallback": "91-124-4910100",
+          "confidence": "high",
+          "source": "BSE corporate filings/correspondence for SAMHI Hotels Ltd; LinkedIn; member of ICSI and ICMAI",
+          "notes": "This is the existing on-file contact for row 67 - VERIFIED as Company Secretary & Compliance Officer (NOT the CFO, correcting the initial assumption). Strong secondary/CS-level contact alongside CFO Rajat Mehra."
+        }
+      ]
     },
     {
       "row": 68,
@@ -2365,19 +2452,40 @@
       "sector": "Power & Energy",
       "existing_reg_email": "energy-secretarial@gmrgroup.in",
       "existing_phone": "91-22-40404500",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Ashish Vinay Deshpande",
+        "designation": "Chief Financial Officer, GMR Warora Energy Limited",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "energy-secretarial@gmrgroup.in / 91-22-40404500",
+        "confidence": "high",
+        "source": "GMR Warora Energy Limited Annual Report FY2023-24 corporate-information section; corroborated via Zaubacorp/Tofler/IndiaFilings",
+        "notes": "Confirmed via the company's own FY2023-24 annual report. No personal email or mobile found or verified anywhere. GMR's email convention for this entity is functional/departmental, not firstname.lastname, so no personal email inferred.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sanjay Kumar Babu",
+          "designation": "Company Secretary, GMR Warora Energy Limited (FCS 8649)",
+          "mobile": null,
+          "email": null,
+          "fallback": "energy-secretarial@gmrgroup.in / 91-22-40404500",
+          "confidence": "medium",
+          "source": "GMR Warora Energy Limited Annual Report FY2023-24 corporate-information section",
+          "notes": "Named as Company Secretary in the FY2023-24 annual report; typically handles NCD/debenture trustee filings. Single-source, personal contact details not found."
+        },
+        {
+          "name": "Suresh Bagrodia",
+          "designation": "Group Chief Financial Officer, GMR Power and Urban Infra Limited (GWEL's listed holding company)",
+          "mobile": null,
+          "email": null,
+          "fallback": "GPUIL.CS@gmrgroup.in",
+          "confidence": "medium",
+          "source": "Trendlyne, Bloomberg Markets profile, Goodreturns management-team page, and LinkedIn",
+          "notes": "CFO at the listed holding-company level, not GWEL's own designated CFO. Useful as senior alternate/escalation contact."
+        }
+      ]
     },
     {
       "row": 69,
@@ -2386,19 +2494,40 @@
       "sector": "Trading & Distribution",
       "existing_reg_email": "jatin.jalundhwala@adani.in",
       "existing_phone": "91-79-25555286",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Jugeshinder \"Robbie\" Singh",
+        "designation": "Chief Financial Officer (CFO), Adani Enterprises Ltd",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investor.ael@adani.com / +91-79-26565555 (registered office)",
+        "confidence": "high",
+        "source": "Adani Enterprises Integrated Annual Report 2024-25 (KMP disclosure); adanienterprises.com/investors KMP page; multiple news sources confirming role since 2019",
+        "notes": "Confirmed as CFO of Adani Enterprises Ltd specifically per FY24-25 annual report KMP list. No direct personal email/phone publicly available; used verified official IR desk contact as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Jatin Jalundhwala",
+          "designation": "Company Secretary & Joint President (Legal)",
+          "mobile": null,
+          "email": "jatin.jalundhwala@adani.in",
+          "fallback": "91-79-25555286",
+          "confidence": "high",
+          "source": "Adani Enterprises Annual Report 2024-25 KMP disclosure; matches existing on-file registered contact",
+          "notes": "Matches the existing_reg_email/phone on file - confirmed still current as of FY24-25 annual report."
+        },
+        {
+          "name": "Manan Vakharia",
+          "designation": "Head of Finance / Investor Relations",
+          "mobile": null,
+          "email": "mananj.vakharia@adani.com",
+          "fallback": "+91-79-25556140",
+          "confidence": "high",
+          "source": "Adani Enterprises official investor-call materials and press releases",
+          "notes": "Primary contact for institutional investors and research analysts on AEL earnings calls."
+        }
+      ]
     },
     {
       "row": 70,
@@ -2407,19 +2536,40 @@
       "sector": "Infrastructure & Construction",
       "existing_reg_email": "corrtech@corrtech.com",
       "existing_phone": "91-79-26313100",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "CA R R Jhunjhunwala",
+        "designation": "Chief Financial Officer (CFO), Corrtech International Ltd",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "compliance@corrtech.in / +91-79-26313138 (registered office / compliance desk)",
+        "confidence": "medium",
+        "source": "Multiple LinkedIn posts (CXO Tech Bot, CEO Review Magazine India, BharatCXO, CXO Chapter) announcing the appointment around early August 2026",
+        "notes": "Very recent appointment (~Aug 6, 2026). All corroborating sources appear to stem from one underlying announcement, capped at medium; no official BSE/NSE filing located. No personal email/phone found. Other CFO filings found (Ramesh Goel, Sandhya Gulhane) could not be confirmed as this specific company - excluded to avoid misattribution.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Anita Chellani",
+          "designation": "Compliance Officer, Corrtech International",
+          "mobile": null,
+          "email": "anita.chellani@corrtech.in",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "ZoomInfo / business-directory listing",
+          "notes": "Single-source data-aggregator listing, not independently confirmed."
+        },
+        {
+          "name": null,
+          "designation": "General Compliance / Registered Office Desk",
+          "mobile": null,
+          "email": "compliance@corrtech.in",
+          "fallback": "079-26313138",
+          "confidence": "low",
+          "source": "Corrtech registered-office contact details as aggregated by business directories",
+          "notes": "Generic office contact. Existing on-file email (corrtech@corrtech.com) uses a different domain than the company's current domain (corrtech.in) and may be stale."
+        }
+      ]
     },
     {
       "row": 71,
@@ -2428,19 +2578,40 @@
       "sector": "Manufacturing",
       "existing_reg_email": "badve_agd@sancharnet.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rahul Shashikant Ganu",
+        "designation": "Chief Financial Officer (CFO), Belrise Industries Ltd",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "rsganu@belriseindustries.com",
+        "fallback": "+91 (240) 2555186 / 2555187 (corporate office landline)",
+        "confidence": "medium",
+        "source": "Bloomberg Markets profile; LinkedIn; Belrise BSE Reg 30(5) intimation dated May 28, 2025; ZoomInfo/Datanyze listings",
+        "notes": "Identity/role confirmed by Bloomberg + LinkedIn + official BSE filing (high confidence). Email only appears in secondary aggregator sources consistent with the pattern, treat as medium-confidence until verified. Company recently IPO'd (May 2025) as rebrand of Badve Engineering/Autoline-linked entity - existing on-file email is a stale legacy address.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Siddhesh Mandke",
+          "designation": "Company Secretary & Compliance Officer (KMP) and Head of Legal",
+          "mobile": null,
+          "email": null,
+          "fallback": "+91 0240 2555186/87",
+          "confidence": "high",
+          "source": "Official BSE/NSE filing dated June 14, 2026; corroborated by InvestyWise and EarningsPulse news",
+          "notes": "Current CS & Compliance Officer as of the most recent filing, superseding Manish Kumar. Personal email unavailable, only shared corporate landline verified."
+        },
+        {
+          "name": "Manish Kumar",
+          "designation": "Former Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "complianceofficer@belriseindustries.com",
+          "fallback": "+91 (240) 2551206",
+          "confidence": "low",
+          "source": "Belrise Industries DRHP/Prospectus and earlier BSE Reg 30(5) filings",
+          "notes": "Superseded by Siddhesh Mandke effective June 14, 2026. Role-based mailbox likely still monitored despite personnel change."
+        }
+      ]
     },
     {
       "row": 72,
@@ -2449,19 +2620,40 @@
       "sector": "BFSI",
       "existing_reg_email": "csteam@5paisa.com",
       "existing_phone": "91-22-62727000",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Gourav Munjal",
+        "designation": "Whole-Time Director & Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "csteam@5paisa.com",
+        "confidence": "high",
+        "source": "Bloomberg Markets profile, ZoomInfo, MarketScreener India, TheOrg org-chart, and 5paisa's own 'Names and Contact Details of KMPs' disclosure page plus BSE filings signed by him",
+        "notes": "Identity/role (CA/CS, ~13 yrs finance/treasury experience) confirmed by 4+ sources. Direct personal email is masked on aggregators, left null. csteam@5paisa.com is the company's own listed KMP/CS contact channel (existing on file) - safest verified fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": null,
+          "designation": "Investor Relations desk",
+          "mobile": null,
+          "email": "ir@5paisa.com",
+          "fallback": "+91 89766 89766 (general corporate) / registered office: IIFL House, Thane",
+          "confidence": "medium",
+          "source": "Web search aggregation citing 5paisa Investor Relations page",
+          "notes": "Could not independently WebFetch 5paisa.com directly - single-source from search snippet, treat as medium confidence."
+        },
+        {
+          "name": null,
+          "designation": "Registrar & Share Transfer Agent (MUFG Intime India) - shareholder/investor queries",
+          "mobile": null,
+          "email": "investor.helpdesk@in.mpms.mufg.com",
+          "fallback": "022-49186000",
+          "confidence": "medium",
+          "source": "5paisa Shareholders/Investors Helpdesk page (via search aggregation)",
+          "notes": "External RTA, not a company employee - useful only as a last-resort administrative channel."
+        }
+      ]
     },
     {
       "row": 73,
@@ -2470,19 +2662,30 @@
       "sector": "Real Estate",
       "existing_reg_email": "millenia@vsnl.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "R. Santhosh",
+        "designation": "VP - Shared Services & Company Secretary, RMZ Corp (parent/promoter group of Millennia Realtors Pvt. Ltd.)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "r.santhosh@rmzcorp.com",
+        "fallback": "corpsec@rmzcorp.com",
+        "confidence": "medium",
+        "source": "LinkedIn profile 'Santhosh Raja - Sr VP & Company Secretary', corroborated by aggregator email-format listings for RMZ Corp / Millennia Realtors Pvt Ltd",
+        "notes": "Millennia Realtors Pvt. Ltd. is a project SPV of the Menda family's RMZ Corp group. No SPV-specific CFO/finance officer found; ICRA rating rationale could not be fetched to cross-check. R. Santhosh is the named group-level CS/Shared-Services contact, best verifiable point of contact. Existing on-file email (millenia@vsnl.com) confirmed stale.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Raj Menda, Manoj Menda, Arjunlal Menda",
+          "designation": "Directors / Promoters, Millennia Realtors Pvt. Ltd. (RMZ Corp founding family)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "ZaubaCorp / Tofler / MCA company master data",
+          "notes": "Board-level promoter directors, not finance-functional roles; no direct contact details found. Not recommended as primary outreach targets."
+        }
+      ]
     },
     {
       "row": 74,
@@ -2491,19 +2694,60 @@
       "sector": null,
       "existing_reg_email": "sr.ao.br@rvpn.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Smt. Hem Prabha",
+        "designation": "Director (Finance) & CFO, Rajasthan Rajya Vidyut Prasaran Nigam Ltd. (RVPN)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "0141-2740116 (office landline)",
+        "confidence": "medium",
+        "source": "RVPN Contact List / Diary Contact List directory (via scribd aggregation), corroborated by RocketReach RVPN management/org-chart listing",
+        "notes": "RVPN's Director (Finance) is typically a Rajasthan state-cadre officer and the post rotates periodically. Sourced from a public contact-directory aggregation, not RVPN's own current website - could not independently re-verify as still current for 2026. Recommend phone/email confirmation before outreach. No email found for Hem Prabha.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sh. Alok",
+          "designation": "Chairman, RVPN",
+          "mobile": "9413311300",
+          "email": "cmd.rvpn@rvpn.co.in",
+          "fallback": "0141-2740118 / cmd.rvpn@gmail.com",
+          "confidence": "medium",
+          "source": "Rajasthan energy-sector officials directory (via search aggregation)",
+          "notes": "Chairman, not a finance-specific role, but plausible escalation contact for a large NCD/debt conversation at a state PSU."
+        },
+        {
+          "name": "Sh. Nathmal Didel",
+          "designation": "Managing Director, RVPN",
+          "mobile": "8875777470",
+          "email": null,
+          "fallback": "0141-2741134",
+          "confidence": "medium",
+          "source": "Rajasthan energy-sector officials directory (via search aggregation)",
+          "notes": "Same sourcing caveat as Chairman entry - not independently re-verified against RVPN's own site."
+        },
+        {
+          "name": "Sourabh Bhatt",
+          "designation": "Chief Accounts Officer (P&F), RVPN",
+          "mobile": "9413382018",
+          "email": null,
+          "fallback": "0141-2740018",
+          "confidence": "medium",
+          "source": "RocketReach RVPN staff listing and matching LinkedIn profile",
+          "notes": "Senior finance/accounts official below Director (Finance) level - good secondary contact. Email shown only masked, left null."
+        },
+        {
+          "name": null,
+          "designation": "Company Secretary desk, RVPN",
+          "mobile": null,
+          "email": "comp.sec@rvpn.co.in",
+          "fallback": "0141-2740894 (RVPN general/board line)",
+          "confidence": "medium",
+          "source": "ContactOut RVPN company profile and RVPN email-format aggregator listings",
+          "notes": "Distinct from the existing on-file email (an accounts/billing address). Alternate official fallback channel."
+        }
+      ]
     },
     {
       "row": 75,
