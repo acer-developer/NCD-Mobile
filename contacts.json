@@ -631,19 +631,30 @@
       "sector": null,
       "existing_reg_email": "bindu.d@puravankara.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Neeraj Gautam (Niraj Kumar Gautam)",
+        "designation": "Group Chief Financial Officer, Puravankara Limited (parent group)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "neeraj.gautam@puravankara.com",
+        "fallback": "+91-80-4343 9794 (direct line, per Puravankara investor disclosure); investors@puravankara.com (Group IR desk); +91 80 2559 9000 (registered office)",
+        "confidence": "high",
+        "source": "Puravankara Ltd. investor-relations/regulatory contact disclosure (Nodal Officer-CFO listing); CFO-appointment announcements (MarketScreener, boardstewardship.com)",
+        "notes": "Provident Cedar Pvt Ltd is a wholly-owned SPV under Provident Housing Ltd within the Puravankara Group; no dedicated CFO for this SPV was found (only non-finance directors listed). Finance is handled at Puravankara Group level. Neeraj Gautam elevated from Deputy-CFO to Group CFO effective 24-Sep-2025.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": null,
+          "designation": "Group Investor Relations desk",
+          "mobile": null,
+          "email": "investors@puravankara.com",
+          "fallback": "+91 80 2559 9000 / 4343 9999",
+          "confidence": "medium",
+          "source": "Puravankara Ltd. official contact/investors page",
+          "notes": "Group-level IR desk, not specific to the Provident Cedar SPV; useful generic fallback."
+        }
+      ]
     },
     {
       "row": 16,
@@ -652,19 +663,30 @@
       "sector": "Services",
       "existing_reg_email": "aahl.feedback@adani.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rajesh Poddar (Rajesh Kumar Poddar)",
+        "designation": "Chief Financial Officer, Adani Airport Holdings Ltd. (appointed effective 29-Apr-2025)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "aahl.feedback@adani.com; Tel +91 79 2656 5555 (AAHL registered office, Ahmedabad)",
+        "confidence": "high",
+        "source": "Equilar ExecAtlas, LinkedIn, corroborated by RocketReach and ZoomInfo profiles all naming him CFO of AAHL since Apr-2025",
+        "notes": "Name/title/appointment date corroborated across 3+ independent sources, but direct email/mobile only found masked in paid people-databases - not independently verified so left null. Predecessor Rakesh Kumar Tiwary resigned ~Mar-2025, moved to CFO of Ambuja Cements Ltd.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": null,
+          "designation": "Corporate/Investor feedback desk, Adani Airport Holdings Ltd.",
+          "mobile": null,
+          "email": "aahl.feedback@adani.com",
+          "fallback": "+91 79 2656 5555",
+          "confidence": "low",
+          "source": "Existing on-file registered email; confirmed still listed via adaniairports.com/contact-us search snippet",
+          "notes": "Generic company channel, not a named finance person."
+        }
+      ]
     },
     {
       "row": 17,
@@ -673,19 +695,40 @@
       "sector": "Services",
       "existing_reg_email": "cosecmdh@dbg.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Amit Mor",
+        "designation": "Group Chief Financial Officer, Prestige Group / Prestige Estates Projects Ltd.",
         "mobile": null,
         "email": null,
         "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "confidence": "high",
+        "source": "Prestige Group's own leadership bio page corroborated by LinkedIn; ICRA rating rationale confirms Prestige Group holds 51% of Bamboo Hotel & Global Centre (Delhi) Pvt Ltd and PEPL guarantees its NCDs",
+        "notes": "Bamboo Hotel is an SPV/JV - Prestige Group 51%, Valor Estate Group (ex-DB Realty) 49% - with no standalone CFO for the SPV itself. Prestige's Group CFO Amit Mor is the most relevant single contact as majority partner and NCD guarantor.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Atul Bhatnagar",
+          "designation": "Chief Financial Officer (also 'Joint CFO'), Valor Estate Ltd. (formerly DB Realty Ltd.; 49% JV partner)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "high",
+          "source": "Trendlyne, Bloomberg, MarketScreener, and a company PDF 'Appointment of Mr. Atul Bhatnagar as Joint Chief Financial Officer' (dbrealty.co.in) all agree",
+          "notes": "CFO/KMP of Valor Estate Ltd since 10-Feb-2020; Valor Estate is the 49% JV partner in the Bamboo Hotel SPV."
+        },
+        {
+          "name": "Deepak Ghangurde",
+          "designation": "Chief Financial Officer / VP-Legal & Finance, Balwa Group (promoter family group behind Valor Estate/DB Realty)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "ZoomInfo profile - single-source business database, not independently corroborated",
+          "notes": "Group-level (Balwa Group), not entity-specific to the Bamboo Hotel SPV; email shown only masked."
+        }
+      ]
     },
     {
       "row": 18,
@@ -694,19 +737,30 @@
       "sector": "BFSI",
       "existing_reg_email": "contact@dfltd.in",
       "existing_phone": "91-22-28264295",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sonal Sharma",
+        "designation": "Company Secretary & Compliance Officer, TruCap Finance Ltd.",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "corpsec@trucapfinance.com",
+        "fallback": "022-6845 7200 (company landline)",
+        "confidence": "high",
+        "source": "TruCap Finance Ltd. official Investor Relations / Board & Management pages and multiple corroborating BSE/NSE compliance filing references",
+        "notes": "TruCap Finance has NO confirmed permanent CFO as of Aug 2026: former CFO Sanjay Kukreja departed; interim CFO Vishal Miglani (appointed 14-Nov-2025) resigned effective 24-May-2026; an earlier Finance Head appointee (Saurabh Sethi) also exited. Captured the Company Secretary handling compliance/debt correspondence as the best verified contact.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Amruta Kamat",
+          "designation": "Manager - Corporate Secretarial and Compliance, TruCap Finance Ltd.",
+          "mobile": null,
+          "email": "corpsec@trucapfinance.com",
+          "fallback": "022-6845 7200",
+          "confidence": "medium",
+          "source": "TruCap Finance investor relations / compliance filing pages",
+          "notes": "Works within the same secretarial/compliance team as Sonal Sharma; shares team email/phone."
+        }
+      ]
     },
     {
       "row": 19,
@@ -715,19 +769,30 @@
       "sector": "Others",
       "existing_reg_email": "cs@nmdc.co.in",
       "existing_phone": "91-40-23538757",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Anurag Kapil",
+        "designation": "Director (Finance) & Chief Financial Officer, NMDC Steel Ltd. (DIN 06640383)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "cs_nisp@nmdc.co.in / 040-23538713, 040-23538723, 040-23538767 (NMDC Steel corporate office, Hyderabad)",
+        "confidence": "high",
+        "source": "Ministry of Steel order/exchange filing dated 31-Mar-2026, corroborated by TipRanks, InvestyWise, ScanX, PSU Connect, IndianMasterminds",
+        "notes": "Appointed by the Ministry of Steel for a 5-year term effective 31-Mar-2026, replacing K Raj Shekhar. No direct personal email/mobile found publicly; corporate-office contact used as fallback (distinct from parent NMDC Ltd.'s cs@nmdc.co.in on file).",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Paraj Kanti Saha",
+          "designation": "Company Secretary & Compliance Officer, NMDC Steel Ltd.",
+          "mobile": null,
+          "email": "cs_nisp@nmdc.co.in",
+          "fallback": "040-23538713 / 23538723 / 23538767",
+          "confidence": "high",
+          "source": "TipRanks / InvestyWise / ScanX coverage of NMDC Steel's company secretary change effective 30-Jul-2026",
+          "notes": "Recently appointed (30-Jul-2026), replacing Aniket Kulshreshtha who moved to parent NMDC Ltd."
+        }
+      ]
     },
     {
       "row": 20,
@@ -736,19 +801,40 @@
       "sector": "Infrastructure & Construction",
       "existing_reg_email": "dblinfraassets@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Mayank Jiniwal",
+        "designation": "CFO, DBL Infra Assets Pvt. Ltd. (also General Manager - Finance, Dilip Buildcon Ltd., the group/parent company)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "dblinfraassets@gmail.com (existing registered email on file)",
+        "confidence": "medium",
+        "source": "LinkedIn profile identifying him as CFO, DBL Infra Assets Pvt Ltd; corroborated by ZaubaCorp director listing for the company",
+        "notes": "Designation confirmed via LinkedIn only, capped at medium confidence. A masked RocketReach email (Dilip Buildcon domain) is unverified and not usable. No public direct phone number found.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sanjay Kumar Bansal",
+          "designation": "CFO, Dilip Buildcon Ltd. (parent/group company of DBL Infra Assets)",
+          "mobile": null,
+          "email": null,
+          "fallback": "+91-755-4029999 (Dilip Buildcon Ltd. general company line, Bhopal)",
+          "confidence": "low",
+          "source": "RocketReach contact listing - unverified third-party database",
+          "notes": "Parent group's CFO, not DBL Infra Assets' own; included only as group-level escalation path given shared directors."
+        },
+        {
+          "name": "Gautam Jain",
+          "designation": "Head - Investor Relations, Dilip Buildcon Ltd. (parent group company)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "Unverified third-party company-database search result",
+          "notes": "Group-level IR contact only, not specific to DBL Infra Assets."
+        }
+      ]
     },
     {
       "row": 21,
@@ -757,19 +843,30 @@
       "sector": "Manufacturing",
       "existing_reg_email": "jisl@jains.com",
       "existing_phone": "91-257-2258011",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Bipeen (Bipin) Yashwant Valame",
+        "designation": "Group CFO & Executive Director",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "bipeen.valame@jains.com",
+        "fallback": "jisl@jains.com / investor.corr@jains.com, +91-257-2258011",
+        "confidence": "medium",
+        "source": "LinkedIn, TheOrg, MarketScreener bio, and Q4FY26/Q1FY27 earnings-call coverage all confirm Bipeen Valame as CFO since March 2023",
+        "notes": "Name/designation high confidence (3+ sources). Personal email NOT independently verified - inferred from the confirmed firstname.lastname@jains.com domain pattern (verified via CS Avdhut Ghodgaonkar's real address). Treat email as medium-confidence inference.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Avdhut V. Ghodgaonkar",
+          "designation": "Company Secretary & Chief Compliance Officer (handles SEBI/stock-exchange & debt compliance matters)",
+          "mobile": null,
+          "email": "avdhut.ghodgaonkar@jains.com",
+          "fallback": "Tel +91-257-2258011, Fax +91-257-2258111",
+          "confidence": "high",
+          "source": "Jain Irrigation investor contact page and BSE corporate filings signed by A.V. Ghodgaonkar",
+          "notes": "Long-serving Secretary/Compliance Officer since 1992; good alternate contact for NCD/debt-related outreach."
+        }
+      ]
     },
     {
       "row": 22,
@@ -778,17 +875,17 @@
       "sector": "Manufacturing",
       "existing_reg_email": "manish.modani@rdcconcreteindia.com",
       "existing_phone": "91-11-6854550",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Manish Girish Modani",
+        "designation": "Chief Financial Officer",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "manish.modani@rdcconcreteindia.com",
+        "fallback": "91-11-6854550 (existing on file; note current registered office is Thane, Maharashtra, so this Delhi landline may be outdated)",
+        "confidence": "high",
+        "source": "TheOrg, LinkedIn, ZoomInfo and RocketReach all independently confirm Manish Modani as CFO with this exact email address",
+        "notes": "Confirms the existing_reg_email on file already belongs to the CFO. Modani joined RDC Concrete in 2016 as Head of Finance & Accounts, promoted to CFO in 2019.",
+        "run": "2026-08-13-2100"
       },
       "additional": []
     },
@@ -799,19 +896,30 @@
       "sector": null,
       "existing_reg_email": "bindu.d@puravankara.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
-        "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "name": "Niraj Kumar Gautam (also seen as \"Neeraj Gautam\")",
+        "designation": "Group Chief Financial Officer, Puravankara Limited (parent group; Provident Meryta Pvt Ltd is a Puravankara/Provident Housing project SPV with no separate finance team)",
+        "mobile": "+91-80-4343 9794",
+        "email": "neeraj.gautam@puravankara.com",
+        "fallback": "investors@puravankara.com, +91 80 2559 9000 / 4343 9999",
+        "confidence": "medium",
+        "source": "MarketScreener/HR news coverage of his Sept 24, 2025 CFO appointment; email/phone per ZoomInfo and RocketReach aggregator listings",
+        "notes": "Provident Meryta itself has no dedicated CFO. Name/appointment corroborated (boardstewardship.com, Business Standard), but personal email/mobile only from data-aggregator sites, capped at medium. The existing_reg_email on file (bindu.d@puravankara.com) appears STALE - current Group Head-CS is Sudip Chatterjee.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sudip Chatterjee",
+          "designation": "Group Head - Company Secretary & Compliance Officer, Puravankara Limited",
+          "mobile": null,
+          "email": null,
+          "fallback": "investors@puravankara.com, +91 80 2559 9000",
+          "confidence": "high",
+          "source": "Multiple 2025-2026 BSE/NSE regulatory filings signed by Sudip Chatterjee, and RocketReach profile",
+          "notes": "Current signatory on Puravankara Group compliance/debt-related filings; no direct personal email/phone verified."
+        }
+      ]
     },
     {
       "row": 24,
@@ -820,19 +928,30 @@
       "sector": "Others",
       "existing_reg_email": "kings.infra@gmail.com",
       "existing_phone": "91-80-28462200",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Lalbert Cherian",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "kings.infra@gmail.com / 91-80-28462200 (registered office)",
+        "confidence": "high",
+        "source": "Kings Infra Ventures 37th AGM Summary of Proceedings (kingsinfra.com, Sept 2025) naming Lalbert Cheriyan as CFO; corroborated by MarketScreener/Reuters brief and FY2025-26 results press release (June 2026, aninews.in)",
+        "notes": "No verified direct email or mobile found; a ZoomInfo masked email could not be confirmed, so excluded rather than guessed.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Nanditha T",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": null,
+          "fallback": "cs@kingsinfra.com (company CS-line email, not individually confirmed as hers)",
+          "confidence": "high",
+          "source": "Kings Infra Ventures 37th AGM Summary of Proceedings (kingsinfra.com, Sept 2025)",
+          "notes": "Supersedes an older CS (Leena Yezhuvath) who has since moved to another company."
+        }
+      ]
     },
     {
       "row": 25,
@@ -841,19 +960,30 @@
       "sector": "BFSI",
       "existing_reg_email": "muthoot.enterprises@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rajeev Nair (also referenced as M.R. Rajeev / Rajeev Madhavan Nair)",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "muthoot.enterprises@gmail.com (existing registered email)",
+        "confidence": "medium",
+        "source": "RocketReach profile 'Muthoot Mercantile Ltd Chief Financial Officer' (Rajeev Nair); corroborated by a company event reference and director-list name match on ZaubaCorp",
+        "notes": "Single confirmed CFO name via 2 low-authority sources plus a director-list match; could not verify via annual report or a personal email/mobile, left null rather than inferred. Confirmed distinct from Muthoot Finance/Muthoot Capital executives.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Neethu C Biju",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "high",
+          "source": "Muthoot Mercantile NCD (May 2024) ASBA Application Form / offer document, muthootenterprises.com",
+          "notes": "Named as Compliance Officer for the NCD issue; also listed among company directors on ZaubaCorp."
+        }
+      ]
     },
     {
       "row": 26,
@@ -862,19 +992,40 @@
       "sector": "Services",
       "existing_reg_email": "gil.cosecy@gmrgroup.in",
       "existing_phone": "91-80-49216751",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Saurabh Chawla",
+        "designation": "Chief Financial Officer (KMP), GMR Airports Ltd (seconded from GMR Group, where he is Group CFO & Executive Director - Finance & Strategy)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "gil.cosecy@gmrgroup.in / 91-80-49216751 (existing registered CS email/phone)",
+        "confidence": "high",
+        "source": "Bloomberg Markets executive profile; MarketScreener insider profile; TheOrg GMR Group org chart",
+        "notes": "No individually verified direct email/mobile found; not guessed. Entity-level KMP CFO, distinct from GMR Hyderabad Airport (GHIAL) subsidiary's separately reported CFO-designate.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ankit Nandu",
+          "designation": "Associate General Manager - Investor Relations, GMR Group",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "LinkedIn profile + TheOrg GMR Group org chart + ZoomInfo listing",
+          "notes": "LinkedIn/ZoomInfo-only corroboration; email shown masked, not independently confirmed."
+        },
+        {
+          "name": "Amit Jain",
+          "designation": "Head - Investor Relations (title per LinkedIn, at 'GMR Ltd')",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "LinkedIn profile only",
+          "notes": "Single-source; excluded an unconfirmed email rather than reporting an unverified address."
+        }
+      ]
     },
     {
       "row": 27,
@@ -883,19 +1034,40 @@
       "sector": "Real Estate",
       "existing_reg_email": "bindu.d@puravankara.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Niraj Kumar Gautam",
+        "designation": "Group Chief Financial Officer, Puravankara Limited (parent); also listed as a Director of Purva Oak Pvt. Ltd. itself",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "niraj.g@puravankara.com",
+        "fallback": "investors@puravankara.com",
+        "confidence": "medium",
+        "source": "Puravankara Limited official corporate announcement 'Appoints Niraj Kumar Gautam as CFO' effective 24-Sep-2025; ZaubaCorp company record for Purva Oak Pvt. Ltd. lists him among current directors",
+        "notes": "Name/designation high-confidence (official appointment + confirmed director on Purva Oak itself). Email is NOT verified for Gautam personally - an INFERRED guess from the on-file address pattern; treat as unconfirmed and verify before use. Downgraded to medium because of the unverified email.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Jyoti Sahu",
+          "designation": "Company Secretary & Compliance Officer, Puravankara Limited (handles investor/debenture-holder grievances for the group, including SPVs like Purva Oak)",
+          "mobile": null,
+          "email": null,
+          "fallback": "investors@puravankara.com",
+          "confidence": "medium",
+          "source": "Web search on Puravankara Limited investor-grievance/compliance-officer disclosures",
+          "notes": "No direct personal email/phone found, only the group investor-relations mailbox."
+        },
+        {
+          "name": null,
+          "designation": "Debenture Trustee (institutional, not a company employee)",
+          "mobile": null,
+          "email": null,
+          "fallback": "Catalyst Trusteeship Limited, 901, 9th Floor, Tower-B, Peninsula Business Park, Lower Parel (W), Mumbai",
+          "confidence": "low",
+          "source": "Purva Oak Private Limited - Details of Debenture Trustee (backend.puravankara.com uploads listing)",
+          "notes": "Institutional debenture trustee contact for Purva Oak's NCDs, not a company finance officer."
+        }
+      ]
     },
     {
       "row": 28,
@@ -904,17 +1076,17 @@
       "sector": "BFSI",
       "existing_reg_email": "hfinlease@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Chandramouli Akkiraju (also seen as Akkiraju Chandramouli / Chandra Mouli Akkiraju)",
+        "designation": "Chief Executive Officer & Director, Heritage Finlease Ltd. (no separately titled CFO/Head-Finance found; at this company size the CEO appears to also oversee finance)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "hfinlease@gmail.com",
+        "confidence": "medium",
+        "source": "Heritage Finlease Ltd. official site (board-of-directors/management-team pages); LinkedIn profile; ZoomInfo company/employee profile",
+        "notes": "Consistently named across company site, LinkedIn, ZoomInfo/RocketReach as CEO and board director. No named CFO/VP-Finance/Treasury head found for this small NBFC. Personal email only partially shown by an aggregator, left null.",
+        "run": "2026-08-13-2100"
       },
       "additional": []
     },
@@ -925,19 +1097,30 @@
       "sector": null,
       "existing_reg_email": "rk_malpani@virtuousretail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rambhupal Reddy",
+        "designation": "Chief Financial Officer, Virtuous Retail (VR Bharat / VR group - the operating group that runs V R Dakshin Pvt. Ltd.'s malls)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "r_reddy@virtuousretail.com",
+        "fallback": "cs_vrb@vrbharat.com",
+        "confidence": "medium",
+        "source": "ZoomInfo profile 'Chief Financial Officer at Virtuous Retail - Rambhupal Reddy'; RocketReach Virtuous Retail management/finance-department org chart",
+        "notes": "Identified via two independent data-aggregator sources agreeing on name/title, but not confirmed via company site/LinkedIn, kept at medium. Email is an INFERRED guess based on the on-file address pattern; treat as unconfirmed. Could not verify who the existing on-file contact 'R K Malpani' is or whether that person still holds a finance role.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": null,
+          "designation": "Company Secretary / Compliance desk, VR Bharat group",
+          "mobile": null,
+          "email": "cs_vrb@vrbharat.com",
+          "fallback": "cs_vrb@vrbharat.com",
+          "confidence": "medium",
+          "source": "Web search result citing VR Dakshin Private Limited's official group contact email",
+          "notes": "Generic company-secretary/compliance mailbox for the VR Bharat group; useful fallback since no named CS was surfaced."
+        }
+      ]
     },
     {
       "row": 30,
