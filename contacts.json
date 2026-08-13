@@ -5257,17 +5257,17 @@
       "sector": "Others",
       "existing_reg_email": "intimation@inbrew.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Bhupendra Chhapwale",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "bhupendra.chhapwale@inbrew.com",
+        "fallback": "intimation@inbrew.com; Bengaluru HQ: Tower B, RMZ Millenia, Halasuru, Bengaluru 560008",
+        "confidence": "medium",
+        "source": "TheOrg, RocketReach, ZoomInfo, LinkedIn - 3+ independent sources corroborate identity/role",
+        "notes": "High confidence on identity/role, but email is INFERRED from RocketReach's firstname.lastname@inbrew.com pattern data, not confirmed verbatim - medium confidence. No mobile found. Prior CFO experience: Molson Coors, SABMiller, Mondelez, AB InBev.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -5278,19 +5278,31 @@
       "sector": "BFSI",
       "existing_reg_email": "salemerodeinvestmentsltd@gmail.com",
       "existing_phone": "91-487-2828071",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Natarajan R (CA)",
+        "designation": "Chief Financial Officer (CFO) & Key Managerial Personnel",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "cs@salemerode.com; salemerodeinvestmentsltd@gmail.com; landline +91 33 24752834 and +91 487 2828071",
+        "confidence": "high",
+        "source": "Company's own regulatory appointment filing (salemerode.com), corroborated by corporate-information page",
+        "notes": "Appointed CFO/KMP effective 30 June 2021 per official company disclosure - primary source, high confidence. No personal email/mobile found. CIN appears inconsistently across sources, worth reconciling before outreach.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Manisha N. Menon",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "cs@salemerode.com",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "salemerode.com/corporate-information.html",
+          "notes": "Would typically handle debenture trustee and debt-compliance correspondence.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 149,
@@ -5299,17 +5311,17 @@
       "sector": null,
       "existing_reg_email": "ranjit@xingdth.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Amit Kumar Verma",
+        "designation": "Chief Financial Officer (Group CFO, Dish TV India Ltd - also listed as CFO/KMP of this subsidiary)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investor@dishd2h.com; ranjit@xingdth.in (existing registered email, appears generic/admin)",
+        "confidence": "medium",
+        "source": "thecompanycheck.com lists him as CFO of this specific entity appointed 26 Dec 2024, corroborated for parent-company role by exchange4media.com and boardstewardship.com",
+        "notes": "Parent-level appointment (effective 1 Oct 2024) well corroborated by 2+ sources; subsidiary-specific appointment reported by only one aggregator, not independently cross-verified - medium confidence overall. 20+ years with Dish/Zee group.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -5320,19 +5332,31 @@
       "sector": "Services",
       "existing_reg_email": "ssrfcs@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Mangala Sachin Savla",
+        "designation": "Company Secretary & Compliance Officer",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "info@titanintech.in",
+        "fallback": "+91 87908 14671",
+        "confidence": "high",
+        "source": "Company's official BSE-mandated disclosure 'Contact information of designated officials of listed entity', corroborated by other BSE corporate filings",
+        "notes": "Officially designated compliance/nodal contact under SEBI LODR, not a named CFO. Email/phone are official listed contact, not personal.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Kumarraju Rudraraju",
+          "designation": "Managing Director",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Aggregated director/board listings (ZaubaCorp, Tofler) cross-referenced with BSE corporate announcements",
+          "notes": "No direct personal email/phone found; would need to be reached via company's official channel.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 151,
@@ -5341,19 +5365,31 @@
       "sector": null,
       "existing_reg_email": "kedar.natu@sumashilp.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "kedar.natu@sumashilp.com (Suma Shilp group office, Erandawane, Pune)",
+        "confidence": "low",
+        "source": "MCA registration record contact matching Suma Shilp Group registered office; could not verify Kedar Natu's designation via any public source",
+        "notes": "No named CFO/Finance Controller/Treasury head found. Company operates Westend Mall, Aundh, Pune (Nexus Malls/Blackstone 50%, Suma Shilp Group 50%). Finance likely sits with one of the JV partners' finance teams, neither identified by name for this entity.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Virendrasingh Shivkumar Thakur",
+          "designation": "Whole-Time Director, Chitrali Properties Pvt. Ltd. (also Sr. Center Director, Nexus Malls, Pune)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "ZaubaCorp/TheCompanyCheck director listing; LinkedIn profile confirming Nexus Malls role",
+          "notes": "Operational/property-management role, not finance; no email/phone found.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 152,
@@ -5362,19 +5398,31 @@
       "sector": null,
       "existing_reg_email": "ram@vachanaa.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Jay Viresh Dayani",
+        "designation": "Senior Vice President, Finance - Virtuous Retail / Xander Group (also a director on this SPV's board)",
         "mobile": null,
         "email": null,
         "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "confidence": "medium",
+        "source": "Director listing for VR Konkan Private Limited cross-referenced with LinkedIn, TheOrg Virtuous Retail Finance team page, and ZoomInfo profile",
+        "notes": "This SPV is a Virtuous Retail (Xander Group + APG JV) project developing ~7 million sq ft mixed-use project in Thane West. Jay Dayani is both board director and group's Senior VP Finance - most credible finance contact. Email masked on ZoomInfo, not guessed.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ramachanderan Ramamurthy",
+          "designation": "Managing Partner, Vachanaa Corporate Services LLP (CPA, ACS)",
+          "mobile": null,
+          "email": "ram@vachanaa.com",
+          "fallback": "ram@vachanaa.com",
+          "confidence": "medium",
+          "source": "ZaubaCorp entry for Vachanaa Corporate Services LLP; matches existing registered contact email supplied in source data",
+          "notes": "Not currently listed as director of this specific CIN; appears to run external corporate-secretarial/compliance services firm servicing VR group SPVs rather than internal finance officer.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 153,
@@ -5383,19 +5431,31 @@
       "sector": "Power & Energy",
       "existing_reg_email": "csavvnl@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "csavvnl@gmail.com; AVVNL corporate helpline 1800-180-6127/6565",
+        "confidence": "low",
+        "source": "Web search across zaubacorp.com, energy.rajasthan.gov.in, AVVNL tender documents, and news - no authoritative page fetchable, findings from search snippets only",
+        "notes": "Could not identify currently serving named Director (Finance)/CFO. MD is K.P. Verma (technocrat/engineer, not finance-specific). Prior Chief Accounts Officer B.L. Sharma has since retired. Board list does not clearly flag a Director Finance title.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "K.P. Verma (Kamal Prakash Verma)",
+          "designation": "Managing Director, AVVNL (technocrat/engineer background, not finance-specific)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "firstindia.co.in, thebuckstopper.com, official AVVNL social media",
+          "notes": "Confirmed permanent MD since mid-2025 by multiple sources; senior escalation contact only, operational/technical role.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 154,
@@ -5404,19 +5464,42 @@
       "sector": "BFSI",
       "existing_reg_email": "sec@asirvad.in",
       "existing_phone": "91-44-42124493",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rajesh K R N Namboodiripad",
+        "designation": "Chief Financial Officer, Asirvad Micro Finance Limited",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "sec@asirvad.in / 91-44-42124493",
+        "confidence": "high",
+        "source": "Asirvad official website Management Team page corroborated independently by MarketScreener India insider profile",
+        "notes": "Chartered Accountant, 22+ years experience, joined as CFO Dec 2021 per both sources. No direct personal mobile/email found, none guessed. A conflicting LinkedIn listing for a different person as CFO is uncorroborated and likely inaccurate.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Aparna Menon",
+          "designation": "Company Secretary & Compliance Officer, Asirvad Micro Finance Limited",
+          "mobile": null,
+          "email": "sec@asirvad.in",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Zaubacorp/MCA director-and-KMP listing",
+          "notes": "Typically the compliance point of contact for NCD/debenture-trustee matters at NBFCs; existing email consistent with this role.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Buvanesh Tharashankar",
+          "designation": "Group Chief Financial Officer, Manappuram Finance Ltd (parent company)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "high",
+          "source": "Business Standard, The Week, and multiple financial news outlets, late December 2025",
+          "notes": "Appointed Group CFO of parent Manappuram Finance effective 26 Dec 2025 (ex-CFO of RBL Bank and Jana Small Finance Bank); group-level escalation contact.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 155,
@@ -5425,19 +5508,31 @@
       "sector": null,
       "existing_reg_email": "meseb-shil-meg@nic.in",
       "existing_phone": "91-364-2590610",
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
-        "designation": null,
+        "designation": "Director (Finance), Meghalaya Energy Corporation Limited (MeECL)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "dirfinance.meecl@meghalaya.gov.in",
+        "fallback": "meseb-shil-meg@nic.in / 91-364-2590610",
+        "confidence": "medium",
+        "source": "MeECL official Official Email IDs circular, referenced via web search snippet dated August 2024",
+        "notes": "Official position-specific government email, but current named individual could not be identified - role is rotating IAS/state-cadre appointment. Email is role-based, not verified to reach a specific named person.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ramakrishna Chitturi, IAS",
+          "designation": "Formerly Director (Finance) & Member, MeECL (per Annual Report FY2022-23)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "MePDCL Annual Report FY2022-23, cross-referenced against 2025 Instagram post",
+          "notes": "Appears to have rotated out into a state Finance Department role - likely outdated.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 156,
@@ -5446,17 +5541,17 @@
       "sector": "BFSI",
       "existing_reg_email": "hq@uaeexchange.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Manoj V. Mathew",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "mca@unimoniindia.com; Toll-free 1800 102 0555",
+        "confidence": "medium",
+        "source": "Cross-verified across LinkedIn, company Facebook post naming him CFO, and Tracxn/RocketReach profile for Wizzmoni Financial Services Ltd (renamed from Unimoni Financial Services)",
+        "notes": "Company renamed 'Wizzmoni Financial Services Ltd'. Identity corroborated by 2+ sources but no verified corporate email/mobile found. CEO is CA Krishnan R; registered office Manipal Centre, Bangalore.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -5467,19 +5562,31 @@
       "sector": "Others",
       "existing_reg_email": "askus@shalimarpaints.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Kundan Sangwar",
+        "designation": "Chief Financial Officer (appointed as KMP effective 12 August 2026)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "kundan.sangwar@shalimarpaints.com",
+        "fallback": "askus@shalimarpaints.com",
+        "confidence": "medium",
+        "source": "Board resolution/SEBI Regulation 30 disclosure reported via scanx.trade; previously AGM at JSW Paints per Apollo.io",
+        "notes": "Very recent appointment from single stock-exchange-disclosure source - medium confidence pending second confirmation. Email is inferred pattern based on confirmed CS email, treat as unverified. Predecessors: Sachin Naik (resigned 30-May-2026), Manoj Kumar Pasari (appointed Feb 2024).",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Snehal (Mahendra) Saboo",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "snehal.saboo@shalimarpaints.com",
+          "fallback": "askus@shalimarpaints.com; Registrar (Beetal Financial) 011-29961281-83",
+          "confidence": "medium",
+          "source": "ZoomInfo profile and general web aggregator listings",
+          "notes": "Typically handles debenture/compliance correspondence for listed issuers. Not independently verified via company's own site (unreachable).",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 158,
@@ -5488,17 +5595,17 @@
       "sector": "Power & Energy",
       "existing_reg_email": "gridcofca@gridco.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "CMA Kshirod Chandra Nanda",
+        "designation": "Director (Finance) / CFO, GRIDCO Ltd (Board-level Whole-Time Director)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "gridcofca@gridco.co.in; cs@gridco.co.in; phone 0674-2540098/2540877",
+        "confidence": "high",
+        "source": "ICMAI Bhubaneswar Chapter felicitation coverage on appointment (~7 July 2025), corroborated by FalconEbiz/TheCompanyCheck director-record aggregators via his DIN",
+        "notes": "Identity corroborated by 2+ independent sources. gridcofca@ address treated as Finance & Corporate Affairs desk fallback, not personal inbox. MD is Satya Priya Rath, IAS (appointed July 2025) as alternate.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -5509,17 +5616,17 @@
       "sector": null,
       "existing_reg_email": "fin@designarch.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "fin@designarch.in (Designarch Group Finance desk)",
+        "confidence": "medium",
+        "source": "EasyLeadz company profile and Dun & Bradstreet business directory listing both confirm fin@designarch.in as finance contact",
+        "notes": "No named CFO/Finance Head identified specifically for this entity. Directors on record are Shivang Bhardwaj and Rajeev Arora (Technical Director, not finance). Could not find Designarch-group CFO/Finance Controller via LinkedIn/ZoomInfo/site searches.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -5530,19 +5637,31 @@
       "sector": null,
       "existing_reg_email": "roc@wadhwadevelopers.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sanket Jain",
+        "designation": "Chief Financial Officer, The Wadhwa Group",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "Head Office landline 022-6144 6603 / toll-free 1800 209 6669",
+        "confidence": "medium",
+        "source": "ZoomInfo and RocketReach both list him as CA/CFO of The Wadhwa Group; LinkedIn confirms, prior background at DLF/Godrej Properties/Nirmal Lifestyle",
+        "notes": "Registered address matches The Wadhwa Group's head office. Email not found directly - was inferred from company pattern but not included per no-fabrication rule (left null). No direct phone found for him personally.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "N. Modani",
+          "designation": "Director, Finance, The Wadhwa Group",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "ZoomInfo profile - single source",
+          "notes": "Listed as Finance leadership (progressed from CFO to Director of Finance per bio); could not corroborate with second source. May be predecessor to Sanket Jain.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 161,
@@ -5551,19 +5670,31 @@
       "sector": "BFSI",
       "existing_reg_email": "phf_leasingltd@yahoo.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
-        "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "name": "Shikha Kapoor",
+        "designation": "Company Secretary & Compliance Officer",
+        "mobile": "98786-38505",
+        "email": "compliance@credif.in",
+        "fallback": "Registered office phone 0181-4639903-06/08; corporate office (Skyline Financial Services, New Delhi) 011-26812682",
+        "confidence": "high",
+        "source": "Official Credifin Limited Investor Contact page (credif.in/investor-contact), corroborated by regulatory filings citing her CS membership number A19146",
+        "notes": "CS/Compliance role, not dedicated CFO, but most senior named finance-adjacent/debt-compliance contact found - typical CS-handles-debt-compliance setup at small NBFCs. 2 independent sources agree - high confidence.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Vijay Kumar Sareen",
+          "designation": "Whole-Time Director",
+          "mobile": null,
+          "email": null,
+          "fallback": "0181-4639903-08",
+          "confidence": "medium",
+          "source": "Official Credifin Limited Investor Contact page",
+          "notes": "Listed as named investor-contact point alongside Shikha Kapoor. Ex-Vice-Principal, D.A.V. College, Jalandhar.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 162,
@@ -5572,19 +5703,31 @@
       "sector": "BFSI",
       "existing_reg_email": "shalibhadra_mum@yahoo.co.in",
       "existing_phone": "91-22-24322993",
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Vatsal M. Doshi",
+        "designation": "Whole-time Director & Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "shalibhadra_mum@yahoo.co.in / +91-22-24322993, 24322994, 24224575",
+        "confidence": "medium",
+        "source": "MarketScreener insider profile, RocketReach org chart, Bloomberg profile page; registered office phone/email cross-checked against indiratrade.com board-members page",
+        "notes": "Sources conflict on exact CFO attribution within this family-run NBFC board - another profile shows Minesh Mukund Doshi (MD) also as CFO since Aug 2023, a third mentions Dhruvil Doshi as prior Whole-Time Director cum CFO. No personal mobile/email found for any - verify by phone before outreach.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Darshana Deepak Chauhan",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": null,
+          "fallback": "shalibhadra_mum@yahoo.co.in / +91-22-24322993",
+          "confidence": "medium",
+          "source": "ZaubaCorp director listing and indiratrade.com company profile page",
+          "notes": "Would typically handle debt/NCD compliance filings for this listed NBFC.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 163,
@@ -5593,19 +5736,42 @@
       "sector": null,
       "existing_reg_email": "cosecdbr@dbg.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "cosecdbr@dbg.co.in; DB Group registered office +91-22-49742706 / info@dbg.co.in (Valor Estate Ltd/DB Realty, Mumbai)",
+        "confidence": "low",
+        "source": "Zauba Corp company record (via search snippet); group registered-office contact corroborated via BSE corporate filings for Valor Estate Limited (formerly D B Realty Ltd)",
+        "notes": "Closely-held DB Group/Balwa-family SPV entity with no independent CFO/treasury head/IR desk found. Hint email strongly suggests correspondence routed through Valor Estate Ltd's company secretarial desk rather than a Pandora-specific contact.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Atul Bhatnagar",
+          "designation": "Chief Financial Officer, Valor Estate Ltd. (formerly D B Realty Ltd) - listed DB Group flagship company",
+          "mobile": null,
+          "email": null,
+          "fallback": "info@dbg.co.in / +91-22-49742706",
+          "confidence": "low",
+          "source": "Trendlyne CFO salary-history page, MarketScreener insider profile, Bloomberg profile",
+          "notes": "Group-listed entity's CFO, NOT confirmed officer of Pandora Projects itself - most likely senior finance escalation point given shared group structure but unverified for this specific entity.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Abdul Hafeez Balwa",
+          "designation": "Director, Pandora Projects Pvt Ltd (Balwa family / DB Group)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "ZaubaCorp director listing (search snippet) for this specific CIN",
+          "notes": "Confirmed named director on record for this entity specifically, but no finance-specific designation or contact found.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     }
   ]
 }
