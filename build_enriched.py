@@ -49,8 +49,18 @@ NEW_COLS = [
     "Confidence",
     "Source",
     "Notes",
+    "Additional Contacts",
     "Run",
 ]
+
+
+def fmt_extra(c):
+    """One additional contact -> a single readable line with an inline confidence tag."""
+    parts = [c.get("name"), c.get("designation"), c.get("mobile"),
+             c.get("email"), c.get("fallback")]
+    body = " | ".join(p for p in parts if p)
+    conf = (c.get("confidence") or "").upper()
+    return f"{body}  ({conf})" if conf else body
 
 
 def main():
@@ -88,6 +98,8 @@ def main():
         ct = rec.get("contact", {})
         conf = (ct.get("confidence") or "").lower()
         fill = FILLS.get(conf)
+        extras = rec.get("additional") or []
+        extra_txt = "\n".join(fmt_extra(c) for c in extras if fmt_extra(c)) or None
         vals = [
             ct.get("name"),
             ct.get("designation"),
@@ -97,6 +109,7 @@ def main():
             (conf.upper() if conf else None),
             ct.get("source"),
             ct.get("notes"),
+            extra_txt,
             ct.get("run"),
         ]
         any_val = any(v for v in vals)
@@ -105,7 +118,9 @@ def main():
             cell.font = BASE_FONT
             cell.border = BORDER
             cell.alignment = Alignment(vertical="top", wrap_text=True)
-            if fill and any_val:
+            # column index 8 = "Additional Contacts": extras carry their own
+            # inline (CONF) tag, so don't paint it with the primary color.
+            if fill and any_val and j != 8:
                 cell.fill = fill
         if any_val and conf in filled:
             filled[conf] += 1
@@ -113,7 +128,8 @@ def main():
             done += 1
 
     # widths
-    widths = [34, 14, 8, 55, 22, 12, 22, 55, 40, 20, 20, 55, 22, 26, 26, 18, 24]
+    widths = [34, 14, 8, 55, 22, 12, 22, 55, 40, 20, 20, 55, 22, 26, 26, 18, 24,
+              22, 20, 16, 30, 26, 12, 26, 40, 52, 18]  # 17 original + 10 new
     from openpyxl.utils import get_column_letter
     for idx in range(1, ws.max_column + 1):
         w = widths[idx - 1] if idx - 1 < len(widths) else 20

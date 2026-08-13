@@ -30,13 +30,21 @@ Each company object in `contacts.json`:
   "row": 0, "company": "...", "cin": "...", "sector": "...",
   "existing_reg_email": "...", "existing_phone": "...",
   "status": "pending | done | partial | not_found",
-  "contact": {
+  "contact": {                      // PRIMARY contact (CFO / Treasury preferred)
     "name": null, "designation": null, "mobile": null, "email": null,
     "fallback": null, "confidence": "high|medium|low",
     "source": null, "notes": null, "run": null
-  }
+  },
+  "additional": []                  // ANY other finance contacts found — same shape
 }
 ```
+
+**Capture everything you find.** The master should hold *all* contacts per company, not
+just one. Put the best CFO/Treasury contact in `contact`; add every other useful finance
+person (deputy CFO, VP Finance, Treasury manager, IR head, Company Secretary for debt, …)
+as its own object in the `additional` list. Each additional contact carries its own
+`confidence`, and shows in the "Additional Contacts" column with an inline `(HIGH/MED/LOW)`
+tag.
 
 ---
 
