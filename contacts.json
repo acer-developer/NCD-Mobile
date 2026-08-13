@@ -4296,19 +4296,31 @@
       "sector": "Real Estate",
       "existing_reg_email": "ravikumar.reddy@puravankara.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Niraj Kumar Gautam",
+        "designation": "Chief Financial Officer, Puravankara Limited (parent group CFO; SPV has no separate dedicated CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investors@puravankara.com / +91 80 25599000 (43439999), Puravankara Ltd registered office, Bengaluru",
+        "confidence": "high",
+        "source": "MarketScreener, rprealtyplus.com, boardstewardship.com, stockinsights.ai management-changes filing - appointment effective 24-Sep-2025",
+        "notes": "This SPV's own directors are only promoter family (Jasbir Ashish Puravankara, Ashish Ravi Puravankara). Finance leadership operates at Puravankara group level. No direct email/mobile for Gautam found publicly.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sudip Chatterjee",
+          "designation": "Group Head - Company Secretary & Compliance Officer, Puravankara Limited",
+          "mobile": null,
+          "email": "sudip.chatterjee@puravankara.com",
+          "fallback": "080-43439999, No. 130/2, Ulsoor Road, Bangalore-560042",
+          "confidence": "medium",
+          "source": "ZoomInfo, RocketReach, Puravankara BSE corporate filings signed by him",
+          "notes": "Handles debenture trustee/NCD investor-grievance correspondence group-wide. Email INFERRED using firstname.lastname pattern matching hint format; masked on aggregators.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 118,
@@ -4317,17 +4329,17 @@
       "sector": "Power & Energy",
       "existing_reg_email": "chairman@tnebnet.org",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Vishu Mahajan, IAS",
+        "designation": "Joint Managing Director (Finance), TANGEDCO",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "cpro@tnebnet.org, +91 44 2852 0131 (TANGEDCO HQ, Chennai)",
+        "confidence": "high",
+        "source": "IndianBureaucracy.com, ZoomInfo listing as JMD at TANGEDCO, X/PPPF-2026 event post confirming current role, thesecretariat.in IAS bio page",
+        "notes": "TANGEDCO was administratively restructured in 2024-25 into separate generation/distribution/renewable entities. JMD(Finance) role currently held by IAS officer Vishu Mahajan. No direct personal email/mobile found. Existing hint email chairman@tnebnet.org is Chairman/CMD's generic address, not finance-specific.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -4338,19 +4350,31 @@
       "sector": null,
       "existing_reg_email": "imfl@inditrade.com",
       "existing_phone": "91-22-61424750",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Biju Sreeramachandran",
+        "designation": "Chief Financial Officer, Inditrade Capital Limited (listed group parent)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "imfl@inditrade.com, +91-22-61424750",
+        "confidence": "medium",
+        "source": "BSE corporate filing dated 17-Jul-2024 stating appointment as CFO & Manager effective 30-May-2024; corroborated by QuickCompany director record",
+        "notes": "Subsidiary board comprises non-finance-executive directors; group CFO is most relevant finance contact found. No direct personal email/mobile located.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sudip Bandyopadhyay",
+          "designation": "Chairman/Promoter, Inditrade Capital Limited; Director, Inditrade Microfinance Ltd",
+          "mobile": null,
+          "email": null,
+          "fallback": "imfl@inditrade.com, +91-22-61424750",
+          "confidence": "high",
+          "source": "QuickCompany director listing confirming directorship in Inditrade Microfinance specifically; widely covered in financial media as group promoter/MD",
+          "notes": "Not finance-title but top decision-maker/promoter and a director on this specific board; useful escalation contact.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 120,
@@ -4359,19 +4383,42 @@
       "sector": null,
       "existing_reg_email": "abansrealty@abans.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Nirbhay Fancy Vassa",
+        "designation": "Chief Financial Officer (KMP, Abans Finance Pvt Ltd)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "abansrealty@abans.co.in (generic Abans Group mailbox, not confirmed specific to Abans Finance Pvt Ltd)",
+        "confidence": "medium",
+        "source": "MCA-derived KMP listing aggregated by ZaubaCorp/TheCompanyCheck, corroborated by Bloomberg and MarketScreener insider profiles listing him as CFO & Director, Abans Holdings/Abans Finserv group",
+        "notes": "Named as CFO KMP specifically for this CIN per aggregator sites. Separate 2026 news indicates he may be leaving related entity Abans Financial Services Ltd effective 15-May-2026 - unclear if applies to this specific entity. No verified direct email/mobile found.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Dharav Ashok Sheth",
+          "designation": "Company Secretary (KMP)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "ZaubaCorp/TheCompanyCheck MCA-derived KMP listing",
+          "notes": "Company Secretaries typically handle NCD/debt-related MCA and trustee filings for small NBFCs.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Raghunathan Mudaliar",
+          "designation": "CFO, Abans Financial Services Ltd (related group entity - possibly not this specific entity)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "News snippet (scanx.trade) re: Abans Financial Services Board leadership appointments",
+          "notes": "Not confirmed to be same legal entity as this row's Abans Finance Pvt Ltd. Included for awareness of recent group CFO transition.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 121,
@@ -4380,17 +4427,17 @@
       "sector": null,
       "existing_reg_email": "powersec@essar.com",
       "existing_phone": "91-22-66601100",
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "powersec@essar.com; 91-22-66601100",
+        "confidence": "low",
+        "source": "Existing registered contact, corroborated as genuine Essar Power-vertical mailbox pattern via search results",
+        "notes": "No named CFO/finance head confirmed for this specific SPV. MCA directors show mostly nominee directors tied to project lenders. Group-level CFO (Rajat Gupta) left for Azure Power Sept 2025; no successor found for this entity as of Aug 2026.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -4401,17 +4448,17 @@
       "sector": null,
       "existing_reg_email": "bansalcredits@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Manohar Lal Aggarwal",
+        "designation": "Whole-time Director (likely handles finance function given small family-run NBFC structure - inferred, not a confirmed formal finance title)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "bansalcredits@gmail.com; 011-23242127-30",
+        "confidence": "low",
+        "source": "MCA-derived director/designation data via search snippets (ZaubaCorp, IndiaFilings); registered address/phone via JustDial listing",
+        "notes": "Small closely-held Delhi NBFC (promoter family). No distinct CFO or CS-for-debt role found. Inference based on typical small-NBFC structure, not verified finance title.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -4422,19 +4469,31 @@
       "sector": "Real Estate",
       "existing_reg_email": "investorrelation@koltepatil.com",
       "existing_phone": "91-20-66226500",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Ravi Porwal",
+        "designation": "Chief Financial Officer (CFO) & Senior Management Personnel",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investorrelation@koltepatil.com / 91-20-66226500",
+        "confidence": "medium",
+        "source": "MarketScreener news (CFO appointment effective 8 Oct 2024), Bloomberg Markets profile, Zeebiz (predecessor's exit corroborating transition)",
+        "notes": "Identity/designation corroborated by 2+ sources but no verified direct email/mobile found. CA/CS with prior stints at Birla Estates and Shapoorji Pallonji.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Dipti Rajput, CFA",
+          "designation": "Vice President - Investor Relations",
+          "mobile": "+91 74004 81432",
+          "email": "dipti.rajput@koltepatil.com",
+          "fallback": "investorrelation@koltepatil.com / 91-20-66226500",
+          "confidence": "medium",
+          "source": "ZoomInfo, RocketReach, Bloomberg profile, LinkedIn, TheOrg - aggregator-sourced",
+          "notes": "In role since Oct 2022. Email follows confirmed company pattern; mobile as reported by aggregators, not independently verified - confirm before dialing.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 124,
@@ -4443,19 +4502,31 @@
       "sector": "Real Estate",
       "existing_reg_email": "Ankit.R.Agarwal@adityabirla.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Keyur Sanat Shah",
+        "designation": "Chief Financial Officer, Birla Estates Pvt Ltd (parent); incoming CFO, Aditya Birla Real Estate Ltd effective 1 Mar 2026; also a Director on this SPV's board",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "Ankit.R.Agarwal@adityabirla.com (existing registered contact, co-director)",
+        "confidence": "high",
+        "source": "MCA director listing cross-referenced with TipRanks corporate announcement, TheCompanyCheck director profile, TheOrg org-chart entry",
+        "notes": "2+ sources agree he is both group CFO and a named director of this SPV specifically. No direct email/mobile found publicly, not guessed. SPV bought Hindalco's Kalwa land parcel, [ICRA]AA (Stable) NCD rating (~Rs 500 cr) per Aug 2025 rationale.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ankit R. Agarwal",
+          "designation": "Director, Ekamaya Properties Pvt Ltd; Aditya Birla Real Estate/Birla Estates business leadership (finance-specific title not confirmed)",
+          "mobile": null,
+          "email": "Ankit.R.Agarwal@adityabirla.com",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Existing registered email on file; LinkedIn listings; MCA/IndiaFilings director search",
+          "notes": "Public profile emphasizes strategy/business development, not CFO/Treasury. Known SPV contact channel rather than verified finance officer - Keyur Shah is better-evidenced finance lead.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 125,
@@ -4464,19 +4535,31 @@
       "sector": null,
       "existing_reg_email": "bhaskar@bscpl.net",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "CH. SRC Murthy",
+        "designation": "Chief Financial Officer, BSCPL Infrastructure Ltd (parent; this SPV has no separate finance team)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "info@bscpl.net / 040-23307704 (BSCPL registered office, Hyderabad)",
+        "confidence": "medium",
+        "source": "BSCPL Infrastructure Ltd Senior Management page as reflected in search-engine indexing (direct fetch egress-blocked)",
+        "notes": "Name abbreviated/initials-only as listed by company, full expansion not found, only single-source - medium confidence. No direct email/mobile found.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "B. S. Bhaskar",
+          "designation": "Company Secretary & Compliance Officer, BSCPL Infrastructure Ltd (may be former CS)",
+          "mobile": null,
+          "email": "bhaskar@bscpl.net",
+          "fallback": "info@bscpl.net / 040-23307704",
+          "confidence": "medium",
+          "source": "Search-indexed BSCPL company/management listings corroborating existing registered email",
+          "notes": "Matches pre-existing on-file email, but one source described him as former CS - recommend confirming reachability before outreach.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 126,
@@ -4485,19 +4568,31 @@
       "sector": null,
       "existing_reg_email": "csjtpmatsali@jsw.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Bhushan Prasad",
+        "designation": "Director, JTPM Atsali Ltd. (JSW-nominee); Senior VP - Finance & Commercial, JSW Steel Ltd. / CFO, JSW Projects Ltd.",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "bhushan.prasad@jsw.in",
+        "fallback": "csjtpmatsali@jsw.in",
+        "confidence": "medium",
+        "source": "ZaubaCorp director listing; ZoomInfo/RocketReach profile; web search snippet surfacing email associated with JTPM Atsali records",
+        "notes": "SPV/holding entity with no dedicated in-house CFO. Email inferred from standard JSW Group pattern and search snippet, not from official filing - medium confidence. Board composition appears to have changed over time - re-verify before outreach. Debentures reportedly suspended from trading on BSE at one point.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Manoj Kumar Mohta",
+          "designation": "Non-Executive Director, JTPM Atsali Ltd.; Director, CEO & CFO, JSW Holdings Ltd.",
+          "mobile": null,
+          "email": null,
+          "fallback": "csjtpmatsali@jsw.in",
+          "confidence": "medium",
+          "source": "MarketScreener insider profile; TheCompanyCheck/MyCorporateInfo director record; JSW Holdings board page",
+          "notes": "Deep finance background (Corporate Finance, Treasury, Taxation) but appointed as non-executive/nominee director representing JSW Holdings stake, not day-to-day management.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 127,
@@ -4506,19 +4601,42 @@
       "sector": "Infrastructure & Construction",
       "existing_reg_email": "rajendran@afcons.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Ramesh Kumar Jha",
+        "designation": "Chief Financial Officer, Afcons Infrastructure Ltd.",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "secretarial@afcons.com; Tel: +91-22-6719 1000",
+        "confidence": "high",
+        "source": "Afcons Q1 FY27 earnings call transcript naming him as CFO, corroborated by RocketReach/ZoomInfo CFO listings and FileSure director record; Afcons press release 'Best CFO title'",
+        "notes": "Confirmed by 2+ independent sources including live earnings call. Direct email/mobile not publicly available, redacted on ZoomInfo, not reported.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Gaurang Maheshchandra Parekh",
+          "designation": "Company Secretary & Compliance Officer, Afcons Infrastructure Ltd.",
+          "mobile": null,
+          "email": "gaurang@afcons.com",
+          "fallback": "Tel: 022-6719 1214",
+          "confidence": "high",
+          "source": "Afcons IPO RHP/DRHP official offer document, corroborated by recent BSE corporate filings (Membership No. F8764) and LinkedIn",
+          "notes": "Most reliably verified named contact - sourced from statutory IPO offer document plus recent BSE filings.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "P.R. Rajendran",
+          "designation": "Former Company Secretary (2009-10 Annual Report); now retired",
+          "mobile": null,
+          "email": "rajendran@afcons.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "Existing hint email; Afcons Annual Report 2009-2010; LinkedIn profile now titled 'Retd. Executive Vice President'",
+          "notes": "Existing registered email likely points to now-retired employee - recommend using Gaurang Parekh (current CS) or CFO instead.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 128,
@@ -4527,17 +4645,17 @@
       "sector": "Others",
       "existing_reg_email": "rsampath@kals.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Thanga Raja",
+        "designation": "Manager, Finance & Accounts, KALS Distilleries Pvt Ltd (~17 years experience)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "rsampath@kals.co.in; customercare@kals.co.in; Tel: +91 44 2434 5254/5264",
+        "confidence": "low",
+        "source": "ZoomInfo profile; SignalHire employee-directory listing",
+        "notes": "Closely-held family-run company, no dedicated CFO/named finance head verified via site, MCA, or press coverage. Single third-party data broker source only, no working email confirmed.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -4548,19 +4666,31 @@
       "sector": null,
       "existing_reg_email": "siddharth.nawal@blackstone.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rajesh Deo",
+        "designation": "Group Chief Financial Officer, Nexus Select Trust (formerly CFO & Director of Westerly Retail Pvt Ltd, 2017-2022)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "IR@nexusselecttrust.com",
+        "confidence": "high",
+        "source": "Corroborated by ZoomInfo, Crunchbase, MarketScreener bios; ZaubaCorp/Tofler confirm Westerly Retail's current MCA status as Amalgamated",
+        "notes": "Westerly Retail was Blackstone-backed SPV owning Seawoods Grand Central mall (Navi Mumbai), folded into Nexus Select Trust REIT. Historical CFO now Group CFO of Nexus Select Trust - most credible current finance contact. No direct email/mobile found. Original hint email is a Blackstone deal-side/legal contact, not finance.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Siddharth Nawal",
+          "designation": "Blackstone (real estate deal team) - contact on Westerly Retail's MCA/registry record",
+          "mobile": null,
+          "email": "siddharth.nawal@blackstone.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "Existing hint / registry aggregator listing",
+          "notes": "Pre-existing email on file - appears to be a Blackstone transaction/legal contact rather than a finance/treasury officer of the entity.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 130,
@@ -4569,19 +4699,31 @@
       "sector": "Manufacturing",
       "existing_reg_email": "satiagroup@gmail.com",
       "existing_phone": "91-1633-262001",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rachit Nagpal",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "satiapaper@satiagroup.com; investor line 01633-262215 / registered office 91-1633-262001",
+        "confidence": "high",
+        "source": "LinkedIn, ZoomInfo, and MarketScreener/Goodreturns management-team pages independently confirm as CFO",
+        "notes": "2+ sources agree on name/designation - high confidence. Direct email not confirmed, masked on ZoomInfo, left null rather than guessed.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Rakesh Kumar Dhuria",
+          "designation": "Company Secretary & Compliance Officer (GM - Secretarial)",
+          "mobile": null,
+          "email": null,
+          "fallback": "satiapaper@satiagroup.com; registered office Village Rupana, Sri Muktsar Sahib-152032, Punjab",
+          "confidence": "high",
+          "source": "Digitally signed BSE corporate filings list him as signatory Company Secretary; LinkedIn confirms GM (Secretarial), 24 years experience",
+          "notes": "Typically handles debenture/debt-related compliance filings for listed issuer - relevant secondary contact alongside CFO.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 131,
@@ -4590,19 +4732,42 @@
       "sector": null,
       "existing_reg_email": null,
       "existing_phone": "91-40-66285000",
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "91-40-66285000 (existing registered/property landline - ownership has since changed, not re-verified as current)",
+        "confidence": "low",
+        "source": "MCA/registry aggregators; CapitaLand/CLINT press releases confirming divestment; theedgemalaysia.com confirming buyer identity",
+        "notes": "OWNERSHIP CHANGE: Until 29 Sept 2025 part of CapitaLand India Trust portfolio (CFO Cheah Ying Soon), then divested to Viko Ventures (family office of Yerram Vikranth Reddy) for ~INR 11,031 million. Rs 240 crore charge registered in favour of Axis Trustee Services on 24 Oct 2025 - consistent with fresh NCD issuance under new ownership, live current target. No named CFO/finance officer found for new ownership structure.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Yerram Vikranthreddy (DIN 01220652)",
+          "designation": "Additional Director (promoter/founder of Viko Group, new owner)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "MCA director-registry aggregators, appointment 29 Sept 2025; theedgemalaysia.com corroborates",
+          "notes": "Not finance-titled, but likely effective finance decision-maker as promoter-director of privately held NCD-issuing SPV.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Apoorva Reddy Yerram",
+          "designation": "Additional Director (Designated Partner, Viko Ventures LLP)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Same MCA director-registry aggregators, appointment 29 Sept 2025",
+          "notes": "Co-promoter/co-director alongside Yerram Vikranthreddy.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 132,
