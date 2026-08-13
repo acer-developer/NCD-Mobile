@@ -1,0 +1,3288 @@
+{
+  "meta": {
+    "total": 164,
+    "schema": "ncd-mobile-enrichment-v1"
+  },
+  "companies": [
+    {
+      "row": 0,
+      "company": "MUTHOOT CAPITAL SERVICES LTD.",
+      "cin": "L67120KL1994PLC007726",
+      "sector": "BFSI",
+      "existing_reg_email": "mail@muthootcap.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 1,
+      "company": "CLIX CAPITAL SERVICES PVT. LTD.",
+      "cin": "U65929DL1994PTC116256",
+      "sector": "BFSI",
+      "existing_reg_email": "someshjh.kumar@clix.capital.com",
+      "existing_phone": "91-124-3302000",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 2,
+      "company": "EDELWEISS RETAIL FINANCE LTD.",
+      "cin": "U67120MH1997PLC285490",
+      "sector": null,
+      "existing_reg_email": "rfcomplaince@edelweissfin.com",
+      "existing_phone": "91-22-40094400",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 3,
+      "company": "K L M AXIVA FINVEST LTD.",
+      "cin": "U65910TG1997PLC026983",
+      "sector": "BFSI",
+      "existing_reg_email": "admindvn@klmgroup.in",
+      "existing_phone": "91-484-4281111",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 4,
+      "company": "U P POWER TRANSMISSION CORPN. LTD.",
+      "cin": "U40101UP2004SGC028687",
+      "sector": "Power & Energy",
+      "existing_reg_email": "hem.kumar.agrawar@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 5,
+      "company": "MUFIN GREEN FINANCE LTD.",
+      "cin": "L65990DL2016PLC447681",
+      "sector": "BFSI",
+      "existing_reg_email": "apmfinvestltd@gmail.com",
+      "existing_phone": "91-11-43094300",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 6,
+      "company": "NORTHERN ARC CAPITAL LTD.",
+      "cin": "L65910TN1989PLC017021",
+      "sector": "BFSI",
+      "existing_reg_email": "srividhya.r@northernarc.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 7,
+      "company": "CHEMMANUR CREDITS & INVSTS. LTD.",
+      "cin": "U65923KL2008PLC023560",
+      "sector": "BFSI",
+      "existing_reg_email": "mail@chemmannurcredits.com",
+      "existing_phone": "91-487-6571234",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 8,
+      "company": "S R G HOUSING FINANCE LTD.",
+      "cin": "L65922RJ1999PLC015440",
+      "sector": "BFSI",
+      "existing_reg_email": "srghousing@gmail.com",
+      "existing_phone": "91-22-62215307",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 9,
+      "company": "AVIOM INDIA HOUSING FINANCE PVT. LTD.",
+      "cin": "U65993DL2016PTC291377",
+      "sector": "BFSI",
+      "existing_reg_email": "connect@aviom.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 10,
+      "company": "PRESTIGE PROJECTS PVT. LTD.",
+      "cin": "U45201KA2008PTC046784",
+      "sector": "Real Estate",
+      "existing_reg_email": "properties@prestigeconstructions.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 11,
+      "company": "FUSION FINANCE LTD.",
+      "cin": "L65100DL1994PLC061287",
+      "sector": "BFSI",
+      "existing_reg_email": "gourav@fusionmicrofinance.com",
+      "existing_phone": "91-124-6910500",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 12,
+      "company": "CHOICE FINSERV PVT. LTD.",
+      "cin": "U74999MH2016PTC281908",
+      "sector": "BFSI",
+      "existing_reg_email": "cfpl@choiceindia.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 13,
+      "company": "HAZARIBAGH RANCHI EXPRESSWAY LTD.",
+      "cin": "U45203MH2009PLC191070",
+      "sector": null,
+      "existing_reg_email": "itnl.secretarial@ilfsindia.com",
+      "existing_phone": "91-11-26151853",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 14,
+      "company": "DAR CREDIT & CAPITAL LTD.",
+      "cin": "L65999WB1994PLC064438",
+      "sector": "BFSI",
+      "existing_reg_email": "kolkata@darcredit.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 15,
+      "company": "PROVIDENT CEDAR PVT. LTD.",
+      "cin": "U45309KA2016PTC097552",
+      "sector": null,
+      "existing_reg_email": "bindu.d@puravankara.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 16,
+      "company": "ADANI AIRPORT HOLDINGS LTD.",
+      "cin": "U62100GJ2019PLC109395",
+      "sector": "Services",
+      "existing_reg_email": "aahl.feedback@adani.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 17,
+      "company": "BAMBOO HOTEL & GLOBAL CENTRE (DELHI) PVT. LTD.",
+      "cin": "U55100MH2008PTC185843",
+      "sector": "Services",
+      "existing_reg_email": "cosecmdh@dbg.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 18,
+      "company": "TRUCAP FINANCE LTD.",
+      "cin": "L64920MH1994PLC334457",
+      "sector": "BFSI",
+      "existing_reg_email": "contact@dfltd.in",
+      "existing_phone": "91-22-28264295",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 19,
+      "company": "N M D C STEEL LTD.",
+      "cin": "L27310CT2015GOI001618",
+      "sector": "Others",
+      "existing_reg_email": "cs@nmdc.co.in",
+      "existing_phone": "91-40-23538757",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 20,
+      "company": "D B L INFRA ASSETS PVT. LTD.",
+      "cin": "U74110MP2010PTC023673",
+      "sector": "Infrastructure & Construction",
+      "existing_reg_email": "dblinfraassets@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 21,
+      "company": "JAIN IRRIGATION SYSTEMS LTD.",
+      "cin": "L29120MH1986PLC042028",
+      "sector": "Manufacturing",
+      "existing_reg_email": "jisl@jains.com",
+      "existing_phone": "91-257-2258011",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 22,
+      "company": "R D C CONCRETE (INDIA) LTD.",
+      "cin": "U74999MH1993PLC172842",
+      "sector": "Manufacturing",
+      "existing_reg_email": "manish.modani@rdcconcreteindia.com",
+      "existing_phone": "91-11-6854550",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 23,
+      "company": "PROVIDENT MERYTA PVT. LTD.",
+      "cin": "U45500KA2016PTC096065",
+      "sector": null,
+      "existing_reg_email": "bindu.d@puravankara.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 24,
+      "company": "KINGS INFRA VENTURES LTD.",
+      "cin": "L05000KL1987PLC004913",
+      "sector": "Others",
+      "existing_reg_email": "kings.infra@gmail.com",
+      "existing_phone": "91-80-28462200",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 25,
+      "company": "MUTHOOT MERCANTILE LTD.",
+      "cin": "U65921KL1997PLC011260",
+      "sector": "BFSI",
+      "existing_reg_email": "muthoot.enterprises@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 26,
+      "company": "G M R AIRPORTS LTD.",
+      "cin": "L52231HR1996PLC113564",
+      "sector": "Services",
+      "existing_reg_email": "gil.cosecy@gmrgroup.in",
+      "existing_phone": "91-80-49216751",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 27,
+      "company": "PURVA OAK PVT. LTD.",
+      "cin": "U65100KA2016PTC096197",
+      "sector": "Real Estate",
+      "existing_reg_email": "bindu.d@puravankara.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 28,
+      "company": "HERITAGE FINLEASE LTD.",
+      "cin": "U65910TG1996PLC023310",
+      "sector": "BFSI",
+      "existing_reg_email": "hfinlease@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 29,
+      "company": "V R DAKSHIN PVT. LTD.",
+      "cin": "U74899KA1987PTC070519",
+      "sector": null,
+      "existing_reg_email": "rk_malpani@virtuousretail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 30,
+      "company": "T A R C LTD.",
+      "cin": "L70100DL2016PLC390526",
+      "sector": "BFSI",
+      "existing_reg_email": "tarc@tarc.in",
+      "existing_phone": "91-11-41244300",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 31,
+      "company": "INFOPARK PROPERTIES LTD.",
+      "cin": "U70109TN2021PLC147646",
+      "sector": "Real Estate",
+      "existing_reg_email": "trilsec@tatarealty.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 32,
+      "company": "TATA INTERNATIONAL LTD.",
+      "cin": "U51900MH1962PLC012528",
+      "sector": "Trading & Distribution",
+      "existing_reg_email": "til.post@tatainternational.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 33,
+      "company": "KANCHANJUNGA POWER CO. PVT. LTD.",
+      "cin": "U74899DL1991PTC046387",
+      "sector": null,
+      "existing_reg_email": "akgurnani@polyplex.com",
+      "existing_phone": "91-120-4621300",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 34,
+      "company": "INDUSIND GENERAL INSURANCE CO. LTD.",
+      "cin": "U66603MH2000PLC128300",
+      "sector": "BFSI",
+      "existing_reg_email": "rgicl.compsec@relianceada.com",
+      "existing_phone": "91-22-41732000",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 35,
+      "company": "S M C GLOBAL SECURITIES LTD.",
+      "cin": "L74899DL1994PLC063609",
+      "sector": "BFSI",
+      "existing_reg_email": "smc@smcindiaonline.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 36,
+      "company": "WATERMARKE ESTATES PVT. LTD.",
+      "cin": "U70102TG2006PTC049618",
+      "sector": "Real Estate",
+      "existing_reg_email": "paramesh.a@rajapushpa.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 37,
+      "company": "DELHI INTERNATIONAL AIRPORT LTD.",
+      "cin": "U63033DL2006PLC146936",
+      "sector": "Services",
+      "existing_reg_email": "Abhishek.chawla@gmrgroup.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 38,
+      "company": "V I T P PVT. LTD.",
+      "cin": "U72200TG1997PTC026801",
+      "sector": "Real Estate",
+      "existing_reg_email": "vvms.rao@ascendas.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 39,
+      "company": "BOMBAY BURMAH TRDG. CORPN. LTD.",
+      "cin": "L99999MH1863PLC000002",
+      "sector": "Manufacturing",
+      "existing_reg_email": "bbtcl@bom2.vsnl.net.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 40,
+      "company": "MUTHOOT HOUSING FINANCE CO. LTD.",
+      "cin": "U65922KL2010PLC025624",
+      "sector": "BFSI",
+      "existing_reg_email": "muthoot@muthoot.com",
+      "existing_phone": "91-22-30941400",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 41,
+      "company": "CENTRUM HOUSING FINANCE LTD.",
+      "cin": "U65922MH2016PLC273826",
+      "sector": "BFSI",
+      "existing_reg_email": "query.chfl@centrum.co.in",
+      "existing_phone": "91-22-42159000",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 42,
+      "company": "G N R C LTD.",
+      "cin": "U85110AS1985PLC002447",
+      "sector": "Services",
+      "existing_reg_email": "biswajitdascs@gnrchospitals.com",
+      "existing_phone": "91-361-2227700",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 43,
+      "company": "SHRESHTA INFRA PROJECTS PVT. LTD.",
+      "cin": "U45200KA2011PTC060517",
+      "sector": "Infrastructure & Construction",
+      "existing_reg_email": "control@adarshdevelopers.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 44,
+      "company": "SHIVALAYA CONSTRUCTION LTD.",
+      "cin": "U45201DL1997PLC091051",
+      "sector": "Infrastructure & Construction",
+      "existing_reg_email": "shivalayaco@yahoo.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 45,
+      "company": "EMAMI FRANK ROSS LTD.",
+      "cin": "U24232WB1919PLC003123",
+      "sector": "Trading & Distribution",
+      "existing_reg_email": "frmspl@cal2.vsnl.net.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 46,
+      "company": "DILIP BUILDCON LTD.",
+      "cin": "L45201MP2006PLC018689",
+      "sector": "Infrastructure & Construction",
+      "existing_reg_email": "db@dilipbuildcon.co.in",
+      "existing_phone": "91-755-4029999",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 47,
+      "company": "WOCKHARDT LTD.",
+      "cin": "L24230MH1999PLC120720",
+      "sector": "Manufacturing",
+      "existing_reg_email": "investorrelations@wockhardt.com",
+      "existing_phone": "91-22-26534444",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 48,
+      "company": "SWELECT ENERGY SYSTEMS LTD.",
+      "cin": "L93090TN1994PLC028578",
+      "sector": "Power & Energy",
+      "existing_reg_email": "cg.ird@swelectes.com",
+      "existing_phone": "91-44-24993266",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 49,
+      "company": "ZAGGLE PREPAID OCEAN SERVICES LTD.",
+      "cin": "L65999TG2011PLC074795",
+      "sector": "Services",
+      "existing_reg_email": "haripriya.singh@zaggle.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 50,
+      "company": "ORANGE CITY HOUSING FINANCE PVT. LTD.",
+      "cin": "U65922MH2001PTC130664",
+      "sector": "BFSI",
+      "existing_reg_email": "dipti@ochfl.com",
+      "existing_phone": "91-22-44554877",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 51,
+      "company": "T-HILLS PVT. LTD.",
+      "cin": "U45206TG2015PTC101944",
+      "sector": "Real Estate",
+      "existing_reg_email": "bindu.d@puravankara.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 52,
+      "company": "MAS RURAL HOUSING & MORTGAGE FINANCE LTD.",
+      "cin": "U74900GJ2007PLC051383",
+      "sector": null,
+      "existing_reg_email": "darshil_hiranandani@mas.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 53,
+      "company": "PRISM JOHNSON LTD.",
+      "cin": "L26942TG1992PLC014033",
+      "sector": "Manufacturing",
+      "existing_reg_email": "investor@prismjohnson.in",
+      "existing_phone": "91-22-66754142",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 54,
+      "company": "SADBHAV GADAG HIGHWAY PVT. LTD.",
+      "cin": "U45309DL2018PTC335962",
+      "sector": "Infrastructure & Construction",
+      "existing_reg_email": "tushar.shah@sadbhav.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 55,
+      "company": "SHREE RENUKA SUGARS LTD.",
+      "cin": "L01542KA1995PLC019046",
+      "sector": "Manufacturing",
+      "existing_reg_email": "iyer.dv@renukasugars.com",
+      "existing_phone": "91-22-24977744",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 56,
+      "company": "MARWADI SHARES & FINANCE LTD.",
+      "cin": "U65910GJ1992PLC017544",
+      "sector": "BFSI",
+      "existing_reg_email": "msfl@marwadigroup.in",
+      "existing_phone": "91-281-7174000",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 57,
+      "company": "PURVA SAPPHIRE LAND PVT. LTD.",
+      "cin": "U45201KA2007PTC042437",
+      "sector": null,
+      "existing_reg_email": "ravikumar.reddy@puravankara.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 58,
+      "company": "SHUBHAM HOUSING DEVP. FINANCE CO. LTD.",
+      "cin": "U65921DL2010PLC199469",
+      "sector": "BFSI",
+      "existing_reg_email": "sanjay.chaturvedi@shubham.co",
+      "existing_phone": "91-124-4212531",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 59,
+      "company": "UTTAR PRADESH POWER CORPN. LTD.",
+      "cin": "U32201UP1999SGC024928",
+      "sector": "Power & Energy",
+      "existing_reg_email": "hem.kumar.agrawal@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 60,
+      "company": "I F C I FACTORS LTD.",
+      "cin": "U74899DL1995GOI074649",
+      "sector": null,
+      "existing_reg_email": "smitkumar@ifcifactors.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 61,
+      "company": "VARISHTHA PROPERTY DEVELOPERS PVT. LTD.",
+      "cin": "U45208TG2015PTC101839",
+      "sector": null,
+      "existing_reg_email": "bindu.d@puravankara.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 62,
+      "company": "T V S EMERALD LTD.",
+      "cin": "U45200TN2010PLC075953",
+      "sector": "Real Estate",
+      "existing_reg_email": "s.ramani@scl.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 63,
+      "company": "MAGNUM VENTURES LTD.",
+      "cin": "L21093DL1980PLC010492",
+      "sector": "Manufacturing",
+      "existing_reg_email": "magnumventures@gmail.com",
+      "existing_phone": "91-120-4199200",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 64,
+      "company": "LUMBINI EDUCATION PVT. LTD.",
+      "cin": "U85500RJ2023PTC086224",
+      "sector": "Others",
+      "existing_reg_email": "lumbinieducationpvtltd@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 65,
+      "company": "ALPHA CORP DEVP. LTD.",
+      "cin": "U45201PB2003PLC045680",
+      "sector": "Real Estate",
+      "existing_reg_email": "info@alphacorp.in",
+      "existing_phone": "91-124-4831111",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 66,
+      "company": "SATIN HOUSING FINANCE LTD.",
+      "cin": "U65929DL2017PLC316143",
+      "sector": "BFSI",
+      "existing_reg_email": "kuldeep.yadav@satinhousingfinance.com",
+      "existing_phone": "91-124-4346200",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 67,
+      "company": "SAMHI HOTELS (AHMEDABAD) PVT. LTD.",
+      "cin": "U55101GJ2005PTC045397",
+      "sector": "Services",
+      "existing_reg_email": "sanjay.jain@samhi.co.in",
+      "existing_phone": "91-124-4910100",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 68,
+      "company": "G M R WARORA ENERGY LTD.",
+      "cin": "U40100MH2005PLC155140",
+      "sector": "Power & Energy",
+      "existing_reg_email": "energy-secretarial@gmrgroup.in",
+      "existing_phone": "91-22-40404500",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 69,
+      "company": "ADANI ENTERPRISES LTD.",
+      "cin": "L51100GJ1993PLC019067",
+      "sector": "Trading & Distribution",
+      "existing_reg_email": "jatin.jalundhwala@adani.in",
+      "existing_phone": "91-79-25555286",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 70,
+      "company": "CORRTECH INTERNATIONAL LTD.",
+      "cin": "U29130GJ1982PLC038664",
+      "sector": "Infrastructure & Construction",
+      "existing_reg_email": "corrtech@corrtech.com",
+      "existing_phone": "91-79-26313100",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 71,
+      "company": "BELRISE INDUSTRIES LTD.",
+      "cin": "L73100MH1996PLC102827",
+      "sector": "Manufacturing",
+      "existing_reg_email": "badve_agd@sancharnet.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 72,
+      "company": "5PAISA CAPITAL LTD.",
+      "cin": "L67190MH2007PLC289249",
+      "sector": "BFSI",
+      "existing_reg_email": "csteam@5paisa.com",
+      "existing_phone": "91-22-62727000",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 73,
+      "company": "MILLENNIA REALTORS PVT. LTD.",
+      "cin": "U85110KA1997PTC022948",
+      "sector": "Real Estate",
+      "existing_reg_email": "millenia@vsnl.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 74,
+      "company": "RAJASTHAN RAJYA VIDYUT PRASARAN NIGAM LTD.",
+      "cin": "U40109RJ2000SGC016485",
+      "sector": null,
+      "existing_reg_email": "sr.ao.br@rvpn.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 75,
+      "company": "FABWORTH PROMOTERS PVT. LTD.",
+      "cin": "U70109WB2006PTC165835",
+      "sector": "Services",
+      "existing_reg_email": "roc.efiling2014@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 76,
+      "company": "LAVISH BUILDMART PVT. LTD.",
+      "cin": "U45300HR2007PTC056065",
+      "sector": "Real Estate",
+      "existing_reg_email": "lavishbuildmart@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 77,
+      "company": "PRESTIGE ESTATES PROJECTS LTD.",
+      "cin": "L07010KA1997PLC022322",
+      "sector": "Real Estate",
+      "existing_reg_email": "properties@prestigeconstructions.com",
+      "existing_phone": "91-80-25591080",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 78,
+      "company": "MARATHON NEXTGEN REALTY LTD.",
+      "cin": "L65990MH1978PLC020080",
+      "sector": null,
+      "existing_reg_email": "marathon@marathonrealty.com",
+      "existing_phone": "91-22-67728484",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 79,
+      "company": "BHARAT HOTELS LTD.",
+      "cin": "U74899DL1981PLC011274",
+      "sector": "Services",
+      "existing_reg_email": "corporate@thelalit.com",
+      "existing_phone": "91-11-23411001",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 80,
+      "company": "A S A INTERNATIONAL INDIA MICROFINANCE LTD.",
+      "cin": "U65921WB1990PLC231683",
+      "sector": null,
+      "existing_reg_email": "india@asaindiaamf.com",
+      "existing_phone": "91-33-23358510",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 81,
+      "company": "BANGALORE TOWER PVT. LTD.",
+      "cin": "U45309KA2021PTC152825",
+      "sector": "Real Estate",
+      "existing_reg_email": "deepak.s@keppelland.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 82,
+      "company": "MONEYMART SECURITIES PVT. LTD.",
+      "cin": "U67120MH1995PTC086563",
+      "sector": null,
+      "existing_reg_email": "moneymsecurities@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 83,
+      "company": "THIRUMALAI CHEMICALS LTD.",
+      "cin": "L24100MH1972PLC016149",
+      "sector": "Others",
+      "existing_reg_email": "thirumalai@thirumalaichemicals.com",
+      "existing_phone": "91-22-24017841",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 84,
+      "company": "MUTHOOT VEHICLE & ASSET FINANCE LTD.",
+      "cin": "U65910KL1992PLC006544",
+      "sector": null,
+      "existing_reg_email": "mvflcoadmin@muthootgroup.com",
+      "existing_phone": "91-484-3222002",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 85,
+      "company": "HECTOR BEVERAGES PVT. LTD.",
+      "cin": "U15549HR2009PTC039586",
+      "sector": null,
+      "existing_reg_email": "neeraj@hectorbeverages.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 86,
+      "company": "ROHAN RAJDEEP TOLL ROADS LTD.",
+      "cin": "U45203PN2007PLC130755",
+      "sector": null,
+      "existing_reg_email": "rohanpn@rohanbuilders.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 87,
+      "company": "MY HOME INFRASTRUCTURES PVT. LTD.",
+      "cin": "U45200TG2007PTC055439",
+      "sector": "Real Estate",
+      "existing_reg_email": "myhomeinfrastructurespvtltd@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 88,
+      "company": "ENERGY EFFICIENCY SERVICES LTD.",
+      "cin": "U40200DL2009PLC196789",
+      "sector": null,
+      "existing_reg_email": "nsk.com.pcs@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 89,
+      "company": "RING PLUS AQUA LTD. [MERGED]",
+      "cin": "U99999MH1986PLC040885",
+      "sector": "Others",
+      "existing_reg_email": "amit.jangid@raymond.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 90,
+      "company": "MORADABAD BAREILLY EXPRESSWAY LTD.",
+      "cin": "U45208MH2010PLC198737",
+      "sector": null,
+      "existing_reg_email": "krishna.ghag@ilfsindia.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 91,
+      "company": "HERITAGE MAX REALTECH PVT. LTD.",
+      "cin": "U70200DL2015PTC286008",
+      "sector": null,
+      "existing_reg_email": "aditya.arora@conscient.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 92,
+      "company": "BHARAT SANCHAR NIGAM LTD.",
+      "cin": "U74899DL2000GOI107739",
+      "sector": "Services",
+      "existing_reg_email": "hcpant@bsnl.co.in",
+      "existing_phone": "91-11-23717844",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 93,
+      "company": "GREENSTAR FERTILIZERS LTD.",
+      "cin": "U24100TN2010PLC077127",
+      "sector": "Diversified",
+      "existing_reg_email": "feedback@greenstar.net.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 94,
+      "company": "GAYATRISHAKTI PAPER & BOARDS LTD.",
+      "cin": "U21010MH2005PLC153451",
+      "sector": "Manufacturing",
+      "existing_reg_email": "gayatrishakti@vsnl.net",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 95,
+      "company": "SAGAR CEMENTS LTD.",
+      "cin": "L26942TG1981PLC002887",
+      "sector": "Manufacturing",
+      "existing_reg_email": "soundar@sagarcements.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 96,
+      "company": "S P I TECHNOLOGIES INDIA PVT. LTD.",
+      "cin": "U93000PY2017PTC008168",
+      "sector": null,
+      "existing_reg_email": "ezhil.arasan@straive.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 97,
+      "company": "INDIUM SOFTWARE (INDIA) PVT. LTD.",
+      "cin": "U72200TN1999PTC042263",
+      "sector": "Services",
+      "existing_reg_email": "isil@indiumsoft.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 98,
+      "company": "HALDIA PETROCHEMICALS LTD. [MERGED]",
+      "cin": "U23209WB1985SGC039487",
+      "sector": "Manufacturing",
+      "existing_reg_email": "bd@hpl.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 99,
+      "company": "VIVRITI ASSET MGMT. PVT. LTD.",
+      "cin": "U65929TN2019PTC127644",
+      "sector": "Services",
+      "existing_reg_email": "vineet@vivritiamc.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 100,
+      "company": "KAYNES TECHNOLOGY INDIA LTD.",
+      "cin": "L29128KA2008PLC045825",
+      "sector": "Manufacturing",
+      "existing_reg_email": "kaynestechcs@kaynestechnology.net",
+      "existing_phone": "91-821-4002805",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 101,
+      "company": "LIFELINE MULTI SPECIALITY HOSPITALS PVT. LTD.",
+      "cin": "U85110TN1997PTC037581",
+      "sector": "Services",
+      "existing_reg_email": "chitrakala_8@hotmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 102,
+      "company": "M A S FINANCIAL SERVICES LTD.",
+      "cin": "L65910GJ1995PLC026064",
+      "sector": "BFSI",
+      "existing_reg_email": "deepika_sharma@mas.co.in",
+      "existing_phone": "91-79-41106500",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 103,
+      "company": "GAURSONS INDIA PVT. LTD.",
+      "cin": "U74899DL1995PTC064555",
+      "sector": "Diversified",
+      "existing_reg_email": "gaursons@gaursonsindia.com",
+      "existing_phone": "91-120-4343333",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 104,
+      "company": "GREAT EASTERN ENERGY CORPN. LTD.",
+      "cin": "U48985WB1992PLC095301",
+      "sector": "Others",
+      "existing_reg_email": "njain@geecl.com",
+      "existing_phone": "91-124-2580470",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 105,
+      "company": "GREEN GOLD ANIMATION PVT. LTD.",
+      "cin": "U92114TG2004PTC042718",
+      "sector": "Others",
+      "existing_reg_email": "sunilsanjay.ca@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 106,
+      "company": "NIHILENT LTD.",
+      "cin": "U72900PN2000PLC014934",
+      "sector": "Services",
+      "existing_reg_email": "rahul.bhandari@nihilent.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 107,
+      "company": "NATIONAL COMMODITIES MGMT. SERVICES LTD.",
+      "cin": "U74140MH2004PLC148859",
+      "sector": "Services",
+      "existing_reg_email": "sanjay.khare@ncmsl.com",
+      "existing_phone": "91-124-4338200",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 108,
+      "company": "WISEMORE ADVISORY PVT. LTD.",
+      "cin": "U74999HR2017PTC085774",
+      "sector": null,
+      "existing_reg_email": "wisemoreadvisory@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 109,
+      "company": "A B T INDUSTRIES LTD.",
+      "cin": "U60231TZ1950PLC000055",
+      "sector": null,
+      "existing_reg_email": "mnatarajan@abtindustries.net",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 110,
+      "company": "CASABLANCA INDUSTRIES PVT. LTD.",
+      "cin": "U28113DL2011PTC223576",
+      "sector": "Manufacturing",
+      "existing_reg_email": "cs1@casablancaindustries.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 111,
+      "company": "ESSEL LUCKNOW RAEBARELI TOLL ROADS LTD.",
+      "cin": "U45200DL2011PLC229484",
+      "sector": null,
+      "existing_reg_email": "essel.roads@gmail.com",
+      "existing_phone": "91-22-71084444",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 112,
+      "company": "NISSAN RENAULT FINANCIAL SERVICES INDIA PVT. LTD.",
+      "cin": "U65923TN2013FTC093374",
+      "sector": "BFSI",
+      "existing_reg_email": "nrfsi@nrfsi.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 113,
+      "company": "SUZLON GLOBAL SERVICES LTD.",
+      "cin": "U70101GJ2004PLC044948",
+      "sector": null,
+      "existing_reg_email": "mca@suzlon.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 114,
+      "company": "RAINBOW FOUNDATIONS LTD.",
+      "cin": "L55101TN1994PLC027739",
+      "sector": null,
+      "existing_reg_email": "rainbow@rainbowfoundations.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 115,
+      "company": "EXCLUSIVE LEASING & FINANCE PVT. LTD.",
+      "cin": "U65921DL1984PTC018746",
+      "sector": "BFSI",
+      "existing_reg_email": "exclusiveleasingfl@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 116,
+      "company": "DARSHITA SOUTHERN INDIA HAPPY HOMES PVT. LTD.",
+      "cin": "U70100KA2004PTC098521",
+      "sector": null,
+      "existing_reg_email": "girish@bigshoppingcentres.co.in",
+      "existing_phone": "91-80-42699000",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 117,
+      "company": "PURVA GOOD EARTH PROPERTIES PVT. LTD.",
+      "cin": "U45201KA2007PTC042436",
+      "sector": "Real Estate",
+      "existing_reg_email": "ravikumar.reddy@puravankara.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 118,
+      "company": "TAMILNADU GENERATION & DISTRIBUTION CORPN. LTD.",
+      "cin": "U40109TN2009SGC073746",
+      "sector": "Power & Energy",
+      "existing_reg_email": "chairman@tnebnet.org",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 119,
+      "company": "INDITRADE MICROFINANCE LTD.",
+      "cin": "U67190MH2016PLC306585",
+      "sector": null,
+      "existing_reg_email": "imfl@inditrade.com",
+      "existing_phone": "91-22-61424750",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 120,
+      "company": "ABANS FINANCE PVT. LTD.",
+      "cin": "U51219MH1995PTC231627",
+      "sector": null,
+      "existing_reg_email": "abansrealty@abans.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 121,
+      "company": "ESSAR POWER TRANSMISSION CO. LTD.",
+      "cin": "U99999MP2005PLC052837",
+      "sector": null,
+      "existing_reg_email": "powersec@essar.com",
+      "existing_phone": "91-22-66601100",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 122,
+      "company": "BANSAL CREDITS LTD.",
+      "cin": "U65993DL1988PLC031421",
+      "sector": null,
+      "existing_reg_email": "bansalcredits@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 123,
+      "company": "KOLTE PATIL DEVELOPERS LTD.",
+      "cin": "L45200PN1991PLC129428",
+      "sector": "Real Estate",
+      "existing_reg_email": "investorrelation@koltepatil.com",
+      "existing_phone": "91-20-66226500",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 124,
+      "company": "EKAMAYA PROPERTIES PVT. LTD.",
+      "cin": "U68100MH2024PTC426643",
+      "sector": "Real Estate",
+      "existing_reg_email": "Ankit.R.Agarwal@adityabirla.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 125,
+      "company": "MOKAMA-MUNGER HIGHWAY LTD.",
+      "cin": "U45200TG2010PLC068804",
+      "sector": null,
+      "existing_reg_email": "bhaskar@bscpl.net",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 126,
+      "company": "J T P M ATSALI LTD.",
+      "cin": "U27320MH2018PLC304905",
+      "sector": null,
+      "existing_reg_email": "csjtpmatsali@jsw.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 127,
+      "company": "AFCONS INFRASTRUCTURE LTD.",
+      "cin": "L45200MH1976PLC019335",
+      "sector": "Infrastructure & Construction",
+      "existing_reg_email": "rajendran@afcons.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 128,
+      "company": "KALS DISTILLERIES PVT. LTD.",
+      "cin": "U15511TN2007PTC065347",
+      "sector": "Others",
+      "existing_reg_email": "rsampath@kals.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 129,
+      "company": "WESTERLY RETAIL PVT. LTD. [MERGED]",
+      "cin": "U45201MH2016FTC282287",
+      "sector": null,
+      "existing_reg_email": "siddharth.nawal@blackstone.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 130,
+      "company": "SATIA INDUSTRIES LTD.",
+      "cin": "L21012PB1980PLC004329",
+      "sector": "Manufacturing",
+      "existing_reg_email": "satiagroup@gmail.com",
+      "existing_phone": "91-1633-262001",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 131,
+      "company": "CYBER PEARL INFORMATION TECHNOLOGY PARK PVT. LTD.",
+      "cin": "U72900TN2002PTC099624",
+      "sector": null,
+      "existing_reg_email": null,
+      "existing_phone": "91-40-66285000",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 132,
+      "company": "MANIPAL HOSPITALS (EAST) INDIA PVT. LTD.",
+      "cin": "U85110WB1986PTC040525",
+      "sector": "Services",
+      "existing_reg_email": "amri@amrihospitals.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 133,
+      "company": "D P JAIN & CO INFRASTRUCTURE PVT. LTD.",
+      "cin": "U45200MH2004PTC150149",
+      "sector": null,
+      "existing_reg_email": "dpjain.company@dpjaingroup.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 134,
+      "company": "I I F L SAMASTA FINANCE LTD.",
+      "cin": "U65191KA1995PLC057884",
+      "sector": "BFSI",
+      "existing_reg_email": "venkateshn@samasta.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 135,
+      "company": "SMILE ELECTRONICS LTD.",
+      "cin": "U85110KA1998PLC023993",
+      "sector": "Manufacturing",
+      "existing_reg_email": "jameel@smileelectronics.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 136,
+      "company": "KERALA FINANCIAL CORPN.",
+      "cin": null,
+      "sector": "BFSI",
+      "existing_reg_email": "md@kfc.org",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 137,
+      "company": "PROVIDENT HOUSING LTD.",
+      "cin": "U45200KA2008PLC048273",
+      "sector": null,
+      "existing_reg_email": "ravikumar.reddy@puravankara.com",
+      "existing_phone": "91-80-43428901",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 138,
+      "company": "ROYAL ORCHID HOTELS LTD.",
+      "cin": "L55101KA1986PLC007392",
+      "sector": null,
+      "existing_reg_email": "cosec@royalorchidhotels.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 139,
+      "company": "ESSAR OIL & GAS EXPLORATION & PRODUCTION LTD.",
+      "cin": "U11203GJ2016PLC091903",
+      "sector": "Power & Energy",
+      "existing_reg_email": "eogepl@essarenp.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 140,
+      "company": "REVENT PRECISION ENGG. LTD.",
+      "cin": "U27230HR1988PLC030333",
+      "sector": "Manufacturing",
+      "existing_reg_email": "aal@amtek.com",
+      "existing_phone": "91-11-42344444",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 141,
+      "company": "S P IMPERIAL STAR PVT. LTD.",
+      "cin": "U74999MH2016PTC274669",
+      "sector": null,
+      "existing_reg_email": "sanket.shah@shapoorji.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 142,
+      "company": "INDIABULLS RURAL FINANCE PVT. LTD.",
+      "cin": "U74140MH1993PTC074596",
+      "sector": null,
+      "existing_reg_email": "dhanisecetarial@dhani.com",
+      "existing_phone": "91-124-6681199",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 143,
+      "company": "BHILANGANA HYDRO POWER LTD.",
+      "cin": "U40102UR2006PLC032491",
+      "sector": null,
+      "existing_reg_email": "rjindal@polyplex.com",
+      "existing_phone": "91-120-4621300",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 144,
+      "company": "GULSHAN HOMZ PVT. LTD.",
+      "cin": "U70109DL1997PTC084494",
+      "sector": null,
+      "existing_reg_email": "gaurav.kumar@gulshanhomz.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 145,
+      "company": "MANIPAL HEALTHCARE PVT. LTD.",
+      "cin": "U85110KA1998PTC024255",
+      "sector": null,
+      "existing_reg_email": "jyotika.kamath@manipalgroup.com",
+      "existing_phone": "91-80-30789100",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 146,
+      "company": "PURPLE FINANCE LTD.",
+      "cin": "L67120MH1993PLC075037",
+      "sector": "BFSI",
+      "existing_reg_email": "cabssarda@yahoo.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 147,
+      "company": "INBREW BEVERAGES PVT. LTD.",
+      "cin": "U99999DL1972PTC318242",
+      "sector": "Others",
+      "existing_reg_email": "intimation@inbrew.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 148,
+      "company": "SALEM ERODE INVESTMENTS LTD.",
+      "cin": "L31200TN1931PLC145816",
+      "sector": "BFSI",
+      "existing_reg_email": "salemerodeinvestmentsltd@gmail.com",
+      "existing_phone": "91-487-2828071",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 149,
+      "company": "DISH INFRA SERVICES PVT. LTD.",
+      "cin": "U74140DL2014PTC264838",
+      "sector": null,
+      "existing_reg_email": "ranjit@xingdth.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 150,
+      "company": "TITAN INTECH LTD.",
+      "cin": "L72200AP1984PLC004380",
+      "sector": "Services",
+      "existing_reg_email": "ssrfcs@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 151,
+      "company": "CHITRALI PROPERTIES PVT. LTD.",
+      "cin": "U70109MH1995PTC094686",
+      "sector": null,
+      "existing_reg_email": "kedar.natu@sumashilp.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 152,
+      "company": "V R KONKAN PVT. LTD.",
+      "cin": "U45309MH2019PTC448440",
+      "sector": null,
+      "existing_reg_email": "ram@vachanaa.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 153,
+      "company": "AJMER VIDYUT VITRAN NIGAM LTD.",
+      "cin": "U40109RJ2000SGC016482",
+      "sector": "Power & Energy",
+      "existing_reg_email": "csavvnl@gmail.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 154,
+      "company": "ASIRVAD MICRO FINANCE LTD.",
+      "cin": "U65923TN2007PLC064550",
+      "sector": "BFSI",
+      "existing_reg_email": "sec@asirvad.in",
+      "existing_phone": "91-44-42124493",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 155,
+      "company": "MEGHALAYA ENERGY CORPN. LTD.",
+      "cin": "U40101ML2009SGC008374",
+      "sector": null,
+      "existing_reg_email": "meseb-shil-meg@nic.in",
+      "existing_phone": "91-364-2590610",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 156,
+      "company": "UNIMONI FINANCIAL SERVICES LTD.",
+      "cin": "U85110KA1995PLC018175",
+      "sector": "BFSI",
+      "existing_reg_email": "hq@uaeexchange.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 157,
+      "company": "SHALIMAR PAINTS LTD.",
+      "cin": "L24222HR1902PLC065611",
+      "sector": "Others",
+      "existing_reg_email": "askus@shalimarpaints.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 158,
+      "company": "GRIDCO LTD.",
+      "cin": "U40109OR1995SGC003960",
+      "sector": "Power & Energy",
+      "existing_reg_email": "gridcofca@gridco.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 159,
+      "company": "E-HOMES INFRASTRUCTURE PVT. LTD.",
+      "cin": "U45303DL2008PTC173249",
+      "sector": null,
+      "existing_reg_email": "fin@designarch.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 160,
+      "company": "WADHWA GROUP HOLDINGS PVT. LTD.",
+      "cin": "U45200MH1982PTC026214",
+      "sector": null,
+      "existing_reg_email": "roc@wadhwadevelopers.com",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 161,
+      "company": "CREDIFIN LTD.",
+      "cin": "L65110PB1992PLC012488",
+      "sector": "BFSI",
+      "existing_reg_email": "phf_leasingltd@yahoo.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 162,
+      "company": "SHALIBHADRA FINANCE LTD.",
+      "cin": "L65923MH1992PLC064886",
+      "sector": "BFSI",
+      "existing_reg_email": "shalibhadra_mum@yahoo.co.in",
+      "existing_phone": "91-22-24322993",
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    },
+    {
+      "row": 163,
+      "company": "PANDORA PROJECTS PVT. LTD.",
+      "cin": "U70101MH2014PTC255267",
+      "sector": null,
+      "existing_reg_email": "cosecdbr@dbg.co.in",
+      "existing_phone": null,
+      "status": "pending",
+      "contact": {
+        "name": null,
+        "designation": null,
+        "mobile": null,
+        "email": null,
+        "fallback": null,
+        "confidence": null,
+        "source": null,
+        "notes": null,
+        "run": null
+      }
+    }
+  ]
+}
