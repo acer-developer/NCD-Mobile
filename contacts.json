@@ -176,11 +176,11 @@
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": "Registered office: Shakti Bhawan, 14 Ashok Marg, Lucknow (UPPTCL headquarters)",
+        "fallback": "UPPTCL Head Office, Shakti Bhawan, 14 Ashok Marg, Lucknow — Phone: +91-522-2287874 (Accounts: 0522-2287701); Fax: 0522-2286476",
         "confidence": "low",
-        "source": "upptcl.org Corporate Directory page, via search snippet - direct WebFetch to upptcl.org was blocked by network egress so could not be independently confirmed",
-        "notes": "UPPTCL is a UP state-government transmission utility. Extensive search did not turn up a distinctly named CFO/Director(Finance)/Finance Controller for UPPTCL specifically - most 'Director (Finance)' hits found (e.g. Nidhi Narang, Sanjay Mehrotra) belong to the separate sister entity UPPCL and must NOT be used for this row. MD Mayur Maheshwari, IAS is the best-verified named senior contact but is not a finance-specific role, so omitted from contact and left as fallback-only. Existing on-file contact (hem.kumar.agrawar@gmail.com) was not re-verified.",
-        "run": "2026-08-13-2100"
+        "source": "Search aggregation of upptcl.org corporate directory pages, indiacustomercare.com, ZoomInfo listing for an Accounts Officer at UPPTCL",
+        "notes": "Could not confirm a current named CFO/Director(Finance)/GM(Finance) for UPPTCL specifically. Confirmed top leadership only: Dr. Ashish Kumar Goel IAS (Chairman), Mayur Maheshwari IAS (MD) — not finance-specific. Recommend outreach via head office number/registered email with follow-up ask for Director(Finance)/FA&CAO by designation.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -2060,19 +2060,42 @@
       "sector": "BFSI",
       "existing_reg_email": "msfl@marwadigroup.in",
       "existing_phone": "91-281-7174000",
-      "status": "partial",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sanjay H. Thakrar",
+        "designation": "Senior VP - Accounts & Finance",
         "mobile": null,
         "email": null,
-        "fallback": "inquiry@marwadionline.in / +91-281-6192000 or 7174000 (Corporate Office, Rajkot) - matches existing on-file phone",
-        "confidence": "low",
-        "source": "marwadionline.com/investor-relations/ page content (via search snippet, direct page fetch blocked by network egress)",
-        "notes": "Extensive search found NO named CFO, Treasury Head, or dedicated Finance Head for Marwadi Shares & Finance Ltd. Top named executives are Ketan H. Marwadi (Chairman/MD) and a CEO (sources conflict on name). An active LinkedIn job posting for 'Company Secretary' suggests that role may be currently vacant. Recommend using existing on-file registered email/phone until a named contact can be confirmed directly.",
-        "run": "2026-08-13-2100"
+        "fallback": "msfl@marwadigroup.in / inquiry@marwadionline.in; Phone: 0281-6192000 / 0281-7174000",
+        "confidence": "high",
+        "source": "Official company Leadership page marwadionline.com/leadership; corroborated by ZoomInfo listing (title: Senior VP, Accounts & Finance at Marwadi Shares & Finance)",
+        "notes": "No 'CFO' title used by company; Thakrar is the de facto senior finance executive per official leadership page. Personal direct email/mobile not published (ZoomInfo shows masked address), left null rather than guessed.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Mira D. Marwadi",
+          "designation": "Whole Time Director (promoter family)",
+          "mobile": null,
+          "email": null,
+          "fallback": "msfl@marwadigroup.in; 0281-7174000",
+          "confidence": "medium",
+          "source": "Official leadership bio (marwadionline.com/leadership); ZoomInfo profile",
+          "notes": "Operational/promoter-side director rather than dedicated finance title; secondary decision-maker contact.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": null,
+          "designation": "Company Secretary / Compliance Officer",
+          "mobile": null,
+          "email": null,
+          "fallback": "msfl@marwadigroup.in; 0281-7174000",
+          "confidence": "low",
+          "source": "LinkedIn job posting for Company Secretary role at Marwadi Shares and Finance Ltd.",
+          "notes": "Open LinkedIn job listing suggests position may be vacant/in transition; no incumbent name confirmed. Company has listed NCDs (ISIN INE138I08018/INE138I08026).",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 57,
@@ -2335,28 +2358,29 @@
       "sector": "Others",
       "existing_reg_email": "lumbinieducationpvtltd@gmail.com",
       "existing_phone": null,
-      "status": "partial",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sushil Kumar Agarwal",
+        "designation": "Director (small private company, no distinct CFO role; finance handled at director level)",
         "mobile": null,
         "email": null,
-        "fallback": "lumbinieducationpvtltd@gmail.com (registered email on file)",
-        "confidence": "low",
-        "source": "MCA-sourced director records via Tofler, Tracxn and TheCompanyCheck company profiles for CIN U85500RJ2023PTC086224",
-        "notes": "Very small entity (incorporated Mar 2023, Jaipur; paid-up capital ~1 lakh) functioning as an SPV-like structure for education-linked NCDs. Only two directors on record - Sushil Kumar Agarwal and Jayant Kumar Agarwal - and no separate CFO/Head-Finance title found. A well-known same-named finance professional (ex-Aavas Financiers) surfaced but could NOT be confirmed as the same individual - not conflated. No verified personal phone/email for either director found.",
-        "run": "2026-08-13-2100"
+        "fallback": "lumbinieducationpvtltd@gmail.com / info@lumbinieducation.com; Phone: +91-8529758464",
+        "confidence": "medium",
+        "source": "MCA-derived company/director records via Tofler, TheCompanyCheck, and search consensus (CIN U85500RJ2023PTC086224); company website lumbinieducation.com",
+        "notes": "Company is small (Rs 1 lakh paid-up capital), recently incorporated (March 2023), only two directors, no separate finance department. DIN cross-check to other directorships couldn't be fully confirmed as same individual — flagged as inference hence medium not high.",
+        "run": "2026-08-14-0100"
       },
       "additional": [
         {
-          "name": "Jayant Kumar Agarwal",
-          "designation": "Director (Promoter)",
+          "name": "Jayant Agarwal (also cited as Jayant Kumar Agarwal)",
+          "designation": "Director",
           "mobile": null,
           "email": null,
-          "fallback": "lumbinieducationpvtltd@gmail.com",
-          "confidence": "low",
-          "source": "MCA-sourced director records via Tofler, Tracxn and TheCompanyCheck",
-          "notes": "Co-director alongside Sushil Kumar Agarwal; no separate finance-specific title or verified contact details found."
+          "fallback": "lumbinieducationpvtltd@gmail.com / info@lumbinieducation.com; +91-8529758464",
+          "confidence": "medium",
+          "source": "Same MCA-derived aggregator sources as primary contact",
+          "notes": "Co-director; no distinguishing evidence found that either director specifically owns the finance function.",
+          "run": "2026-08-14-0100"
         }
       ]
     },
@@ -2756,19 +2780,31 @@
       "sector": "Services",
       "existing_reg_email": "roc.efiling2014@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "roc.efiling2014@gmail.com",
+        "confidence": "low",
+        "source": "MCA/ROC filing email as listed on ZaubaCorp/Tofler/IndiaFilings company profile pages for CIN U70109WB2006PTC165835",
+        "notes": "No named CFO, Treasury head, or finance controller could be identified for this company via MCA, company website, LinkedIn, or news search. CARE Ratings' latest press release (Nov 2025) marks the company's rating as 'ISSUER NOT COOPERATING'. Fallback is the generic ROC filing email already on file, unverified as a live monitored inbox.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Pallab Das, Sanjay Jhunjhunwala, Minu Tulsian, Prithiwiraj Mukherjee, Vinod Kejriwal, Suresh Kumar Kedia",
+          "designation": "Directors (MCA record) — finance-specific role not specified",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "ZaubaCorp / TheCompanyCheck / Tofler MCA director listings for CIN U70109WB2006PTC165835",
+          "notes": "MCA records list these six as company directors but do not indicate which (if any) is CFO or handles treasury/debt. No DIN-linked personal emails or phone numbers are published.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 76,
@@ -2777,19 +2813,31 @@
       "sector": "Real Estate",
       "existing_reg_email": "lavishbuildmart@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "lavishbuildmart@gmail.com",
+        "confidence": "low",
+        "source": "MCA/ROC registered email as listed on ZaubaCorp, Tofler, CleartTax, TheCompanyCheck for CIN U45300HR2007PTC056065",
+        "notes": "No named CFO or finance officer found for the SPV entity itself. Confirmed Lavish Buildmart is a 100%-owned subsidiary of M3M India Private Limited (M3M Group) per CARE Ratings press release (Feb 2024). No single current named Group CFO could be confidently verified. Registered company email is the only verifiable fallback.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Vijay Kumar Aggarwal / Anuj Kumar Tiwari",
+          "designation": "Directors (MCA record) — finance-specific role not specified",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "ZaubaCorp / Tofler / InsiderBiz MCA director listings for CIN U45300HR2007PTC056065",
+          "notes": "Listed as the two current directors of the SPV; no indication either holds a CFO/treasury title, and no personal contact details are published.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 77,
@@ -2798,19 +2846,42 @@
       "sector": "Real Estate",
       "existing_reg_email": "properties@prestigeconstructions.com",
       "existing_phone": "91-80-25591080",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Amit Mor",
+        "designation": "Chief Financial Officer, Prestige Group / Prestige Estates Projects Ltd.",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investors@prestigeconstructions.com; +91 80 2559 1080 / 2559 1945",
+        "confidence": "high",
+        "source": "Official bio page prestigeconstructions.com/about-us/cfo/amit-mor; corroborated by Trendlyne (executive remuneration disclosure filed with BSE/NSE annual report), Crunchbase, and LinkedIn (in.linkedin.com/in/amit-mor-006a382a8) — 3+ independent sources agree on name, title, and tenure since June 2021",
+        "notes": "No direct personal email or mobile number for Amit Mor is published on any public source; only the general company investor-relations email/landline is available as fallback contact route. His stated remit explicitly covers Corporate Finance, Fund Raising, and Treasury.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Manoj Krishna J V",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": null,
+          "fallback": "investors@prestigeconstructions.com",
+          "confidence": "high",
+          "source": "Multiple BSE corporate filings/announcements for Prestige Estates Projects Ltd. (CIN L07010KA1997PLC022322) from 2023 through 2026",
+          "notes": "As Company Secretary & Compliance Officer, this is the standard signatory for debt/debenture and regulatory filings and a strong secondary contact for NCD-related correspondence.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": null,
+          "designation": "Investor Relations Desk",
+          "mobile": null,
+          "email": "investors@prestigeconstructions.com",
+          "fallback": "+91 80 2559 1080",
+          "confidence": "medium",
+          "source": "prestigeconstructions.com/our-investors and /our-investors/contact pages (page could not be directly fetched due to network egress restrictions during this session; email/phone corroborated via search result snippets)",
+          "notes": "Could not directly render the IR contact page due to a network block on prestigeconstructions.com in this environment; email address is consistent across independent search snippets, so treated as medium confidence pending direct page verification.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 78,
@@ -2819,19 +2890,42 @@
       "sector": null,
       "existing_reg_email": "marathon@marathonrealty.com",
       "existing_phone": "91-22-67728484",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Suyash Bhise",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "cs@marathonrealty.com / yogesh.patole@marathonrealty.com (Company Secretary desk), landline +91-22-6772 8484",
+        "confidence": "medium",
+        "source": "CFO appointment: Marathon Nextgen Realty board meeting outcome filing dated 21-Jun-2024, corroborated by boardstewardship.com and ZoomInfo/Bloomberg profile pages. Fallback via NSE filing signed by Yogesh Ashok Patole, Company Secretary & Compliance Officer",
+        "notes": "CFO identity/appointment confirmed via official filing but no personal email/mobile found (ZoomInfo masks it, not reproduced). Fallback is CS contact, independently verified via NSE filing.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Yogesh Ashok Patole",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "cs@marathonrealty.com",
+          "fallback": "+91-22-6772 8484",
+          "confidence": "high",
+          "source": "NSE corporate filings signed by him through 2025-2026",
+          "notes": "Signs all listing-related disclosures; reasonable point of contact for debt/NCD compliance queries.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": null,
+          "designation": "Investor/Shares desk",
+          "mobile": null,
+          "email": "shares@marathonnextgen.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "Web search results referencing Marathon Nextgen Realty investor complaint email",
+          "notes": "Appears to be registrar/investor-grievance email rather than a finance decision-maker.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 79,
@@ -2840,19 +2934,31 @@
       "sector": "Services",
       "existing_reg_email": "corporate@thelalit.com",
       "existing_phone": "91-11-23411001",
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rakesh Mitra",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "corporate@thelalit.com, landline +91-11-23411001 / +91-11-44447777",
+        "confidence": "medium",
+        "source": "Bharat Hotels Ltd Annual Report 2023-24, corroborated by RocketReach profile and news search — Amit Gupta resigned as CFO effective 8-Nov-2023, Rakesh Mitra appointed CFO effective 7-Mar-2024 (with company since 17-May-2002)",
+        "notes": "Name/designation corroborated by 2+ sources, but no direct personal email or mobile located. Fallback is general corporate email/landline, not independently re-confirmed as CFO's direct line.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Himanshu Pandey",
+          "designation": "Company Secretary & Head - Legal and Compliance (as of 2018 DRHP)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "Bharat Hotels Ltd DRHP 2018 (SEBI/BSE filing)",
+          "notes": "Role/name from a 2018 IPO prospectus; could not confirm if still current (7+ years old).",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 80,
@@ -2861,19 +2967,31 @@
       "sector": null,
       "existing_reg_email": "india@asaindiaamf.com",
       "existing_phone": "91-33-23358510",
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "india@asaindiaamf.com, phone 91-33-23358510 (existing registered contact, not independently re-verified); alt office number +91 (33) 2357 8508/18",
+        "confidence": "low",
+        "source": "Existing company registration hint; general office number from web-search summary",
+        "notes": "No named CFO/Treasury Head/Finance Controller for the India entity could be found despite extensive searching. Parent group CFO (Geert Embrechts, Amsterdam) covers the whole group, not India specifically, so not listed as India contact. Several company sites were blocked by network egress proxy and could not be directly fetched, worth manual re-check.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Anjan Dasgupta",
+          "designation": "Managing Director (finance & banking background; oversees overall business including finance)",
+          "mobile": "8100065555",
+          "email": "anjan.dgupta@gmail.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "Third-party contact aggregator (ContactOut) and LinkedIn profile",
+          "notes": "MD confirmed via multiple sources but not a dedicated CFO/Treasury role. Mobile/personal Gmail come only from a third-party data-aggregator scrape, not an official company source — flagged low confidence, personal (not corporate) address.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 81,
@@ -2882,19 +3000,31 @@
       "sector": "Real Estate",
       "existing_reg_email": "deepak.s@keppelland.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Chandrashekar S. (Chandrashekar Shriramulu)",
+        "designation": "Company Secretary, Bangalore Tower Pvt. Ltd. (Keppel Land group SPV)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "chandrashekar.s@keppelland.com",
+        "fallback": "+91 80 6949 555 (Keppel Real Estate India / BTPL office, The Cube, Karle Town Centre, Bengaluru)",
+        "confidence": "high",
+        "source": "Keppel's own Bangalore Tower/BTPL project pages list this contact email/phone; corporate-registry aggregator (thecompanycheck.com, CIN U45309KA2021PTC152825) independently names Chandrashekar Shriramulu as Company Secretary",
+        "notes": "BTPL is a 100%-owned Keppel Land SPV (no independent CFO); Company Secretary is the closest named finance-adjacent contact found.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Deepak T S",
+          "designation": "Senior Manager, Keppel Real Estate Division (India) - role not confirmed as finance-specific",
+          "mobile": null,
+          "email": "deepak.s@keppelland.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "LinkedIn profile; email matches existing on-file address pattern",
+          "notes": "Matches pre-existing hint email exactly, but LinkedIn describes investments/asset-management remit, not finance/treasury title.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 82,
@@ -2903,19 +3033,42 @@
       "sector": null,
       "existing_reg_email": "moneymsecurities@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Chirag Parmar",
+        "designation": "Company Secretary & Compliance Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "moneymsecurities@gmail.com; phone +91 22 3304 3800 (registered office, Bandra West, Mumbai)",
+        "confidence": "medium",
+        "source": "Company's own leadership page (moneymartspl.com/leaders.html via cached search snippets)",
+        "notes": "Could not find personal/direct email or mobile for Chirag Parmar. Note: moneymartspl.com's contact page may indicate a lapsed/inactive domain - verify before relying on it.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sanjeev Gajanan Patil",
+          "designation": "Director (ex-CFO Epsilon Carbon Pvt Ltd, senior finance roles at Privi Speciality Chemicals, Asian Paints, 20th Century Finance)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "Company leadership bio; Zauba/Tofler director listing",
+          "notes": "Listed as Director not executive finance officer of Moneymart itself, though heavily finance/CFO-background. No direct contact details found.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Gaurav Jeswani (IDBI Trusteeship Services Ltd - debenture trustee)",
+          "designation": "Debenture Trustee contact for Moneymart NCD issues",
+          "mobile": "022 4080 7000",
+          "email": null,
+          "fallback": "itsl@idbitrustee.com / response@idbitrustee.com",
+          "confidence": "medium",
+          "source": "NSE debt filing and CARE Ratings press release referencing Moneymart's NCD program",
+          "notes": "This is the debenture trustee's contact, not a Moneymart employee - included as fallback route relevant to NCD/debt matters.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 83,
@@ -2924,19 +3077,42 @@
       "sector": "Others",
       "existing_reg_email": "thirumalai@thirumalaichemicals.com",
       "existing_phone": "91-22-24017841",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Ramya Bharathram",
+        "designation": "Managing Director & Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investorinfo@thirumalaichemicals.com; +91 44 6605 7700/7736 (Chennai corporate office, Spic House, Guindy) - note existing on-file number 91-22-24017841 appears to be an older Mumbai line, should be re-verified",
+        "confidence": "high",
+        "source": "Company's own Board of Directors page, Business Standard (2021 appointment article), MarketScreener, Bloomberg, LinkedIn; confirmed current via reappointment at 53rd AGM Aug 2026",
+        "notes": "Combined MD+CFO role since March 2024 (reappointed Aug 2026). No direct/personal email found publicly (only shared IR inbox); masked company-domain email not guessed.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "K. Anand Kumar",
+          "designation": "President - Finance (Senior Management), effective 14 Feb 2026; previously Group CFO at PVP Ventures",
+          "mobile": null,
+          "email": null,
+          "fallback": "investorinfo@thirumalaichemicals.com; +91 44 6605 7700",
+          "confidence": "high",
+          "source": "Company's own Outcome of Board Meeting filing dated 14 Feb 2026, corroborated by ZoomInfo and LinkedIn",
+          "notes": "Most recently appointed senior finance executive, distinct from MD/CFO dual role - likely most relevant day-to-day finance contact for NCD/credit-rating outreach.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Aditya Sharma",
+          "designation": "Company Secretary & Compliance Officer (appointed effective 18 Aug 2025, Membership No. A39666)",
+          "mobile": null,
+          "email": "investorinfo@thirumalaichemicals.com",
+          "fallback": "+91 44 6605 7736",
+          "confidence": "high",
+          "source": "Official BSE/NSE corporate filings naming Aditya Sharma as Company Secretary & Compliance Officer",
+          "notes": "IR email/phone are the company's designated statutory contact channel for the CS role, not a personal address.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 84,
@@ -2945,19 +3121,42 @@
       "sector": null,
       "existing_reg_email": "mvflcoadmin@muthootgroup.com",
       "existing_phone": "91-484-3222002",
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Geena Thomas",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "mvfl@muthootgroup.com / +91-484-3222002 (registered corporate office, Kochi)",
+        "confidence": "high",
+        "source": "Muthoot Vehicle & Asset Finance Limited 33rd Annual Report 2024-25 (mvafl.com) - identified via search-engine indexing; two independent search queries returned the same designation from the same official annual report",
+        "notes": "No direct mobile or personal email found for Geena Thomas; use registered landline/general email as fallback until direct line confirmed.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Geena Ajith",
+          "designation": "Chief Finance Manager (possibly a name variant of CFO Geena Thomas; unverified whether same individual)",
+          "mobile": "7593864403",
+          "email": "geenaajith@muthootgroup.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "indiacustomercare.com customer-care contact aggregator listing",
+          "notes": "Third-party aggregator of uncertain reliability; title differs from CFO cited in annual report.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Manoj Jacob",
+          "designation": "Whole Time Director (chartered accountant, oversees governance/finance strategy)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Muthoot Vehicle & Asset Finance Annual Report 2024-25 (via search summary); Tracxn company profile",
+          "notes": "Whole Time Director with finance/CA background, not the CFO. Secondary escalation contact for board-level debt matters.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 85,
@@ -2966,19 +3165,42 @@
       "sector": null,
       "existing_reg_email": "neeraj@hectorbeverages.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Hemant Agarwal",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "hemant.agarwal@hectorbeverages.com",
+        "fallback": "hectorbeverages.com general/registered office; paperboat@hectorbeverages.com brand contact",
+        "confidence": "medium",
+        "source": "LinkedIn (title: CFO at Hector Beverages); TheOrg.com org chart, in role since Jan 2024 - two independent sources agree on name+designation",
+        "notes": "Email is INFERRED from company's dominant firstname.lastname@hectorbeverages.com pattern (~57% of listed staff per LeadIQ/RocketReach), not directly confirmed. Do not treat as verified without direct confirmation. No phone number found.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Neeraj Kakkar",
+          "designation": "Co-Founder & CEO",
+          "mobile": null,
+          "email": "neeraj@hectorbeverages.com",
+          "fallback": null,
+          "confidence": "high",
+          "source": "Existing registered contact hint, corroborated by StartupTalky, LinkedIn, TheOrg",
+          "notes": "Not a finance-title contact, but as founder/CEO is a legitimate escalation point above the CFO.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": null,
+          "designation": "General/registered office contact",
+          "mobile": null,
+          "email": null,
+          "fallback": "+91 18604254425 (general company phone line)",
+          "confidence": "low",
+          "source": "RocketReach company profile aggregation",
+          "notes": "Generic company phone number, not confirmed as a direct finance-desk line.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 86,
@@ -2987,19 +3209,42 @@
       "sector": null,
       "existing_reg_email": "rohanpn@rohanbuilders.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "rohanpn@rohanbuilders.com / +91-20-7101-7101 (registered office: 1 Modibaug, Ganeshkhind Road, Shivaji Nagar, Pune - 411016)",
+        "confidence": "low",
+        "source": "Zaubacorp / IndiaFilings / Corporatedir company-registry listings for CIN U45203PN2007PLC130755; Rohan Builders official contact page confirmed matching registered address/phone",
+        "notes": "No named CFO/Treasury head/finance controller identified for this SPV despite searching MCA/registry, CARE Ratings rationale for related entity, Rajdeep Group and Rohan Builders sites. Existing hint email confirmed real but appears general/BD mailbox rather than finance-specific.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Rohan Suhas Lunkad",
+          "designation": "Managing Director",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Zaubacorp / IndiaFilings MCA director listing",
+          "notes": "Named as MD across multiple company-registry sources, not finance-specific but senior-most named individual found.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": "Dilip Popatlal Dhadiwal",
+          "designation": "Director (also director at Rajdeep Buildcon Pvt Ltd, co-promoter group)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "Zaubacorp / Company registry MCA director listings",
+          "notes": "Board-level director from the Rajdeep Buildcon side of the JV; no finance title or contact details found.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 87,
