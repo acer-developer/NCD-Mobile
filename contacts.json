@@ -4776,19 +4776,31 @@
       "sector": "Services",
       "existing_reg_email": "amri@amrihospitals.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sameer Agarwal",
+        "designation": "Group Chief Financial Officer, Manipal Hospitals / Manipal Health Enterprises Ltd (parent group)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "legalcs@manipalhospitals.com / +91 80 4936 0300",
+        "confidence": "high",
+        "source": "ZaubaCorp director listing, LinkedIn, TheOrg org chart, official Manipal Hospitals Facebook posts, Manipal Health Enterprises Ltd DRHP/RHP (2026 IPO filings)",
+        "notes": "Manipal Hospitals (East) India (formerly AMRI Hospitals) is subsidiary of Manipal Health Enterprises Ltd (India's largest healthcare IPO, Aug 2026). Sameer Agarwal is group-level CFO since May 2016, not entity-specific. Direct email/mobile not verified, masked address not usable.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sathish Kolar Ramamoorthy",
+          "designation": "Company Secretary and Compliance Officer, Manipal Health Enterprises Ltd (group parent)",
+          "mobile": null,
+          "email": "legalcs@manipalhospitals.com",
+          "fallback": "+91 80 4936 0300, Bengaluru 560017",
+          "confidence": "high",
+          "source": "Manipal Health Enterprises Ltd DRHP/RHP filed with SEBI/BSE/NSE",
+          "notes": "Official statutory compliance/CS contact for listed group parent - likely most reliable formal channel for debt/rating correspondence.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 133,
@@ -4797,17 +4809,17 @@
       "sector": null,
       "existing_reg_email": "dpjain.company@dpjaingroup.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Girish Dharampal Jain",
+        "designation": "Managing Director (oversees Corporate Finance, Project Finance, Investor Relations per company's own management page)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "dpjain.company@dpjaingroup.com; Nagpur, Maharashtra registered office",
+        "confidence": "medium",
+        "source": "dpjaingroup.com/management (via search cache); ZaubaCorp/Tofler director records; Brickwork/ICRA rating rationale references",
+        "notes": "No separately titled CFO in public sources; MD is repeatedly described as finance-responsible leader - inferred functional match, not formal CFO title. No verified direct email/mobile found.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -4818,19 +4830,31 @@
       "sector": "BFSI",
       "existing_reg_email": "venkateshn@samasta.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Ananthakumar T (Anantha Kumar Thangavel)",
+        "designation": "Chief Financial Officer, IIFL Samasta Finance Ltd",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "ananthakumart@iiflsamasta.com",
+        "fallback": "+91 80 4291 3509; registered office Bangalore 560027",
+        "confidence": "medium",
+        "source": "iiflsamasta.com About Us page (via search cache), LinkedIn, ZoomInfo/aggregator listings",
+        "notes": "Name/title corroborated by 2+ sources, but email/phone surfaced only via third-party aggregator, not directly verified on primary page - kept at medium per confidence rules.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Venkatesh N",
+          "designation": "Founder & Managing Director, IIFL Samasta Finance Ltd",
+          "mobile": null,
+          "email": "venkateshn@samasta.co.in (legacy domain, from existing hint)",
+          "fallback": null,
+          "confidence": "high",
+          "source": "iifl.com official leadership page confirms Venkatesh N as Founder and MD",
+          "notes": "Company rebranded email domain from samasta.co.in to iiflsamasta.com after IIFL acquisition; legacy address may be outdated. Secondary/escalation contact, not primary finance contact.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 135,
@@ -4839,19 +4863,31 @@
       "sector": "Manufacturing",
       "existing_reg_email": "jameel@smileelectronics.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Mukesh Gupta",
+        "designation": "Managing Director (functions as de facto chief finance decision-maker; ~25 years in private/merchant banking finance before founding the company)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "mukesh@smileelectronics.com",
+        "fallback": "Registered office landline 080-4038 2727; general contact jameel@smileelectronics.com (Admin/HR, not finance)",
+        "confidence": "medium",
+        "source": "ZoomInfo profile, YourStory profile of Mukesh Gupta/Smile Electronics, smileelectronics.com Management Team page (via search snippets), ZaubaCorp/Tracxn/TheCompanyCheck director listings",
+        "notes": "CORRECTION: Smile Electronics Ltd. is NOT a hospital/healthcare group - it's a Bengaluru-based Electronics Manufacturing Services (EMS) company, PCB assembly, aerospace/defence electronics, supplied components for ISRO's Mangalyaan mission. Founded 2000, ~Rs.477 Cr revenue (FY23), unlisted. No distinct named CFO/Treasury Head/CS found - Mukesh Gupta (MD) publicly described as personally running finance. Email is INFERRED from confirmed firstname@smileelectronics.com convention, not independently verified - treat as a guess.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Jameel Bakshi",
+          "designation": "Manager, Admin & HR (not a finance role)",
+          "mobile": null,
+          "email": "jameel@smileelectronics.com",
+          "fallback": "080 4038 2727 (company registered office)",
+          "confidence": "medium",
+          "source": "ZoomInfo; this was the email hint supplied in the original brief",
+          "notes": "Confirmed real and current, but HR/Admin contact, not finance - useful only as general routing address.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 136,
@@ -4860,19 +4896,42 @@
       "sector": "BFSI",
       "existing_reg_email": "md@kfc.org",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Premnath Ravindranath",
+        "designation": "Executive Director, Kerala Financial Corporation (previously GM - Finance & Marketing per a 2017 legal record)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "premnathravindranath@kfc.org",
+        "fallback": "Main KFC switchboard +91-471-2737500/2737777; general email kfc@kfc.org",
+        "confidence": "medium",
+        "source": "RocketReach org-chart aggregator, ZoomInfo profile, LinkedIn profile, Indian Kanoon case record (2017) referencing him as GM (Finance & Marketing)",
+        "notes": "Sourced mainly from data aggregators, not KFC's own site (blocked). As Executive Director appears senior-most full-time finance-linked executive under government-appointed Chairman/CMD - reasonable primary contact but verify against kfc.org before use.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": null,
+          "designation": "Chairman & Managing Director (CMD), Kerala Financial Corporation",
+          "mobile": null,
+          "email": null,
+          "fallback": "md@kfc.org; main switchboard +91-471-2737500",
+          "confidence": "low",
+          "source": "News reports on CMD appointment; existing hint supplied in task brief",
+          "notes": "CMD is a rotating Kerala-cadre IAS generalist administrator, not career finance professional. Sanjay Kaul reported as taking over CMD ~late March 2026, succeeding Umesh N.S.K IAS - not independently confirmed. Executive Director (finance) above likely more useful working-level contact.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": null,
+          "designation": "General corporate contact desk",
+          "mobile": null,
+          "email": "kfc@kfc.org",
+          "fallback": "+91-471-2737500/2737503/2737576; toll-free 1800-425-8590",
+          "confidence": "high",
+          "source": "indiacustomercare.com listing, corroborated by kfc.org site content in search snippets",
+          "notes": "Verified general/main corporate email and phone; not finance-department-specific.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 137,
@@ -4881,19 +4940,42 @@
       "sector": null,
       "existing_reg_email": "ravikumar.reddy@puravankara.com",
       "existing_phone": "91-80-43428901",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Niraj Kumar Gautam",
+        "designation": "Group Chief Financial Officer (CFO), Puravankara Limited - listed parent of Provident Housing Ltd. Elevated from Deputy Group CFO effective 24 Sept 2025",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "neeraj.gautam@puravankara.com",
+        "fallback": "Puravankara registered office 080-4343 9999 / 080-2559 9000; Group Investor Relations desk investors@puravankara.com",
+        "confidence": "high",
+        "source": "MarketScreener official CFO-appointment announcement, RPRealtyPlus, HR Today, boardstewardship.com, StockInsights.ai management-change filing (Nov 2025), corroborated independently by ZoomInfo and RocketReach",
+        "notes": "Provident Housing is 100%-owned subsidiary/affordable-housing brand of Puravankara Limited (BSE:532891/NSE:PURVA); parent's Group CFO is correct top finance contact. Predecessor Deepak Rastogi held role only Jan-Sept 2025. Original hint contact ravikumar.reddy@puravankara.com could NOT be matched to any named individual - closest match is HR Chief, not finance - treat as likely stale.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Bindu D",
+          "designation": "Company Secretary & Compliance Officer, Puravankara Limited",
+          "mobile": null,
+          "email": "bindu.d@puravankara.com",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "LinkedIn, Bloomberg person profile, Puravankara regulatory-filing PDFs",
+          "notes": "Often practical point of contact for debenture-trustee/compliance correspondence on NCDs. One source describes her in former capacity - reconfirm current status before outreach.",
+          "run": "2026-08-14-0100"
+        },
+        {
+          "name": null,
+          "designation": "Group Investor Relations desk",
+          "mobile": null,
+          "email": "investors@puravankara.com",
+          "fallback": "Mumbai IR office +91-22-4080 7000",
+          "confidence": "high",
+          "source": "puravankara.com/investors page (via search snippets), corroborated by multiple contact aggregators",
+          "notes": "Official group-level investor relations channel; good generic fallback if named CFO is unreachable.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 138,
@@ -4902,19 +4984,31 @@
       "sector": null,
       "existing_reg_email": "cosec@royalorchidhotels.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Amit Jaiswal",
+        "designation": "Chief Financial Officer",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "cfo@royalorchidhotels.com",
+        "fallback": "Landline: 080-41783000",
+        "confidence": "high",
+        "source": "Official Contact Details of KMP document on royalorchidhotels.com, corroborated by Bloomberg Markets profile, Zee Business interview, and LinkedIn",
+        "notes": "No mobile number found publicly; email/designation confirmed directly from company's own KMP contact sheet.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Dr. Ranabir Sanyal",
+          "designation": "Group Company Secretary & Chief Compliance Officer",
+          "mobile": null,
+          "email": "cosec@royalorchidhotels.com",
+          "fallback": "Landline: 080-41783000",
+          "confidence": "high",
+          "source": "Official Contact Details of KMP document; matches existing registered email hint exactly; also on LinkedIn",
+          "notes": "Handles compliance/secretarial matters including debt/NCD filings; good alternate contact.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 139,
@@ -4923,19 +5017,31 @@
       "sector": "Power & Energy",
       "existing_reg_email": "eogepl@essarenp.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Nitin Singh",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "eogepl@essarenp.co.in; care@eogepl.com; service@eogepl.com; phone +91 9376841414",
+        "confidence": "medium",
+        "source": "Company's own executive management page (eogepl.com/executive-management/) and ZoomInfo profile both list Nitin Singh as CFO",
+        "notes": "Direct email masked/paywalled on ZoomInfo/RocketReach, left null. Existing hint email independently reconfirmed as company's general contact email.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Pankaj Kalra",
+          "designation": "Director (India board) / CEO, Essar Exploration & Production Ltd, Mauritius",
+          "mobile": null,
+          "email": null,
+          "fallback": "eogepl@essarenp.co.in",
+          "confidence": "medium",
+          "source": "MCA-derived director listing; essarenp.com and business-standard.com confirm finance background (former CFO of Mauritius entity, later CEO)",
+          "notes": "Strong finance background but current designation at Indian entity is Director, not CFO.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 140,
@@ -4944,17 +5050,17 @@
       "sector": "Manufacturing",
       "existing_reg_email": "aal@amtek.com",
       "existing_phone": "91-11-42344444",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Muneesh Chawla",
+        "designation": "Chief Financial Officer / Whole-time Director (also referred to as Executive Director / Group Financial Controller in some sources)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "info@reventengineering.com; phone +91-7058955570",
+        "confidence": "medium",
+        "source": "Tofler and TheCompanyCheck MCA records showing appointment as CFO/whole-time director on 06 May 2024; LinkedIn lists as Executive Director - Revent Group",
+        "notes": "Designation varies across sources - medium confidence. Existing hint contact (aal@amtek.com) belongs to old Amtek Auto Ltd entity, acquired out of insolvency by Deccan Value Investors Dec 2021 and renamed Revent Precision Engineering - old contact likely stale, use reventengineering.com contacts instead.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -4965,19 +5071,31 @@
       "sector": null,
       "existing_reg_email": "sanket.shah@shapoorji.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Kartik Deuskar",
+        "designation": "Director - Finance (Shapoorji Pallonji Family Office / SP Ports); listed director of S P Imperial Star Pvt. Ltd.",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "kartik.deuskar@shapoorji.com",
+        "fallback": "sanket.shah@shapoorji.com / +91-22-6749-0000",
+        "confidence": "medium",
+        "source": "WebSearch aggregation of ZoomInfo/RocketReach/SignalHire/LinkedIn snippets; ZaubaCorp confirms he and Amit Saboo are directors",
+        "notes": "Email surfaced via third-party aggregator snippets, not independently double-verified. His day-to-day title is Director Finance at SP Ports/Family Office, not exclusive to this SPV, but named director here.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Amit Saboo",
+          "designation": "Director - Family Office, Shapoorji Pallonji Group (also CEO, SP Ports); director of this SPV",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "ZaubaCorp director listing; RocketReach/Adapt.io/ContactOut bio pages",
+          "notes": "Email exists but masked in public snippets, not disclosed.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 142,
@@ -4986,19 +5104,31 @@
       "sector": null,
       "existing_reg_email": "dhanisecetarial@dhani.com",
       "existing_phone": "91-124-6681199",
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "dhanisecetarial@dhani.com / +91-124-6681199",
+        "confidence": "medium",
+        "source": "Existing registered contact cross-checked against Dhani Services Ltd's published HQ details confirming domain/area code genuine and in use",
+        "notes": "No named CFO/treasury head/CS found for this smaller non-listed group NBFC entity. No NCD/debt listing found for this specific CIN. Company's group structure ambiguous post Oct-2025 NCLT merger of 17 Dhani/Indiabulls entities.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Rajiv Agarwal",
+          "designation": "Chief Financial Officer, Indiabulls Limited (group entity from Oct-2025 merger)",
+          "mobile": null,
+          "email": null,
+          "fallback": "support@indiabulls.com",
+          "confidence": "low",
+          "source": "News/aggregator search results naming him CFO of renamed Indiabulls Limited",
+          "notes": "Group-level CFO of newly formed listed parent, not confirmed to have direct authority over this specific private subsidiary. Indirect escalation path only.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 143,
@@ -5007,19 +5137,31 @@
       "sector": null,
       "existing_reg_email": "rjindal@polyplex.com",
       "existing_phone": "91-120-4621300",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Amit Kr. Agarwal",
+        "designation": "Chief Financial Officer - Bhilangana Hydro Power Ltd. / Polyplex Hydro Group",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "rjindal@polyplex.com / +91-120-4621300",
+        "confidence": "high",
+        "source": "LinkedIn, RocketReach, ZoomInfo, EasyLeadz, TheOrg all identify him as CFO since 2005 - 4+ independent sources agree",
+        "notes": "Direct email/phone masked everywhere, not verified, left null. Polyplex.com domain confirmed correct via existing verified contact.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Rajesh Kumar Jindal",
+          "designation": "Director, Bhilangana Hydro Power Ltd. (Polyplex/Jindal group)",
+          "mobile": null,
+          "email": "rjindal@polyplex.com",
+          "fallback": "+91-120-4621300",
+          "confidence": "high",
+          "source": "Existing registered contact, confirmed as listed director via ZaubaCorp/company-profile aggregator",
+          "notes": "Pre-existing verified contact, confirmed actual director - upgraded to high confidence as named-person fallback.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 144,
@@ -5028,17 +5170,17 @@
       "sector": null,
       "existing_reg_email": "gaurav.kumar@gulshanhomz.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Pankaj Singh",
+        "designation": "Chief Financial Officer, Gulshan Group (parent group)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "info@gulshanhomz.com / +91 95 8050 8050",
+        "confidence": "medium",
+        "source": "News coverage of appointment mid-July 2026: indiaretailing.com, medianews4u.com, newspatrolling.com, constrofacilitator.com, todaystraveller.net - 5 independent outlets corroborate",
+        "notes": "Appointment confirmed by multiple outlets, but no direct email/mobile found - capped at medium. He is CFO of Gulshan Group (parent conglomerate), not confirmed exclusive to Gulshan Homz legal entity.",
+        "run": "2026-08-14-0100"
       },
       "additional": []
     },
@@ -5049,19 +5191,31 @@
       "sector": null,
       "existing_reg_email": "jyotika.kamath@manipalgroup.com",
       "existing_phone": "91-80-30789100",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
-        "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "name": "Sathish Kolar Ramamoorthy",
+        "designation": "Company Secretary & Compliance Officer, Manipal Health Enterprises Limited (MHEL) - group's listed operating entity",
+        "mobile": "+91 80 4936 0300",
+        "email": "legalcs@manipalhospitals.com",
+        "fallback": "jyotika.kamath@manipalgroup.com / +91-80-30789100",
+        "confidence": "high",
+        "source": "Manipal Health Enterprises Limited RHP/DRHP via Kotak Investment Banking and SEBI/BSE/NSE filings; corroborated by ZaubaCorp listings for this CIN showing status 'Amalgamated'",
+        "notes": "This entity's CIN shows status Amalgamated - merged into wider Manipal Group hospital structure. Listed/operating entity that issues debt is MHEL (IPO'd July-Aug 2026). Directors on record: Ranjan Ramdas Pai and Shruti Ranjan Pai (promoter family).",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sameer Agarwal",
+          "designation": "Group CFO, Manipal Health Enterprises / Manipal Hospitals",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "high",
+          "source": "theorg.com org chart, rocketreach.co, Manipal Hospitals official Facebook posts, multiple news mentions since 2016",
+          "notes": "Highest-priority contact by role, well corroborated identity, but no verified direct email/mobile found - masked on RocketReach.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 146,
@@ -5070,19 +5224,31 @@
       "sector": "BFSI",
       "existing_reg_email": "cabssarda@yahoo.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Meghana Lale",
+        "designation": "Chief Financial Officer, Purple Finance Limited (appointed effective 3 Feb 2025)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "customersupport@purplefinance.in / +91-22 6916 5100",
+        "confidence": "high",
+        "source": "Official BSE corporate announcement (board meeting 19 Jan 2025) as reported by marketscreener.com; registered office contact confirmed via multiple business-listing sources",
+        "notes": "CFO appointment is a regulatory BSE disclosure - strong official source. No verified direct email/mobile found. A conflicting stale web snippet naming a different person as CFO was disregarded as unreliable.",
+        "run": "2026-08-14-0100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ruchi Jitendra Nishar",
+          "designation": "Company Secretary & Compliance Officer (also a promoter)",
+          "mobile": null,
+          "email": null,
+          "fallback": "customersupport@purplefinance.in / +91-22 6916 5100",
+          "confidence": "high",
+          "source": "Multiple BSE regulatory filings signed by her in 2025-2026, corroborated by company profile aggregators",
+          "notes": "Confirmed via 2+ independent filings. Company recently approved Rs 350 crore NCD issue for FY27, making CS/Compliance Officer a directly relevant debt-desk contact.",
+          "run": "2026-08-14-0100"
+        }
+      ]
     },
     {
       "row": 147,
