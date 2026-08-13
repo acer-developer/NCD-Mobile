@@ -12,19 +12,50 @@
       "sector": "BFSI",
       "existing_reg_email": "mail@muthootcap.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Ramandeep Singh Gill",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "secretarial@muthootcap.com / +91-484-6619600 (company secretarial & investor desk)",
+        "confidence": "high",
+        "source": "MarketScreener - 'Muthoot Capital Services Names New CFO'; Bloomberg Markets profile - Ramandeep Singh Gill; Simply Wall St management page",
+        "notes": "Appointed CFO effective Dec 6, 2022, succeeding Vinodkumar Madhavan Panicker; confirmed via 3 independent sources. Direct personal email/phone could not be independently verified; NOT used per no-fabrication rule. Fallback is the company's investor/secretarial contact.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Deepa Gopalakrishnan (Deepa G)",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": "+91-484-6619672",
+          "email": "secretarial@muthootcap.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "NSE corporate filing MUTHOOTCAP_08082023211108_MGTCNGFINAL.pdf; 2025-26 SE intimations",
+          "notes": "Current incumbent is ambiguous in filings (conflicts with Srikanth G Menon record below) - verify before outreach."
+        },
+        {
+          "name": "Srikanth G Menon",
+          "designation": "Company Secretary & Compliance Officer (per Mar 2024 appointment)",
+          "mobile": "+91-484-6619672",
+          "email": "srikanth.m@muthootcap.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "Search snippet citing BSE appointment filing",
+          "notes": "Reported appointed CS Mar 28 2024; conflicts with other filings still citing Deepa Gopalakrishnan - treat both as unverified until cross-checked."
+        },
+        {
+          "name": "Tina Suzanne George",
+          "designation": "Whole-time/Executive Director (Chartered Accountant; ex-Deloitte, EY)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "muthootcap.com/bod/tina-suzanne-george/; NSE filing on appointment as Whole Time Director (DIN 09775050)",
+          "notes": "Board-level executive with finance/audit background, not a designated CFO/Treasury role."
+        }
+      ]
     },
     {
       "row": 1,
@@ -33,19 +64,40 @@
       "sector": "BFSI",
       "existing_reg_email": "someshjh.kumar@clix.capital.com",
       "existing_phone": "91-124-3302000",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Gagan Aggarwal",
+        "designation": "Group Chief Financial Officer",
         "mobile": null,
-        "email": null,
+        "email": "gagan.aggarwal@clix.capital",
         "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "confidence": "medium",
+        "source": "PeopleMatters - 'Fintech solutions Clix Capital hires Gagan Aggarwal as its CFO'; LinkedIn; TheOrg org chart",
+        "notes": "Name/designation high-confidence (news + LinkedIn + org chart). Email is INFERRED from the firstname.lastname@clix.capital pattern (confirmed real via CS contact Vinu.Kalra@clix.capital) - not independently confirmed for this individual, so downgraded to medium.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Dhairya Parikh",
+          "designation": "Head, Treasury",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "LinkedIn (in.linkedin.com/in/dhairya-parikh-49187913)",
+          "notes": "LinkedIn-only source; no company-verified email or phone found."
+        },
+        {
+          "name": "Vinu Rajat Kalra",
+          "designation": "AVP & Company Secretary / Compliance Officer",
+          "mobile": "0120-6465400",
+          "email": "Vinu.Kalra@clix.capital",
+          "fallback": null,
+          "confidence": "high",
+          "source": "Clix Capital Investor Grievance Redressal disclosure; AGM Proceedings 2023 PDF; GID dated 24-Apr-2026",
+          "notes": "Verified across 2+ Clix Capital-published sources. Handles secretarial/compliance - natural point of contact for NCD/debt investor queries."
+        }
+      ]
     },
     {
       "row": 2,
@@ -54,19 +106,30 @@
       "sector": null,
       "existing_reg_email": "rfcomplaince@edelweissfin.com",
       "existing_phone": "91-22-40094400",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
-        "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "name": "Tarun Khurana",
+        "designation": "Company Secretary & Compliance Officer, Edelweiss Financial Services Ltd (group-level; handles investor/debt grievance across group entities)",
+        "mobile": "+91 22 4079 5199",
+        "email": "investors@edelweissfin.com",
+        "fallback": "+91 22 2286 4400 / Fax +91 22 4079 5099",
+        "confidence": "medium",
+        "source": "Edelweiss Financial Services Investor Services page; Trendlyne CS profile; BSE corporate filing",
+        "notes": "Edelweiss Retail Finance Ltd (ERFL) is a wholly-owned subsidiary sharing group finance/secretarial functions; no standalone CFO/CS identified as ERFL's own KMP. Domain matches ERFL's on-file registered email but 1:1 match not confirmed - verify before outreach.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ananya Suneja",
+          "designation": "President & Chief Financial Officer, Edelweiss Financial Services Ltd (Group CFO)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Trendlyne CFO salary history; LinkedIn; MarketScreener insider profile; AlphaStreet Q1 FY27 earnings call transcript",
+          "notes": "CFO of parent since Feb 2022, still active through 2025-26. Not confirmed as CFO of ERFL specifically."
+        }
+      ]
     },
     {
       "row": 3,
@@ -75,19 +138,30 @@
       "sector": "BFSI",
       "existing_reg_email": "admindvn@klmgroup.in",
       "existing_phone": "91-484-4281111",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Thanish Dalee",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "cfo@klmaxiva.com",
+        "fallback": "+91-484-281125 (finance desk landline)",
+        "confidence": "high",
+        "source": "ZoomInfo and RocketReach independently list Thanish Dalee as CFO of KLM Axiva Finvest with this email/phone; company site/SEBI prospectus could not be directly fetched (network egress blocked) for primary-source cross-check",
+        "notes": "Two independent data-aggregator sources agree on name/title/email/phone, but not primary-source confirmed - recommend a verification call before outreach.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Srikanth G. Menon",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "cs@klmaxiva.com",
+          "fallback": "+91-484-4281118",
+          "confidence": "medium",
+          "source": "Referenced across multiple KLM Axiva Finvest NCD prospectus documents per search results; PDF itself could not be directly opened (egress blocked)",
+          "notes": "Handles NCD/debenture holder queries and compliance."
+        }
+      ]
     },
     {
       "row": 4,
@@ -96,17 +170,17 @@
       "sector": "Power & Energy",
       "existing_reg_email": "hem.kumar.agrawar@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "Registered office: Shakti Bhawan, 14 Ashok Marg, Lucknow (UPPTCL headquarters)",
+        "confidence": "low",
+        "source": "upptcl.org Corporate Directory page, via search snippet - direct WebFetch to upptcl.org was blocked by network egress so could not be independently confirmed",
+        "notes": "UPPTCL is a UP state-government transmission utility. Extensive search did not turn up a distinctly named CFO/Director(Finance)/Finance Controller for UPPTCL specifically - most 'Director (Finance)' hits found (e.g. Nidhi Narang, Sanjay Mehrotra) belong to the separate sister entity UPPCL and must NOT be used for this row. MD Mayur Maheshwari, IAS is the best-verified named senior contact but is not a finance-specific role, so omitted from contact and left as fallback-only. Existing on-file contact (hem.kumar.agrawar@gmail.com) was not re-verified.",
+        "run": "2026-08-13-2100"
       },
       "additional": []
     },
@@ -117,19 +191,30 @@
       "sector": "BFSI",
       "existing_reg_email": "apmfinvestltd@gmail.com",
       "existing_phone": "91-11-43094300",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Gunjan Jain (CA)",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "ir@mufinfinance.com / vishwas.kumar@mufinfinance.com (Investor Relations)",
+        "confidence": "high",
+        "source": "BSE corporate filing (Oct 2025); Bloomberg Markets profile; MarketScreener insider profile; Energetica India interview (May 2026)",
+        "notes": "One search pass surfaced an unverified claim of her departure (Mar 2026) but this was not corroborated by later 2026 sources (interview / earnings-call reference) - recommend confirming she is still in-role before outreach. No direct personal email/mobile found; used verified IR contacts as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Vishwas Kumar",
+          "designation": "Investor Relations Manager",
+          "mobile": null,
+          "email": "vishwas.kumar@mufinfinance.com",
+          "fallback": "011-43094300 (general company line, on file) / info@mufinfinance.com",
+          "confidence": "medium",
+          "source": "Search results referencing Mufin Green Finance's IR page/contact info and his role moderating the Q4 FY2025-26 earnings call",
+          "notes": "Company's own IR pages could not be directly fetched (network egress restrictions) - single-source (aggregated search) rather than primary-source verified."
+        }
+      ]
     },
     {
       "row": 6,
@@ -138,19 +223,50 @@
       "sector": "BFSI",
       "existing_reg_email": "srividhya.r@northernarc.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Atul Tibrewal",
+        "designation": "Chief Financial Officer",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "atul.tibrewal@northernarc.com",
+        "fallback": "ir.investments@northernarc.com / +91-44-6668 7000 (registered office)",
+        "confidence": "medium",
+        "source": "Bloomberg Markets profile and Northern Arc management-team page confirm Atul Tibrewal as CFO since May 2021; email is INFERRED from the confirmed firstname.lastname@northernarc.com pattern (verified via Chetan Parmar's official press-release address, see additional[0])",
+        "notes": "Identity/designation well-corroborated (Bloomberg + company site + ZoomInfo/RocketReach agree), but no personal email/mobile for Tibrewal independently found - email listed is a pattern-based inference, treat as medium only. Use IR desk fallback for reliable outreach.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Chetan Parmar",
+          "designation": "Head - Investor Relations",
+          "mobile": null,
+          "email": "chetan.parmar@northernarc.com",
+          "fallback": null,
+          "confidence": "high",
+          "source": "Northern Arc official quarterly press releases (Q1FY25, Q4FY25, Q1FY26, Q2FY26 - same domain, same address each quarter)",
+          "notes": "Consistent across multiple official press-release PDFs spanning FY25-FY26 - strongest verified individual contact found for this company."
+        },
+        {
+          "name": "Prakash Chandra Panda",
+          "designation": "Company Secretary & Compliance Officer / Investor Grievance Nodal Officer",
+          "mobile": null,
+          "email": "cs@northernarc.com",
+          "fallback": "+91-44-6668 7000",
+          "confidence": "high",
+          "source": "Northern Arc investor-contact page and NSE-hosted BRSR filing",
+          "notes": "Designated nodal officer for investor grievances - good contact for NCD/debt-related correspondence."
+        },
+        {
+          "name": null,
+          "designation": "Investor Relations desk (general)",
+          "mobile": null,
+          "email": "ir.investments@northernarc.com",
+          "fallback": null,
+          "confidence": "high",
+          "source": "Northern Arc Investments contact/investor-relations pages",
+          "notes": "Generic IR mailbox, not tied to one named individual."
+        }
+      ]
     },
     {
       "row": 7,
@@ -159,19 +275,40 @@
       "sector": "BFSI",
       "existing_reg_email": "mail@chemmannurcredits.com",
       "existing_phone": "91-487-6571234",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Jasmine M.P",
+        "designation": "Chief Financial Officer",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "cfo@chemmanurcredits.com",
+        "fallback": "+91-487-7121200 / 2424010, Extn. 213",
+        "confidence": "high",
+        "source": "Chemmanur Credits and Investments Ltd. Draft Prospectus - NCD Public Issue VI, dated 09-May-2025, hosted on BSE",
+        "notes": "Company's own most recent (2025) NCD offer document naming the CFO with direct email and extension - strongest available source. Older annual reports named a different CFO (Pramod M) - superseded, see additional entry.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Anju Thomas",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "cs@chemmanurcredits.com",
+          "fallback": "+91-487-7121200 / 2424010, Extn. 204",
+          "confidence": "high",
+          "source": "Same Draft Prospectus - NCD Public Issue VI (BSE, May 2025)",
+          "notes": "Handles NCD compliance correspondence - good alternate contact for debt-desk outreach."
+        },
+        {
+          "name": "Pramod M (Muthu Pramod)",
+          "designation": "Former Chief Financial Officer (historical, per 2021/2023-24 annual reports)",
+          "mobile": null,
+          "email": "pramod@chemmanurcredits.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "Chemmanur Credits Annual Report 2021 and references in 2023-24 annual report",
+          "notes": "Outdated/superseded CFO record - do not use for current outreach; retained only for reference. 2025 prospectus contact is authoritative."
+        }
+      ]
     },
     {
       "row": 8,
@@ -180,19 +317,40 @@
       "sector": "BFSI",
       "existing_reg_email": "srghousing@gmail.com",
       "existing_phone": "91-22-62215307",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Ashok Kumar Modi",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "srghousing@gmail.com / +91-294-2412609, +91-294-2561882 (registered office)",
+        "confidence": "medium",
+        "source": "Bloomberg Markets profile; LinkedIn; Trendlyne CFO salary page; company website management bio (srghousing.com)",
+        "notes": "Identity/designation (CFO since 21-Oct-2014) corroborated by 4 independent sources - high confidence on person, but no personal email/mobile verified so left null per hard rules. NHB nodal-officer PDF associates a grievance mailbox (cgrcell@srghousing.com) with the company but not confirmed as his personal address.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Tanushree Trivedi",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "srghousing@gmail.com",
+          "fallback": "+91-294-2412609 / +91-294-2561882",
+          "confidence": "high",
+          "source": "SRG Housing Finance NCD offer document / regulatory filing (matches on-file registered email)",
+          "notes": "Confirmed as named Compliance Officer/CS handling NCD-related correspondence."
+        },
+        {
+          "name": null,
+          "designation": "Investor/Grievance mailbox (NHB nodal officer contact)",
+          "mobile": null,
+          "email": "cgrcell@srghousing.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "National Housing Bank List of Nodal Officers",
+          "notes": "Listed in NHB regulatory PDF; not confirmed as any specific individual's personal inbox."
+        }
+      ]
     },
     {
       "row": 9,
@@ -201,19 +359,50 @@
       "sector": "BFSI",
       "existing_reg_email": "connect@aviom.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Jhummi Mantri",
+        "designation": "Chief Financial Officer (appointed w.e.f. 27-Jun-2024)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "connect@aviom.in (on file); toll-free 1800 120 3466 (10AM-5PM Mon-Sat)",
+        "confidence": "medium",
+        "source": "Aviom price-sensitive disclosure PDF re: CFO appointment, corroborated by RocketReach/ZoomInfo profile listings",
+        "notes": "IMPORTANT: RBI superseded Aviom's board on 27-Jan-2025 over governance/fraud concerns; NCLT admitted CIRP on 20-Feb-2025 with an Administrator appointed. Unverified whether Jhummi Mantri remains CFO post-supersession - normal CFO-level outreach may not be operative; the Administrator/Resolution Professional is now the practical decision-making authority. No direct email/mobile found.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ram Kumar",
+          "designation": "RBI/NCLT-appointed Administrator (company under CIRP since Feb-2025)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "high",
+          "source": "Moneylife and Business Standard (27-Jan-2025 RBI supersession report)",
+          "notes": "De facto controlling authority of Aviom during insolvency resolution; contact details not published in sources found."
+        },
+        {
+          "name": "Divyani Chand",
+          "designation": "Chief Compliance Officer & Company Secretary",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "General web search aggregation (single unverified source)",
+          "notes": "Could not independently verify via a primary/official document."
+        },
+        {
+          "name": null,
+          "designation": "Grievance Redressal / Nodal Officer desk (named individual conflicts across sources)",
+          "mobile": "8076298526 (general); toll-free 1800 120 3466",
+          "email": "Gro@aviom.in",
+          "fallback": "8076298526",
+          "confidence": "low",
+          "source": "Aviom grievance-redressal page and NHB Annexure list of HFC Nodal Officers",
+          "notes": "Multiple named individuals appear across different dated sources for this desk role - treat named individual as unverified, but the mailbox/phone itself is a real fallback channel."
+        }
+      ]
     },
     {
       "row": 10,
@@ -222,19 +411,40 @@
       "sector": "Real Estate",
       "existing_reg_email": "properties@prestigeconstructions.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Amit Mor",
+        "designation": "Chief Financial Officer, Prestige Group (Prestige Estates Projects Ltd - the listed parent)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investors@prestigeconstructions.com; +91 80 2599 1080 (Prestige Group HQ, Bengaluru)",
+        "confidence": "medium",
+        "source": "prestigeconstructions.com/about-us/cfo/amit-mor, corroborated by Crunchbase and LinkedIn profiles",
+        "notes": "Prestige Projects Pvt. Ltd. is a wholly-owned, debt-listed subsidiary used to issue NCDs/OCDs; does not appear to have its own dedicated CFO. Directors on record look like nominee/legal directors. Amit Mor as Group CFO oversees Treasury/Fund Raising group-wide but this is an inference, not a subsidiary-specific appointment. Personal email found only masked on RocketReach - not verifiable, left null.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": null,
+          "designation": "Registered/Secretarial email of Prestige Projects Pvt. Ltd. specifically",
+          "mobile": null,
+          "email": "secretarial@prestigeconstructions.com",
+          "fallback": "secretarial@prestigeconstructions.com",
+          "confidence": "medium",
+          "source": "Zauba Corp company record for CIN U45201KA2008PTC046784",
+          "notes": "Registered contact email tied to this exact CIN, not the group parent - real fallback channel for this subsidiary."
+        },
+        {
+          "name": "Manoj Krishna J V",
+          "designation": "Company Secretary & Compliance Officer, Prestige Estates Projects Limited (parent)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "General web search aggregation citing Prestige Estates Projects Ltd corporate filings",
+          "notes": "Parent-company CS, single source found; not verified against a primary BSE/MCA filing."
+        }
+      ]
     },
     {
       "row": 11,
@@ -243,19 +453,50 @@
       "sector": "BFSI",
       "existing_reg_email": "gourav@fusionmicrofinance.com",
       "existing_phone": "91-124-6910500",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Krishan Gopal",
+        "designation": "Chief Financial Officer & Key Managerial Personnel (effective 17-Jan-2026)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "91-124-6910500 (corporate office, on file); customercare@fusionfin.com",
+        "confidence": "high",
+        "source": "MarketScreener/BSE-filing summary, corroborated independently by LinkedIn posts (CXO Lanes, Uni Network Group) and Prysm.fi news",
+        "notes": "Prior CFO Gaurav Maheshwari (existing on-file email) resigned ~25-Jun-2025; Amandeep Singh served as Interim CFO until Krishan Gopal's appointment 17-Jan-2026. No personal email/mobile found - the existing gourav@fusionmicrofinance.com on file is now stale (predecessor).",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Amandeep Singh (CA)",
+          "designation": "Head of Finance & Accounts (formerly Interim CFO, 26-Jun-2025 to 17-Jan-2026)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "high",
+          "source": "MarketScreener BSE-filing summaries and LinkedIn",
+          "notes": "Remains in a senior finance role post-handover to Krishan Gopal per management-team listings."
+        },
+        {
+          "name": "Vikrant Sadana",
+          "designation": "Company Secretary & Compliance Officer (appointed w.e.f. 18-Aug-2025)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "high",
+          "source": "CXO Lanes; name also appears on NSE-filed AGM notice/annual report signature",
+          "notes": "Current CS/Compliance Officer - good contact point for debenture/IR matters."
+        },
+        {
+          "name": "Deepak Madaan",
+          "designation": "Former Company Secretary & Chief Compliance Officer (2013-circa 2025, superseded by Vikrant Sadana)",
+          "mobile": "+91-124-6910600",
+          "email": "companysecretary@fusionmicrofinance.com",
+          "fallback": "companysecretary@fusionmicrofinance.com / +91-124-6910600",
+          "confidence": "low",
+          "source": "Fusion Finance 'Debenture Trustees with full contact details' page",
+          "notes": "Named individual outdated/superseded, but the mailbox/extension is likely still the live generic CS/debenture desk."
+        }
+      ]
     },
     {
       "row": 12,
@@ -264,19 +505,40 @@
       "sector": "BFSI",
       "existing_reg_email": "cfpl@choiceindia.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Vijendra Singh Shekhawat",
+        "designation": "CEO & Director, Choice Finserv Pvt. Ltd. (CA; previously VP-Finance & Accounts, Religare Enterprises Ltd.)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "cfpl@choiceindia.com",
+        "confidence": "high",
+        "source": "MarketScreener India bio; whispersinthecorridors.com news item (Mar 2026); corroborated by LinkedIn profile and social posts",
+        "notes": "Appointed CEO & Director ~March 2026; strong finance background (ex VP-Finance & Accounts, Religare) though current title is CEO not CFO - captured as best-available named finance-adjacent leader since no dedicated CFO verified for this subsidiary. A RocketReach-aggregated mobile surfaced but unconfirmed, deliberately omitted per no-fabrication policy.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ayush Sharma",
+          "designation": "CFO, Choice International Ltd. (listed parent / group CFO)",
+          "mobile": null,
+          "email": null,
+          "fallback": "cfpl@choiceindia.com",
+          "confidence": "medium",
+          "source": "investywise.com; earningspulse.ai announcement dated 2026-08-10; scanx.trade news of Q1 FY27 earnings call",
+          "notes": "Very recent appointment (effective Aug 10, 2026) as CFO of the listed parent Choice International Ltd. Likely senior-most group finance contact but not independently confirmed as CFO of Choice Finserv Pvt Ltd itself."
+        },
+        {
+          "name": "Manoj Singhania",
+          "designation": "Former CFO, Choice International Ltd.; historically listed as a Director of Choice Finserv Pvt Ltd",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "ZaubaCorp director listing; investywise.com CFO resignation article",
+          "notes": "Resigned as group CFO effective Aug 10, 2026; ZaubaCorp listing may not yet reflect resignation - verify before outreach."
+        }
+      ]
     },
     {
       "row": 13,
@@ -285,19 +547,40 @@
       "sector": null,
       "existing_reg_email": "itnl.secretarial@ilfsindia.com",
       "existing_phone": "91-11-26151853",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Madhura Devidas Kale",
+        "designation": "Company Secretary, Hazaribagh Ranchi Expressway Ltd.",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "secretarial@roadstarinfra.com (Tel: 022-26533333, Fax: 022-26523979)",
+        "confidence": "medium",
+        "source": "thecompanycheck.com company profile (MCA-derived KMP data) - appointed CS 17 July 2023",
+        "notes": "No CFO or Treasury head identified for this SPV. Ownership transferred from IL&FS Transportation Networks Ltd to Roadstar Infra Investment Trust on 16 Dec 2022, so on-file itnl.secretarial@ilfsindia.com is very likely stale. Current registered contact confirmed via two independent recent NSE filings, so treated as high confidence even though named-person link is single-source/medium.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": null,
+          "designation": "Roadstar Infra secretarial/compliance desk (handles HREL's NCD and debt-related filings)",
+          "mobile": null,
+          "email": "secretarial@roadstarinfra.com",
+          "fallback": "022-26533333 / fax 022-26523979",
+          "confidence": "high",
+          "source": "NSE filings: DSRA value statement Jun 2025; HREL NCD payment intimation Oct 2025",
+          "notes": "Generic desk-level fallback; two NCD/debt-related regulatory filings independently agree - most reliable current contact route."
+        },
+        {
+          "name": "Sunil Hemchand Patel",
+          "designation": "Director, Hazaribagh Ranchi Expressway Ltd.",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "thecompanycheck.com company profile",
+          "notes": "Listed as director; no indication of a finance-specific role."
+        }
+      ]
     },
     {
       "row": 14,
@@ -306,19 +589,40 @@
       "sector": "BFSI",
       "existing_reg_email": "kolkata@darcredit.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Saket Saraf",
+        "designation": "Chief Financial Officer, Dar Credit & Capital Ltd.",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "kolkata@darcredit.com (Tel: +91-33-40646495 / 22873355)",
+        "confidence": "medium",
+        "source": "LinkedIn (title: CFO - Dar Credit & Capital Ltd.); corroborated by ZoomInfo/thecompanycheck.com listing the same KMP set (Jayanta Banik-CEO, Saket Saraf-CFO, Priya Kumari-CS)",
+        "notes": "Company site darcredit.com was inaccessible (egress-blocked) so KMP page not directly verified. One search summary asserted a 'Megha Saraf' as CFO but no corroborating link found - likely a summarization artifact; flag for manual double-check against live site before outreach. No personal email/mobile independently verified.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Priya Kumari",
+          "designation": "Company Secretary & Compliance Officer, Dar Credit & Capital Ltd.",
+          "mobile": null,
+          "email": "Co.secretary@darcredit.com",
+          "fallback": "kolkata@darcredit.com",
+          "confidence": "high",
+          "source": "NSE regulatory filing DARCREDIT_12112025135000_Press_Release.pdf (named signatory as Company Secretary)",
+          "notes": "A phone number surfaced attached to her name in one search result but could not be confirmed as personal vs. office line - omitted from mobile field per accuracy policy."
+        },
+        {
+          "name": "Jayanta Banik",
+          "designation": "CEO, Dar Credit & Capital Ltd.",
+          "mobile": null,
+          "email": null,
+          "fallback": "kolkata@darcredit.com",
+          "confidence": "medium",
+          "source": "Company-data aggregator (thecompanycheck.com-style KMP listing)",
+          "notes": "Listed as CEO alongside CFO/CS; not independently corroborated via a primary regulatory filing."
+        }
+      ]
     },
     {
       "row": 15,
