@@ -1648,19 +1648,40 @@
       "sector": "Trading & Distribution",
       "existing_reg_email": "frmspl@cal2.vsnl.net.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Anil Kumar Upadhaya",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "info@frankrosspharmacy.com / +91-33-2248-2248 (Investor Relations office, 23 R.N. Mukherjee Road, Kolkata)",
+        "confidence": "medium",
+        "source": "ZoomInfo profile 'Anil Upadhaya - Chief Financial Officer at Frank Ross Pharmacy'; frankrosspharmacy.com/investor-relations page (via search index); 2021 annual report showed a different, earlier CFO confirming turnover since",
+        "notes": "Single-source name (ZoomInfo only), could not corroborate via 2024 annual report. Email shown masked, real domain confirmed but exact address unverified, left null. Existing on-file email (frmspl@cal2.vsnl.net.in) is a defunct VSNL domain - company's live domain is frankrosspharmacy.com.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Shivani Marda",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": null,
+          "fallback": "General company line 033-2228 6042 / 0066 / 0067; frankrosspharmacy.com",
+          "confidence": "low",
+          "source": "ZoomInfo profile; corroborated as CS of Emami Frank Ross Ltd in company filings referenced by BlinkX/ZaubaCorp",
+          "notes": "Typically handles NCD/debenture compliance for this issuer. Email shown only masked, not verified."
+        },
+        {
+          "name": null,
+          "designation": "Investor Relations / Share Registrar desk (RTA)",
+          "mobile": null,
+          "email": "mdpldc@yahoo.com / info@mdpl.in",
+          "fallback": "033-2248 2248 / 033-2243 5029, 23 R.N. Mukherjee Road, Kolkata - 700001",
+          "confidence": "medium",
+          "source": "frankrosspharmacy.com/investor-relations page content (via search index)",
+          "notes": "Registrar/investor-grievance desk, not a named finance executive - generic outreach fallback."
+        }
+      ]
     },
     {
       "row": 46,
@@ -1669,19 +1690,50 @@
       "sector": "Infrastructure & Construction",
       "existing_reg_email": "db@dilipbuildcon.co.in",
       "existing_phone": "91-755-4029999",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sanjay Kumar Bansal",
+        "designation": "Chief Financial Officer (Finance & Accounts)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investor@dilipbuildcon.co.in / +91-755-4029999 (registered office / IR desk, matches existing on-file phone)",
+        "confidence": "high",
+        "source": "Official BSE board-meeting outcome filing dated 30-May-2022 confirming appointment as CFO/KMP effective 31-May-2022, corroborated by Trendlyne, TheOrg, Bloomberg Markets, MarketScreener",
+        "notes": "Confirms he is still CFO of Dilip Buildcon Ltd itself (not just the DBL Infra Assets SPV). Data brokers list an email on the .com TLD, but the company's actual verified domain is dilipbuildcon.co.in - broker-suggested address is suspect, NOT used.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Abhishek Shrivastava",
+          "designation": "Head - Company Secretary",
+          "mobile": "+91-755-4029999",
+          "email": null,
+          "fallback": "investor@dilipbuildcon.co.in",
+          "confidence": "medium",
+          "source": "ZoomInfo profile (email shown masked, confirming correct .co.in domain); LinkedIn; RocketReach",
+          "notes": "Domain matches company's verified official domain. Exact email left null since only masked form was confirmed."
+        },
+        {
+          "name": "Gautam Jain",
+          "designation": "Head of Investor Relations",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "RocketReach profile; confirmed active on company earnings/analyst calls",
+          "notes": "No verified email or direct phone found; route through general investor@dilipbuildcon.co.in channel."
+        },
+        {
+          "name": "Radhey Shyam Garg",
+          "designation": "President - Finance",
+          "mobile": null,
+          "email": null,
+          "fallback": "investor@dilipbuildcon.co.in / +91-755-4029999",
+          "confidence": "medium",
+          "source": "Same official BSE board outcome filing (30-May-2022) - Garg was outgoing CFO redesignated as President-Finance",
+          "notes": "Role/tenure only confirmed as of 2022 filing; current status not independently re-verified."
+        }
+      ]
     },
     {
       "row": 47,
@@ -1690,19 +1742,30 @@
       "sector": "Manufacturing",
       "existing_reg_email": "investorrelations@wockhardt.com",
       "existing_phone": "91-22-26534444",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Deepak Madnani",
+        "designation": "Chief Financial Officer",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "DMadnani@wockhardt.com",
+        "fallback": "investorrelations@wockhardt.com / 022-2653 4444 (matches existing on-file phone)",
+        "confidence": "high",
+        "source": "Email/name directly quoted in Wockhardt's official 'Stakeholders Relationship Policy' PDF, naming him the designated stakeholder contact with this exact email; appointment as CFO (effective 7-June-2022) independently reported by IndiaInfoline, HRNxt",
+        "notes": "Verified official-document email, not inferred/guessed. Prior CFO Pramod Gupta and Manas Datta are outdated/former.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Rashmi Dinesh Mamtura",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "RashmiM@wockhardt.com",
+          "fallback": "022-2653 4444, Wockhardt Towers, Bandra Kurla Complex, Mumbai 400051",
+          "confidence": "medium",
+          "source": "ZoomInfo profile; role/currency confirmed across multiple 2025-2026 BSE/NSE filings",
+          "notes": "Designation is high confidence (multiple official filings); specific email corroborated by only one source."
+        }
+      ]
     },
     {
       "row": 48,
@@ -1711,19 +1774,30 @@
       "sector": "Power & Energy",
       "existing_reg_email": "cg.ird@swelectes.com",
       "existing_phone": "91-44-24993266",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Nikhila Ramesh",
+        "designation": "Chief Financial Officer",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "cg.ird@swelectes.com / 91-44-24993266",
+        "confidence": "high",
+        "source": "BSE Regulation-30 disclosure 'Appointment of Chief Financial Officer' (12-Nov-2020), corroborated by Bloomberg Markets profile, MarketScreener insider profile, and LinkedIn",
+        "notes": "Direct personal email/mobile not verifiable - ZoomInfo shows only a masked address; NOT used. Used the company's verified investor-grievance email/landline as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "J. Bhuvaneswari",
+          "designation": "Company Secretary & Compliance Officer (current, since 28-Aug-2024)",
+          "mobile": null,
+          "email": "company.secy@swelectes.com",
+          "fallback": "cg.ird@swelectes.com / 91-44-24993266",
+          "confidence": "high",
+          "source": "Official BSE announcement confirming appointment effective 28-Aug-2024, replacing R. Sathishkumar",
+          "notes": "Handles compliance/debt-related filings; good secondary contact for NCD documentation."
+        }
+      ]
     },
     {
       "row": 49,
@@ -1732,19 +1806,40 @@
       "sector": "Services",
       "existing_reg_email": "haripriya.singh@zaggle.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Venkatesh Ramachandran",
+        "designation": "Group Chief Financial Officer (effective 18-May-2026)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "+91 40 2311 9049 (Zaggle registered office / KMP contact line, Hyderabad)",
+        "confidence": "high",
+        "source": "Board-approved appointment (13-May-2026) reported via TradingView/Reuters, medianews4u, mediabrief, adgully, passionateinmarketing, scanx.trade; succeeds interim CFO Rajesh Tummalaganti",
+        "notes": "Personal email/mobile not verifiable. Zaggle's KMP-contact filing shows inconsistent email conventions across KMPs, so a firstname.lastname@zaggle.in guess was NOT made. Registered-office number used as real fallback only.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Rajesh Tummalaganti",
+          "designation": "Deputy Chief Financial Officer (was Interim CFO Apr-May 2026)",
+          "mobile": null,
+          "email": null,
+          "fallback": "+91 40 2311 9049",
+          "confidence": "high",
+          "source": "Multiple independent outlets (inc42, businessupturn, TradingView, Elets BFSI, medianews4u)",
+          "notes": "Second-in-line finance contact; no verified personal email/mobile found."
+        },
+        {
+          "name": "Haripriya Singh",
+          "designation": "Company Secretary & Compliance Officer (NOT finance leadership - verified)",
+          "mobile": null,
+          "email": "haripriya.singh@zaggle.in",
+          "fallback": "+91 40 2311 9049",
+          "confidence": "high",
+          "source": "Zaggle official 'Contact details of KMP' filing (ir.zaggle.in) lists her as CS/Compliance Officer with this exact email - matches existing_reg_email on file",
+          "notes": "Confirms this is the CS/compliance desk contact, not a finance-leadership role. Still a legitimate debt/compliance-filing contact."
+        }
+      ]
     },
     {
       "row": 50,
@@ -1753,19 +1848,30 @@
       "sector": "BFSI",
       "existing_reg_email": "dipti@ochfl.com",
       "existing_phone": "91-22-44554877",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rambabu Harinath Yadav",
+        "designation": "Chief Financial Officer (appointed 27-Oct-2025)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "dipti@ochfl.com / 91-22-44554877",
+        "confidence": "medium",
+        "source": "thecompanycheck.com company profile - appears consistently across repeat searches but traces to a single aggregator source, not independently corroborated by a second outlet",
+        "notes": "Source page's CIN suffix reads 'PLC130664' while company on file uses 'PTC130664' - mismatch could not be reconciled, capped at medium. No personal email/mobile found; used existing verified registered email/phone as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Dipti Andhare",
+          "designation": "Assistant General Manager",
+          "mobile": null,
+          "email": "dipti@ochfl.com",
+          "fallback": "91-22-44554877",
+          "confidence": "high",
+          "source": "LinkedIn profile confirms she works at Orange City Housing Finance; email matches existing_reg_email on file",
+          "notes": "Not explicitly finance-titled, but the verified, currently-reachable named contact behind the on-file registered email."
+        }
+      ]
     },
     {
       "row": 51,
@@ -1774,19 +1880,30 @@
       "sector": "Real Estate",
       "existing_reg_email": "bindu.d@puravankara.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Niraj Kumar Gautam (Neeraj Gautam)",
+        "designation": "Group Chief Financial Officer, Puravankara Ltd (parent company); listed Director, T-Hills Pvt Ltd",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "neeraj.gautam@puravankara.com",
+        "fallback": "bindu.d@puravankara.com (existing on-file registered email for Puravankara/T-Hills filings)",
+        "confidence": "medium",
+        "source": "MarketScreener, RP Realty Plus, boardstewardship.com, puravankara.com/leadership/neeraj-gautam; Zauba Corp/Tofler MCA-sourced director listing for T-Hills Private Limited",
+        "notes": "Elevated from Deputy-CFO to Group CFO effective 24-Sep-2025. Zauba Corp/Tofler director records for T-Hills list him as one of five directors, confirming he is genuinely finance-relevant for this specific SPV. Email appears on aggregator sites matching the confirmed @puravankara.com domain but not found on an official document itself - capped at medium.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sudip Chatterjee",
+          "designation": "Group Head - Company Secretary & Compliance Officer, Puravankara Ltd; listed Director, T-Hills Pvt Ltd",
+          "mobile": null,
+          "email": null,
+          "fallback": "puravankara.com domain (exact address masked, not independently confirmed)",
+          "confidence": "medium",
+          "source": "ZoomInfo, RocketReach, BSE corporate filings signed by Sudip Chatterjee; Zauba Corp/Tofler T-Hills director listing",
+          "notes": "Current CS/Compliance Officer of Puravankara Ltd and listed director of T-Hills; relevant for debt/compliance correspondence."
+        }
+      ]
     },
     {
       "row": 52,
@@ -1795,19 +1912,30 @@
       "sector": null,
       "existing_reg_email": "darshil_hiranandani@mas.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Chintan Pandya (CA)",
+        "designation": "Chief Operating Officer & Chief Financial Officer, MAS Rural Housing & Mortgage Finance Ltd",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "+91-79-4110-6500 (company HQ landline, Navrangpura, Ahmedabad)",
+        "confidence": "high",
+        "source": "ZoomInfo, LinkedIn, RocketReach management listing; MAS Rural Housing & Mortgage Finance Annual Report 2024-25",
+        "notes": "Combined COO & CFO role confirmed across multiple sources. Personal email masked on aggregators, not independently confirmed, left null; verified company landline offered as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Darshil Hiranandani",
+          "designation": "Company Secretary, MAS Rural Housing & Mortgage Finance Ltd",
+          "mobile": null,
+          "email": "darshil_hiranandani@mas.co.in",
+          "fallback": null,
+          "confidence": "high",
+          "source": "ZoomInfo, LinkedIn, MRHMFL Board/KMP listing",
+          "notes": "Confirmed as Company Secretary (KMP), not a CFO title - existing_reg_email on file matches this confirmed role/person."
+        }
+      ]
     },
     {
       "row": 53,
@@ -1816,19 +1944,40 @@
       "sector": "Manufacturing",
       "existing_reg_email": "investor@prismjohnson.in",
       "existing_phone": "91-22-66754142",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Arun Kumar Agarwal",
+        "designation": "Chief Financial Officer & Key Managerial Personnel, Prism Johnson Ltd",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investor@prismjohnson.in / +91-22-66754142 (existing IR desk contact on file)",
+        "confidence": "high",
+        "source": "Free Press Journal, boardstewardship.com, LinkedIn, MarketScreener",
+        "notes": "Appointed CFO & KMP effective 26-Nov-2023, succeeding Manish Bhatia. No direct personal email/mobile found; using verified IR email/landline as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Ashish Samal",
+          "designation": "Chief Investor Relations Officer, Prism Johnson Ltd - RMC (India) Division",
+          "mobile": null,
+          "email": null,
+          "fallback": "investor@prismjohnson.in",
+          "confidence": "medium",
+          "source": "RP Realty Plus, HR Today, Prysm Finance, ScanX news",
+          "notes": "Appointed Chief IR Officer effective 8-Nov-2025. Only listed email is a stale address from prior employer, not usable."
+        },
+        {
+          "name": "Shailesh Nagindas Dholakia",
+          "designation": "Company Secretary & Compliance Officer, Prism Johnson Ltd",
+          "mobile": "+91-40-23400218 (registered office landline, Hyderabad; fax 23402249)",
+          "email": null,
+          "fallback": "investor@prismjohnson.in",
+          "confidence": "medium",
+          "source": "MarketScreener insider profile, Bloomberg Markets profile, BSE/NSE filing intimations signed since 2023",
+          "notes": "Signs routine BSE/NSE compliance filings. No personal email found."
+        }
+      ]
     },
     {
       "row": 54,
@@ -1837,19 +1986,40 @@
       "sector": "Infrastructure & Construction",
       "existing_reg_email": "tushar.shah@sadbhav.co.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Kaivan Vora",
+        "designation": "Chief Financial Officer, Sadbhav Infrastructure Project Ltd. (SIPL) - the group holding/BOT-HAM company that Sadbhav Gadag Highway Pvt. Ltd. sits under",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "kaivan.vora@sadbhav.co.in",
+        "fallback": "investor@sadbhav.co.in / +91 79-26463384 (Sadbhav Group Investor Relations)",
+        "confidence": "medium",
+        "source": "TipRanks/scanx.trade confirming Kaivan Vora appointed CFO of SIPL effective 27-May-2026 as KMP; email is an INFERRED pattern based on the company's confirmed email format, matching the existing on-file address style",
+        "notes": "Sadbhav Gadag Highway Pvt Ltd is an SPV with no standalone CFO; finance handled at SIPL group level. Could NOT verify that tushar.shah@sadbhav.co.in (existing on-file) is a current/finance-relevant employee - no match found, recommend internal verification. High CFO churn at both Sadbhav Engineering and SIPL in 2025-2026.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Hitesh Chelani",
+          "designation": "Chief Financial Officer, Sadbhav Engineering Ltd. (ultimate listed parent), effective 30-May-2026",
+          "mobile": null,
+          "email": "hitesh.chelani@sadbhav.co.in",
+          "fallback": "selinfo@sadbhav.co.in / +91 79-26463384",
+          "confidence": "medium",
+          "source": "TipRanks/Globe and Mail exchange-disclosure coverage; theorg.com org chart. Email inferred from confirmed domain pattern, not independently verified",
+          "notes": "Parent-company CFO; useful escalation contact above the SPV/SIPL level."
+        },
+        {
+          "name": "Kedar Pandya",
+          "designation": "Company Secretary & Compliance Officer, Sadbhav Infrastructure Project Ltd.",
+          "mobile": null,
+          "email": null,
+          "fallback": "investor@sadbhav.co.in",
+          "confidence": "medium",
+          "source": "Exchange disclosure coverage (TipRanks, scanx.trade) on SIPL management/authorization changes, Nov 2025",
+          "notes": "CS/Compliance Officer handling debenture-holder disclosures at the SIPL level."
+        }
+      ]
     },
     {
       "row": 55,
@@ -1858,19 +2028,30 @@
       "sector": "Manufacturing",
       "existing_reg_email": "iyer.dv@renukasugars.com",
       "existing_phone": "91-22-24977744",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sunil Ranka",
+        "designation": "Chief Financial Officer, Shree Renuka Sugars Ltd. (CFO since May 2018)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "sunil.ranka@renukasugars.com",
+        "fallback": "info@renukasugars.com / +91-22-2497 7744 (existing on-file company line, confirmed current)",
+        "confidence": "high",
+        "source": "FY2024-25 Annual Report / Directors Report confirming no change in KMP; corroborated by ZoomInfo, RocketReach, SignalHire, Bloomberg Markets, MarketScreener",
+        "notes": "IMPORTANT: existing on-file contact iyer.dv@renukasugars.com belongs to D.V. Iyer, who resigned as CS effective 17-Jul-2015 - an 11-year-stale contact, should be replaced/flagged. Wilmar (Singapore) is majority owner post-2020; no separate Wilmar-appointed CFO found.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Deepak Manerikar",
+          "designation": "Company Secretary & Compliance Officer, Shree Renuka Sugars Ltd. (current, per Sept-2025 filing)",
+          "mobile": null,
+          "email": null,
+          "fallback": "info@renukasugars.com",
+          "confidence": "medium",
+          "source": "Business-Standard/BSE filing coverage (Sept 2025) naming current Company Secretary",
+          "notes": "Likely correct current replacement for the stale iyer.dv contact; email not independently found."
+        }
+      ]
     },
     {
       "row": 56,
@@ -1879,17 +2060,17 @@
       "sector": "BFSI",
       "existing_reg_email": "msfl@marwadigroup.in",
       "existing_phone": "91-281-7174000",
-      "status": "pending",
+      "status": "partial",
       "contact": {
         "name": null,
         "designation": null,
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "inquiry@marwadionline.in / +91-281-6192000 or 7174000 (Corporate Office, Rajkot) - matches existing on-file phone",
+        "confidence": "low",
+        "source": "marwadionline.com/investor-relations/ page content (via search snippet, direct page fetch blocked by network egress)",
+        "notes": "Extensive search found NO named CFO, Treasury Head, or dedicated Finance Head for Marwadi Shares & Finance Ltd. Top named executives are Ketan H. Marwadi (Chairman/MD) and a CEO (sources conflict on name). An active LinkedIn job posting for 'Company Secretary' suggests that role may be currently vacant. Recommend using existing on-file registered email/phone until a named contact can be confirmed directly.",
+        "run": "2026-08-13-2100"
       },
       "additional": []
     },
@@ -1900,19 +2081,30 @@
       "sector": null,
       "existing_reg_email": "ravikumar.reddy@puravankara.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Niraj Kumar Gautam (bylined in press as \"Neeraj Gautam\")",
+        "designation": "Chief Financial Officer, Puravankara Group (also a Director of Purva Sapphire Land Pvt. Ltd.)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "neeraj.gautam@puravankara.com",
+        "fallback": "investors@puravankara.com / +91-80-2559-9000 (Puravankara Group registered office & IR desk)",
+        "confidence": "medium",
+        "source": "ZaubaCorp/MCA director listing for Purva Sapphire Land Pvt. Ltd. lists directors including Niraj Kumar Gautam; RPRealtyPlus/MarketScreener/HRToday news confirming elevation to Group CFO effective 24-Sep-2025",
+        "notes": "He sits on this SPV's board AND is the Puravankara Group CFO, independently corroborating prior research. Email is aggregator-sourced, matches the same pattern as on-file ravikumar.reddy@puravankara.com contact, flagged medium rather than high.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sudip Chatterjee",
+          "designation": "Company Secretary & Compliance Officer, Puravankara Limited",
+          "mobile": null,
+          "email": null,
+          "fallback": "investors@puravankara.com",
+          "confidence": "medium",
+          "source": "Web search summary referencing Puravankara Limited's CS & Compliance Officer",
+          "notes": "Single-source mention; useful alternate contact for group SPVs."
+        }
+      ]
     },
     {
       "row": 58,
@@ -1921,19 +2113,50 @@
       "sector": "BFSI",
       "existing_reg_email": "sanjay.chaturvedi@shubham.co",
       "existing_phone": "91-124-4212531",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Vishal Kanodia",
+        "designation": "Chief Financial Officer, Shubham Housing Development Finance Company Ltd.",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "compliance@shubham.co / +91-124-4762545 (Compliance Dept for debenture/NCD holder queries); general board line 91-124-4212531",
+        "confidence": "high",
+        "source": "The Org, ZoomInfo, RocketReach, TheOfficialBoard, Bloomberg Markets profile - multiple independent sources concur",
+        "notes": "IMPORTANT CORRECTION: existing on-file contact sanjay.chaturvedi@shubham.co is NOT the CFO - Sanjay Chaturvedi is Co-Promoter & CEO. Vishal Kanodia's direct email/mobile is masked across all aggregators; no primary-source contact page reachable, so left null.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sanjay Chaturvedi",
+          "designation": "Co-Promoter & CEO (existing on-file contact - role correction: he is CEO, not CFO)",
+          "mobile": null,
+          "email": "sanjay.chaturvedi@shubham.co",
+          "fallback": "91-124-4212531",
+          "confidence": "high",
+          "source": "The Org, Bloomberg Markets, Crunchbase, company LinkedIn post",
+          "notes": "Existing on-file record labeled as a finance contact; verified he is actually CEO. Still valid for outreach but should not be tagged CFO."
+        },
+        {
+          "name": "Anuj Aggarwal",
+          "designation": "Head - Finance, Accounts & Tax",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Bloomberg Markets profile; LinkedIn",
+          "notes": "20+ years in accounting/finance/treasury/taxation; likely reports to or works alongside the CFO. No verified email/phone found."
+        },
+        {
+          "name": "Kanika Sharma",
+          "designation": "NHB-registered Nodal Officer / Sr. Manager - Customer Service (statutory point of contact, not finance leadership)",
+          "mobile": "9818412207",
+          "email": "kanika.sharma1@shubham.co",
+          "fallback": null,
+          "confidence": "high",
+          "source": "National Housing Bank official 'List of PoCs/Nodal Officers of HFCs' regulatory filing",
+          "notes": "Regulator-filed contact, verified and current, but a customer-service nodal officer rather than finance leadership."
+        }
+      ]
     },
     {
       "row": 59,
@@ -1942,19 +2165,30 @@
       "sector": "Power & Energy",
       "existing_reg_email": "hem.kumar.agrawal@gmail.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Sanjay Mehrotra (DIN 02263323)",
+        "designation": "Director (Finance), U.P. Power Corporation Ltd. (UPPCL) - holding additional charge",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "mduppcl12@gmail.com / +91-522-2287525 (UPPCL Head Office, Shakti Bhawan, Lucknow); companysecretary@uppcl.org",
+        "confidence": "high",
+        "source": "UPPCL Annual Report 2024-25 / 'List of Directors_Annexure-I' - Board Meeting No. 215 letter dated 09.09.2025 giving him additional charge of Director (Finance); DIN corroborated independently by FileSure director-profile database",
+        "notes": "UPPCL confirmed as a distinct sister entity to UP Power Transmission Corp. Predecessor Nidhi Kumar Narang was Director (Finance) Jun-2022 to 17-Aug-2025; Sanjay Mehrotra took over on additional-charge basis Sept-2025 - may not be a permanent/sole appointment. No verified personal email/mobile found; a pattern-guessed email was excluded per no-fabrication rule. Existing on-file contact could not be tied to any current UPPCL finance role.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Prashant Verma",
+          "designation": "Director (Commercial), UPPCL (since April 2025); previously Director (Finance) & CFO at Grid Controller of India Ltd.",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Search aggregation citing UPPCL board records and Grid-India appointment history",
+          "notes": "Not the finance portfolio holder today, but a finance-experienced board member as secondary contact."
+        }
+      ]
     },
     {
       "row": 60,
