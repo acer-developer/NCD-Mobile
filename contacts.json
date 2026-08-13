@@ -1129,19 +1129,30 @@
       "sector": "BFSI",
       "existing_reg_email": "tarc@tarc.in",
       "existing_phone": "91-11-41244300",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Nitin Goel",
+        "designation": "Chief Financial Officer (CFO) & KMP",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "investors@tarc.in",
+        "confidence": "high",
+        "source": "BSE exchange filing / Trendlyne 'Appointment Of Mr. Nitin Goel As Chief Financial Officer'; IndiaInfoline news; LinkedIn confirms current role 'CFO at TARC Ltd.'",
+        "notes": "Appointed CFO & KMP effective 11-Aug-2022; confirmed by 3 independent sources. Direct personal email/mobile could not be verified from an official source - data aggregators show masked/unverified details, deliberately excluded per no-fabrication policy.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Amit Narayan",
+          "designation": "Company Secretary (handles investor/debt-related secretarial matters)",
+          "mobile": null,
+          "email": "cs@tarc.in",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "TARC 'Investor Services: Contact Details' page (tarc.in/investor-services.php), via search snippet - page could not be directly re-fetched, treated as single-source",
+          "notes": "Reasonable channel for NCD/debenture-related correspondence at TARC."
+        }
+      ]
     },
     {
       "row": 31,
@@ -1150,19 +1161,30 @@
       "sector": "Real Estate",
       "existing_reg_email": "trilsec@tatarealty.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Dilip Agarwal",
+        "designation": "Chief Financial Officer, Tata Realty and Infrastructure Ltd (parent/group finance head; Infopark Properties Ltd is a Tata Realty SPV with no separately reported CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "trilsec@tatarealty.in",
+        "confidence": "high",
+        "source": "Tata Realty and Infrastructure Ltd 18th Annual Report FY2024-25 lists him as CFO; LinkedIn confirms 'CFO - Tata Realty'",
+        "notes": "Older sources list him as 'Deputy CFO' - most recent annual report and LinkedIn treated as authoritative. Infopark Properties itself does not disclose a separate CFO. Direct personal email not verified (masked on ZoomInfo); used confirmed group secretarial mailbox as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Arushi Singhal",
+          "designation": "Company Secretary, Infopark Properties Ltd / TRIL Infopark Ltd",
+          "mobile": null,
+          "email": null,
+          "fallback": "trilsec@tatarealty.in",
+          "confidence": "medium",
+          "source": "Infopark Properties Ltd corporate/annual-report filings (via ZaubaCorp director listing) list her as Company Secretary / KMP; cross-referenced against TRIL Infopark Ltd director records",
+          "notes": "Best-placed named contact at the SPV level for NCD/debt secretarial correspondence; individual email not found."
+        }
+      ]
     },
     {
       "row": 32,
@@ -1171,19 +1193,30 @@
       "sector": "Trading & Distribution",
       "existing_reg_email": "til.post@tatainternational.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Lalit Kasliwal",
+        "designation": "Chief Financial Officer & Company Secretary (heads Finance & Administration, Legal & Secretarial, and IT), Tata International Ltd",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "cslegal.til@tatainternational.com / +91-22-6665-2200 (fax +91-22-6665-2390), VIOS Tower, Wadala, Mumbai",
+        "confidence": "high",
+        "source": "Official company newsroom (CFO100 2024 Roll of Honour; CFO book feature); official appointment notice PDF; LinkedIn - 4 corroborating sources",
+        "notes": "Direct personal email not verified from an official source (masked on aggregators), left null. Used verified Company Secretarial/Legal functional mailbox as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Md. Jamshed Alam",
+          "designation": "Company Secretary / Senior Manager - Group Secretarial Operations, Tata International Ltd",
+          "mobile": null,
+          "email": "cslegal.til@tatainternational.com",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Tata International Limited AGM Notice 2024; LinkedIn; corroborated by RocketReach/ZoomInfo",
+          "notes": "Distinct from Lalit Kasliwal per most recent AGM notice; some aggregator profiles conflate the two - AGM notice treated as authoritative."
+        }
+      ]
     },
     {
       "row": 33,
@@ -1192,19 +1225,40 @@
       "sector": null,
       "existing_reg_email": "akgurnani@polyplex.com",
       "existing_phone": "91-120-4621300",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Ashok Kumar Gurnani",
+        "designation": "Company Secretary, Polyplex Corporation Limited (parent/promoter group of Kanchanjunga Power, a Polyplex Hydro SPE)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "akgurnani@polyplex.com",
+        "fallback": "91-120-4621300 (Polyplex Corp Noida landline, existing on file)",
+        "confidence": "high",
+        "source": "Existing file record cross-verified via web search (RocketReach/company filings identifying A.K. Gurnani as Polyplex Corporation Company Secretary at this same email)",
+        "notes": "Kanchanjunga Power is a wholly-owned Polyplex hydro-power SPE with no independent finance department; run out of Polyplex Corporation's group finance/CS office. Existing on-file contact confirmed still valid.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Manish Gupta",
+          "designation": "Group CFO, Polyplex Corporation Limited",
+          "mobile": null,
+          "email": "mgupta@polyplex.com",
+          "fallback": null,
+          "confidence": "high",
+          "source": "LinkedIn, TheOrg, RocketReach, MarketScreener - all identify Manish Gupta as Group CFO since 2008, same firstinitial+lastname@polyplex.com pattern as on-file address",
+          "notes": "Group-level CFO overseeing all Polyplex entities including hydro SPEs like Kanchanjunga Power; likely the actual finance decision-maker."
+        },
+        {
+          "name": "Amit Kr. Agarwal",
+          "designation": "CFO, Polyplex Hydro Group (and Head - Family Office)",
+          "mobile": null,
+          "email": null,
+          "fallback": null,
+          "confidence": "low",
+          "source": "LinkedIn, corroborated by TheOrg and EasyLeadz listing him as CFO, Polyplex Hydro Group / Bhilangana Hydro Power Ltd (sister hydro SPE)",
+          "notes": "Most directly relevant title but no verifiable email or phone found - not guessed."
+        }
+      ]
     },
     {
       "row": 34,
@@ -1213,19 +1267,30 @@
       "sector": "BFSI",
       "existing_reg_email": "rgicl.compsec@relianceada.com",
       "existing_phone": "91-22-41732000",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Hemant K. Jain",
+        "designation": "Chief Financial Officer, IndusInd General Insurance Company Limited",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "compsec@indusindinsurance.com / +91 22 4173 2000",
+        "confidence": "high",
+        "source": "Bloomberg Markets profile, GlobalData/Tracxn executive listing, and company management-team page - confirmed still in role after March 2025 IIHL/Hinduja acquisition and Nov 2025 rebrand from Reliance General Insurance",
+        "notes": "IMPORTANT: existing on-file record (rgicl.compsec@relianceada.com) is STALE - company renamed from Reliance General Insurance to IndusInd General Insurance after IIHL/Hinduja acquisition via Reliance Capital insolvency (same CIN). No personal email for Hemant Jain verified, left null.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Sushil Sojitra",
+          "designation": "Company Secretary & Compliance Officer, IndusInd General Insurance Company Limited",
+          "mobile": null,
+          "email": "compsec@indusindinsurance.com",
+          "fallback": "+91 22 4173 2000 (Tel), +91 22 4173 2158 (Fax)",
+          "confidence": "high",
+          "source": "Company public-disclosure filing identifying Sushil Sojitra as CS & Compliance Officer at same registered office/phone as existing on-file number",
+          "notes": "Direct successor to the stale rgicl.compsec@relianceada.com address - same phone, new domain. Best fallback if CFO cannot be reached directly."
+        }
+      ]
     },
     {
       "row": 35,
@@ -1234,19 +1299,30 @@
       "sector": "BFSI",
       "existing_reg_email": "smc@smcindiaonline.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rohit Nayyar",
+        "designation": "Chief Financial Officer (KMP & Senior Management Personnel), SMC Global Securities Ltd. - effective 1 July 2026",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "rohit.n@smcindiaonline.com",
+        "fallback": "011-30111000 (SMC registered office landline)",
+        "confidence": "high",
+        "source": "SEBI Reg. 30 board disclosure summarized by TipRanks; ScanX stock-market-news; LinkedIn profile",
+        "notes": "Prior CFO Vinod Kumar Jamar retired 30 June 2026 after ~4 decades; Rohit Nayyar took over 1 July 2026 - current CFO as of today (13 Aug 2026). Existing on-file email is a generic company inbox, not person-level.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Suman Kumar",
+          "designation": "Company Secretary & Compliance Officer, SMC Global Securities Ltd.",
+          "mobile": null,
+          "email": "smcncd@smcindiaonline.com",
+          "fallback": "+91-11-3011 1000, +91-11-4075 3333",
+          "confidence": "high",
+          "source": "SMC Global Securities official investors page, corroborated by NCD abridged prospectus filings listing same name/registered office",
+          "notes": "Email handle 'smcncd@' strongly suggests dedicated NCD/debenture-investor contact channel - directly relevant to ACER's NCD outreach."
+        }
+      ]
     },
     {
       "row": 36,
@@ -1255,19 +1331,30 @@
       "sector": "Real Estate",
       "existing_reg_email": "paramesh.a@rajapushpa.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Bibhuti Chandan Pradhan",
+        "designation": "Chief Financial Officer, Rajapushpa Properties Pvt. Ltd. (parent/group entity of Watermarke Estates, same registered office)",
         "mobile": null,
         "email": null,
         "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "confidence": "medium",
+        "source": "ZoomInfo, RocketReach org-chart/management-team listing, and LinkedIn profile",
+        "notes": "Watermarke Estates itself has no independent finance leadership on record (MCA directors are all Parupati family promoters). Group CFO is best available finance contact as an SPV of Raja Pushpa Group. Not confirmed via official annual report/MCA KMP filing for this specific entity, hence medium.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Alisetti Paramesh",
+          "designation": "Former CFO, Rajapushpa Properties Pvt. Ltd. - now Chief Financial Officer at Honer Homes",
+          "mobile": null,
+          "email": "paramesh.a@rajapushpa.in",
+          "fallback": null,
+          "confidence": "low",
+          "source": "LinkedIn (lists current role as CFO at Honer Homes with prior Rajapushpa Properties experience), corroborated by RocketReach and ZoomInfo",
+          "notes": "This is the existing_reg_email on file for Watermarke Estates, but sources indicate he has moved on to Honer Homes - likely STALE, should be re-verified before outreach."
+        }
+      ]
     },
     {
       "row": 37,
@@ -1276,19 +1363,40 @@
       "sector": "Services",
       "existing_reg_email": "Abhishek.chawla@gmrgroup.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Hari Nagrani",
+        "designation": "Executive Vice President & Chief Financial Officer, Delhi International Airport Ltd.",
         "mobile": null,
         "email": null,
         "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "confidence": "high",
+        "source": "Independently corroborated across RocketReach, ZoomInfo, EasyLeadz and Wuzzuf professional profiles",
+        "notes": "Name/title verified via 2+ independent sources, but no email or phone could be verified - aggregator sites show only masked addresses, not reconstructed/guessed.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Amit Jain",
+          "designation": "Group Head - Investor Relations, GMR Group (covers GMR Airports/DIAL investor communications)",
+          "mobile": null,
+          "email": "jain.amit@gmrgroup.in",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "GMR Group investor-relations materials on investor.gmraero.com (via search, page fetch blocked), corroborated by LinkedIn",
+          "notes": "Group-level IR contact rather than DIAL-specific; useful fallback for DIAL debt-related outreach."
+        },
+        {
+          "name": "Abhishek Chawla",
+          "designation": "Unverified - existing on-file contact",
+          "mobile": null,
+          "email": "Abhishek.chawla@gmrgroup.in",
+          "fallback": null,
+          "confidence": "low",
+          "source": "On-file existing_reg_email only; no independent confirmation found",
+          "notes": "Could NOT verify this person's actual role or finance-relevance at GMR/DIAL - possibly confused with a different individual. Distinct from GMR Group CFO Saurabh Chawla (different person). Recommend verifying internally before relying on this contact."
+        }
+      ]
     },
     {
       "row": 38,
@@ -1297,19 +1405,40 @@
       "sector": "Real Estate",
       "existing_reg_email": "vvms.rao@ascendas.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Pankaj Rathi",
+        "designation": "Chief Financial Officer / Head of Finance - Hyderabad operations (CapitaLand group; oversees finance for 7 entities including VITP Pvt Ltd)",
         "mobile": null,
         "email": null,
         "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "confidence": "high",
+        "source": "MCA/ROC appointment filing (appointed CFO of VITP Private Limited 16-Apr-2025) per Zaubacorp/Tofler, corroborated by TheOrg professional org-chart profile",
+        "notes": "Two independent, differently-sourced confirmations of the same name and finance role at the entity that owns VITP. No email/phone verified, left null.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "VVMS Rao",
+          "designation": "Unverified - existing on-file contact",
+          "mobile": null,
+          "email": "vvms.rao@ascendas.com",
+          "fallback": null,
+          "confidence": "low",
+          "source": "On-file existing_reg_email; an older ascendas-singbridge.com variant also found for same person",
+          "notes": "Could not confirm current designation or finance-relevance; domain suggests dated contact info. Pankaj Rathi (main contact above) is better-verified."
+        },
+        {
+          "name": "Clarisse Ong Qiu Ying",
+          "designation": "Senior Manager, Investor Relations, CapitaLand India Trust Management Pte. Ltd. (Singapore trustee-manager of VITP's parent trust)",
+          "mobile": "+65 6713 3671",
+          "email": "enquiries@clint.com.sg",
+          "fallback": "enquiries@clint.com.sg / +65 6713 3671; office main line +65 6713 2888",
+          "confidence": "medium",
+          "source": "CapitaLand India Trust official investor-relations contact page (via search, page fetch blocked)",
+          "notes": "Singapore-based group IR desk for the trust that owns VITP; legitimate fallback for debt/NCD-related investor queries, though not VITP/India-specific."
+        }
+      ]
     },
     {
       "row": 39,
@@ -1318,17 +1447,17 @@
       "sector": "Manufacturing",
       "existing_reg_email": "bbtcl@bom2.vsnl.net.in",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Lalita Rajesh",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "writetous@bbtcl.com / +91-22-22197101 (also IR line +91-22-22079351-54)",
+        "confidence": "high",
+        "source": "BSE stock-exchange disclosure of CFO change reported via boardstewardship.com, scanx.trade and marketscreener.com (Aug 8-9, 2024 board resolution: retirement of N.H. Datanwala, appointment of Lalita Rajesh w.e.f. Aug 9, 2024)",
+        "notes": "CA with 17+ yrs experience, with BBTC since 2019. No personal email/mobile verified from any public source. Existing on-file email bbtcl@bom2.vsnl.net.in appears stale - bbtcl.com/writetous@bbtcl.com is current per company's own contact page and recent BSE filings.",
+        "run": "2026-08-13-2100"
       },
       "additional": []
     },
@@ -1339,19 +1468,40 @@
       "sector": "BFSI",
       "existing_reg_email": "muthoot@muthoot.com",
       "existing_phone": "91-22-30941400",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Yogesh Udhoji",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "91-22-30941400 (registered corporate-office line, on file) / toll-free 1800 267 8811",
+        "confidence": "high",
+        "source": "theorg.com org chart, muthoothousing.com CFO team page, RocketReach and LinkedIn - all independently identify him as CFO since April 2023",
+        "notes": "CA with 30+ yrs experience; ex-Asirvad Micro Finance, Aadhar Housing Finance, Tata Capital. No personal email could be verified for him specifically - did not fabricate a firstname.lastname@muthoot.com guess since the pattern itself is only single-sourced.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "S. Sumesh",
+          "designation": "Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "sumesh.s@muthoot.com",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "ZoomInfo listing (single source) plus muthoothousing.com 'Our People' page identifying him as Company Secretary",
+          "notes": "Email pattern not independently verified beyond this single database listing."
+        },
+        {
+          "name": "Liza Mohanty",
+          "designation": "Grievance Redressal Officer (not finance leadership, but a real named contact channel)",
+          "mobile": "022-62728500 ext. 506",
+          "email": "liza.mohanty@muthoot.com",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "Company contact-us page content surfaced via search (muthoothousing.com/contact-us)",
+          "notes": "Included as a genuine fallback channel only; not part of the finance function."
+        }
+      ]
     },
     {
       "row": 41,
@@ -1360,19 +1510,30 @@
       "sector": "BFSI",
       "existing_reg_email": "query.chfl@centrum.co.in",
       "existing_phone": "91-22-42159000",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Mehul Jatania",
+        "designation": "Chief Financial Officer (CFO)",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "mehul.jatania@centrum.co.in",
+        "fallback": "query.chfl@centrum.co.in / 91-22-42159000 (on file)",
+        "confidence": "medium",
+        "source": "LinkedIn, ZoomInfo, RocketReach, and Equilar ExecAtlas independently identify him as CFO of Centrum Housing Finance",
+        "notes": "Name/designation high confidence (4 sources agree). Email is an INFERRED firstname.lastname@centrum.co.in pattern based on a confirmed real address at the same company (mayank.jain@centrum.co.in) - his own email only shown masked, so exact address not independently verified; prefer on-file query.chfl@centrum.co.in for first outreach.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Mayank Jain",
+          "designation": "AVP - Legal, Company Secretary & Compliance Officer",
+          "mobile": null,
+          "email": "mayank.jain@centrum.co.in",
+          "fallback": null,
+          "confidence": "medium",
+          "source": "RocketReach and LinkedIn list him as CS & Compliance Officer at Centrum Housing Finance with this address",
+          "notes": "This confirmed address anchors the centrum.co.in firstname.lastname pattern used to infer Mehul Jatania's email above."
+        }
+      ]
     },
     {
       "row": 42,
@@ -1381,19 +1542,30 @@
       "sector": "Services",
       "existing_reg_email": "biswajitdascs@gnrchospitals.com",
       "existing_phone": "91-361-2227700",
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Anshul Khemka",
+        "designation": "Chief Financial Officer (CFO), GNRC Group",
         "mobile": null,
-        "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "email": "anshul.khemka@gnrchospitals.com",
+        "fallback": "91-361-2227700 (company landline, on file)",
+        "confidence": "high",
+        "source": "Official BWR credit rating letter dated 12 Apr 2022 addressed 'To, Mr. Anshul Khemka, CFO' (hosted on GNRC Ltd's own site); email corroborated on GNRC Telehealth affiliate privacy policy",
+        "notes": "Two independent GNRC-affiliated sources confirm name+role. Email appears under a 'Grievance Officer' listing on the affiliate site but is the same person/domain - treated as verified, not inferred.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Biswajit Das",
+          "designation": "Company Secretary & Compliance Officer (ACS 26429)",
+          "mobile": null,
+          "email": "biswajitdascs@gnrchospitals.com",
+          "fallback": "91-361-2227700",
+          "confidence": "high",
+          "source": "Existing on-file registered email pattern matches confirmed CS role; corroborated by public MCA/Zauba director listing and third-party bios",
+          "notes": "Confirms the existing_reg_email on file already belongs to the Company Secretary handling compliance/debt matters."
+        }
+      ]
     },
     {
       "row": 43,
@@ -1402,19 +1574,40 @@
       "sector": "Infrastructure & Construction",
       "existing_reg_email": "control@adarshdevelopers.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Akshay Kumar Chamarasa Kalyanshetti",
+        "designation": "Director & Company Secretary, Shreshta Infra Projects Pvt Ltd",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "control@adarshdevelopers.com (existing on-file reg email); Adarsh Developers group line +91 80 4134 3400",
+        "confidence": "medium",
+        "source": "MCA/Zauba company records for this CIN list him as Director and Company Secretary; group contact number sourced from Adarsh Developers public listings",
+        "notes": "Shreshta Infra Projects is an Adarsh Developers group SPV with no independent finance/IR desk found. No verified personal email/phone - no confirmed domain pattern to infer one.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Nischay Jayeshankar",
+          "designation": "Director, Shreshta Infra Projects Pvt Ltd / Deputy Managing Director, Adarsh Group",
+          "mobile": null,
+          "email": null,
+          "fallback": "control@adarshdevelopers.com",
+          "confidence": "medium",
+          "source": "MCA/Zauba director listing; LinkedIn and Adarsh Developers news page",
+          "notes": "Senior group decision-maker but not a finance-title role; masked email only confirms domain pattern, not usable."
+        },
+        {
+          "name": "Rajashekara S",
+          "designation": "Manager - Accounts & Finance, Adarsh Developers (group level)",
+          "mobile": null,
+          "email": null,
+          "fallback": "control@adarshdevelopers.com",
+          "confidence": "low",
+          "source": "RocketReach/ZoomInfo management listing for Adarsh Developers",
+          "notes": "Group-level finance manager, not confirmed as specific to the Shreshta Infra SPV; single weak secondary source only."
+        }
+      ]
     },
     {
       "row": 44,
@@ -1423,19 +1616,30 @@
       "sector": "Infrastructure & Construction",
       "existing_reg_email": "shivalayaco@yahoo.com",
       "existing_phone": null,
-      "status": "pending",
+      "status": "done",
       "contact": {
-        "name": null,
-        "designation": null,
+        "name": "Rajkumar Bansal",
+        "designation": "Chief Financial Officer (CFO), Shivalaya Construction Ltd",
         "mobile": null,
         "email": null,
-        "fallback": null,
-        "confidence": null,
-        "source": null,
-        "notes": null,
-        "run": null
+        "fallback": "compliance@sccgroup.co.in / +91 011 4508 8679 (verified Company Secretary & Compliance Officer line)",
+        "confidence": "high",
+        "source": "Shivalaya Construction Limited's Draft Red Herring Prospectus (DRHP) filed with SEBI names Rajkumar Bansal as CFO; corroborated by LinkedIn",
+        "notes": "CFO name/role verified via an official SEBI regulatory filing plus LinkedIn. Personal email only visible masked, left null; used verified compliance-desk contact from the same DRHP as fallback.",
+        "run": "2026-08-13-2100"
       },
-      "additional": []
+      "additional": [
+        {
+          "name": "Vijay Gupta",
+          "designation": "Company Secretary & Compliance Officer, Shivalaya Construction Ltd",
+          "mobile": null,
+          "email": "compliance@sccgroup.co.in",
+          "fallback": "+91 011 4508 8679",
+          "confidence": "high",
+          "source": "Shivalaya Construction Limited DRHP filed with SEBI, which lists him as CS & Compliance Officer with this phone and email",
+          "notes": "Officially designated compliance/investor contact point in the company's own regulatory filing."
+        }
+      ]
     },
     {
       "row": 45,
